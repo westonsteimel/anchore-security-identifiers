@@ -1,0 +1,9 @@
+[security]
+id = "ANCHORE-2026-9867"
+allocated = 2026-02-23T06:20:20.281343Z
+
+  [security.aliases]
+  cve = ["CVE-2026-27576"]
+  gcve = ["GCVE-0-2026-27576"]
+  github = ["GHSA-cxpw-2g23-2vgw"]
+  minimos = ["MINI-5vp2-wfm2-5rf4"]

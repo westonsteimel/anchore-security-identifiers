@@ -7,4 +7,19 @@ allocated = 2026-01-28T11:40:52.909109Z
   gcve = ["GCVE-0-2026-21721"]
   github = ["GHSA-jgfq-mgxg-4qwm"]
   redhat = ["RHSA-2026:2914", "RHSA-2026:2920"]
-  oraclelinux = ["ELSA-2026-2914"]
+  oraclelinux = ["ELSA-2026-2914", "ELSA-2026-2920"]
+  bitnami = ["BIT-grafana-2026-21721"]
+  minimos = [
+    "MINI-62w5-jxp3-7gh2",
+    "MINI-6r7p-5x33-6fx3",
+    "MINI-f33g-6cm6-mrj3",
+    "MINI-gq6m-rvcx-vmv2",
+    "MINI-hmp6-wm9g-9gqv",
+    "MINI-jjmq-x65x-24w6",
+    "MINI-mq3x-xr88-f53q",
+    "MINI-pj2j-8f53-4fx3",
+    "MINI-v559-73pm-3f7w",
+    "MINI-vg2j-qxgg-487v",
+    "MINI-w2j4-888g-ggqh",
+    "MINI-wvvv-rwqg-3fcc",
+  ]

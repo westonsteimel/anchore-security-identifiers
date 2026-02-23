@@ -8,3 +8,4 @@ allocated = 2026-02-13T12:52:05.295447Z
   github = ["GHSA-rp46-r563-jrc7"]
   chainguard = ["CGA-93cw-42v9-q34h"]
   snyk = ["SNYK-JAVA-ORGAPACHEAVRO-15282783"]
+  minimos = ["MINI-39c6-cxv8-xmr3"]

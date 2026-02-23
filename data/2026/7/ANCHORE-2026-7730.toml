@@ -9,3 +9,4 @@ allocated = 2026-02-11T15:02:07.410933Z
   chainguard = ["CGA-w7gh-42x2-jfqf"]
   bitnami = ["BIT-pillow-2026-25990"]
   ubuntu = ["USN-8047-1"]
+  debian = ["DSA-6147-1"]

@@ -9,3 +9,4 @@ allocated = 2026-02-09T16:59:18.203247Z
   echo = ["ECHO-56a4-40ae-0680"]
   ubuntu = ["USN-8043-1"]
   debian = ["DSA-6140-1"]
+  mageia = ["MGASA-2026-0045"]

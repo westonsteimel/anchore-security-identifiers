@@ -6,3 +6,5 @@ allocated = 2026-02-17T20:47:19.407844Z
   cve = ["CVE-2025-66614"]
   gcve = ["GCVE-0-2025-66614"]
   github = ["GHSA-fpj8-gq4v-p354"]
+  chainguard = ["CGA-wrh6-pmqv-3546"]
+  bitnami = ["BIT-tomcat-2025-66614"]

@@ -13,3 +13,8 @@ allocated = 2026-01-12T01:11:16.236902Z
   ]
   mageia = ["MGASA-2026-0015"]
   echo = ["ECHO-7ecb-7a01-33a3"]
+  amazonlinux = [
+    "ALAS2-2026-3171",
+    "ALAS2023-2026-1435",
+    "ALAS2FIREFOX-2026-051",
+  ]

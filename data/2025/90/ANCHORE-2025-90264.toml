@@ -14,7 +14,7 @@ allocated = 2025-10-30T18:05:38.711099Z
     "SUSE-SU-2025:4132-1",
     "SUSE-SU-2025:4301-1",
   ]
-  amazonlinux = ["ALAS2KERNEL-5.4-2025-114"]
+  amazonlinux = ["ALAS2KERNEL-5.10-2026-112", "ALAS2KERNEL-5.4-2025-114"]
   mageia = ["MGASA-2025-0309", "MGASA-2025-0310"]
   openeuler = [
     "OESA-2025-2765",

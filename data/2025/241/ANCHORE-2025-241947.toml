@@ -8,3 +8,4 @@ allocated = 2025-12-26T18:07:09.775460Z
   github = ["GHSA-8mm6-9q78-9fr6"]
   echo = ["ECHO-af9c-349d-c1c7"]
   debian = ["DLA-4476-1", "DSA-6127-1"]
+  amazonlinux = ["ALAS2023-2026-1430"]

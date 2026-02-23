@@ -17,6 +17,7 @@ allocated = 2025-10-30T18:05:38.538059Z
   ]
   suse = ["SUSE-SU-2025:4505-1"]
   amazonlinux = [
+    "ALAS2023-2026-1430",
     "ALAS2KERNEL-5.10-2026-111",
     "ALAS2KERNEL-5.15-2026-097",
     "ALAS2KERNEL-5.4-2026-117",

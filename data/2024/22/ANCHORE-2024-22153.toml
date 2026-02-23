@@ -59,6 +59,7 @@ allocated = 2025-10-15T14:17:06.537943Z
   ]
   amazonlinux = [
     "ALAS2-2024-2622",
+    "ALAS2-2026-3165",
     "ALAS2023-2025-836",
     "ALAS2KERNEL-5.10-2024-066",
     "ALAS2KERNEL-5.15-2024-053",

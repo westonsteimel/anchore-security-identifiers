@@ -1,0 +1,7 @@
+[security]
+id = "ANCHORE-2026-9974"
+allocated = 2026-02-23T06:26:25.476287Z
+
+  [security.aliases]
+  github = ["GHSA-fw89-7q74-q5p8"]
+  openssf_malicious_packages = ["MAL-2026-953"]

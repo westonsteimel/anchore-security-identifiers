@@ -6,3 +6,14 @@ allocated = 2026-02-20T06:13:29.118118Z
   cve = ["CVE-2026-26963"]
   gcve = ["GCVE-0-2026-26963"]
   github = ["GHSA-5r23-prx4-mqg3"]
+  bitnami = [
+    "BIT-cilium-2026-26963",
+    "BIT-cilium-operator-2026-26963",
+    "BIT-hubble-relay-2026-26963",
+  ]
+  minimos = [
+    "MINI-92x6-8jwj-p6mq",
+    "MINI-gqcj-9cqm-67g4",
+    "MINI-hcf8-hc8p-qw98",
+    "MINI-rwxh-rp9m-c6mg",
+  ]

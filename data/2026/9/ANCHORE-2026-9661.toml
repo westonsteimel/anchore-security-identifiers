@@ -4,3 +4,5 @@ allocated = 2026-02-20T06:13:34.607561Z
 
   [security.aliases]
   github = ["GHSA-v7m3-fpcr-h7m2"]
+  cve = ["CVE-2026-27206"]
+  gcve = ["GCVE-0-2026-27206"]

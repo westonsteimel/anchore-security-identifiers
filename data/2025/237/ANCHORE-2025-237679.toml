@@ -6,7 +6,7 @@ allocated = 2025-12-04T16:44:59.884725Z
   cve = ["CVE-2025-40244"]
   gcve = ["GCVE-0-2025-40244"]
   github = ["GHSA-38x9-7hc9-22jf"]
-  amazonlinux = ["ALAS2KERNEL-5.4-2025-114"]
+  amazonlinux = ["ALAS2KERNEL-5.10-2026-112", "ALAS2KERNEL-5.4-2025-114"]
   ubuntu = [
     "USN-8029-1",
     "USN-8029-2",

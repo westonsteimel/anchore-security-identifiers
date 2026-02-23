@@ -12,7 +12,7 @@ allocated = 2026-01-19T18:46:30.257715Z
     "SUSE-SU-2026:0421-1",
     "SUSE-SU-2026:0449-1",
   ]
-  amazonlinux = ["ALAS2023-2026-1379"]
+  amazonlinux = ["ALAS2-2026-3162", "ALAS2023-2026-1379"]
   oraclelinux = ["ELSA-2026-2048", "ELSA-2026-2081", "ELSA-2026-2222"]
   redhat = [
     "RHSA-2026:2048",
@@ -23,3 +23,4 @@ allocated = 2026-01-19T18:46:30.257715Z
   ]
   ubuntu = ["USN-8004-1"]
   almalinux = ["ALSA-2026:2048", "ALSA-2026:2081", "ALSA-2026:2222"]
+  mageia = ["MGASA-2026-0046"]

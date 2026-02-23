@@ -6,3 +6,4 @@ allocated = 2026-02-16T22:48:17.494142Z
   cve = ["CVE-2026-2474"]
   gcve = ["GCVE-0-2026-2474"]
   github = ["GHSA-mwq4-j679-7frp"]
+  cpan = ["CPANSA-Crypt-URandom-2026-2474"]

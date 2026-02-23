@@ -6,3 +6,16 @@ allocated = 2026-02-12T11:59:25.752671Z
   cve = ["CVE-2026-21722"]
   gcve = ["GCVE-0-2026-21722"]
   github = ["GHSA-3f33-44xm-29m7"]
+  bitnami = ["BIT-grafana-2026-21722"]
+  minimos = [
+    "MINI-3c83-297m-p685",
+    "MINI-66j8-3chc-q3vv",
+    "MINI-83rc-w8mf-wv84",
+    "MINI-87cr-77jr-w9qq",
+    "MINI-9v99-3cxj-c287",
+    "MINI-g2xg-gcx5-f872",
+    "MINI-hgm5-hw7h-c6xq",
+    "MINI-q7ch-wgpf-3rw9",
+    "MINI-qmc6-g289-4g6m",
+    "MINI-rvr8-g26v-mmvx",
+  ]

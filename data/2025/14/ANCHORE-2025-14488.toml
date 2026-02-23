@@ -17,6 +17,6 @@ allocated = 2025-10-15T14:17:29.376870Z
   ]
   ubuntu = ["USN-7490-1", "USN-7490-3"]
   openeuler = ["OESA-2025-1460", "openEuler-SA-2025-1460"]
-  amazonlinux = ["ALAS2023-2025-941"]
+  amazonlinux = ["ALAS2023-2025-941", "ALAS2023-2026-1439"]
   oraclelinux = ["ELSA-2025-8292"]
   mageia = ["MGASA-2025-0261"]

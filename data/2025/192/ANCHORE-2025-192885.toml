@@ -10,6 +10,7 @@ allocated = 2025-11-12T10:58:02.811744Z
   amazonlinux = [
     "ALAS2023-2025-1253",
     "ALAS2023-2025-1254",
+    "ALAS2KERNEL-5.10-2026-112",
     "ALAS2KERNEL-5.4-2025-114",
   ]
   oraclelinux = ["ELSA-2025-28048", "ELSA-2025-28049"]

@@ -1,0 +1,8 @@
+[security]
+id = "ANCHORE-2026-9919"
+allocated = 2026-02-23T06:20:20.325087Z
+
+  [security.aliases]
+  cve = ["CVE-2026-2940"]
+  gcve = ["GCVE-0-2026-2940"]
+  github = ["GHSA-cv79-qfjv-wpvr"]

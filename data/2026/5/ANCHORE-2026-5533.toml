@@ -19,3 +19,10 @@ allocated = 2026-01-30T08:48:13.262166Z
     "openEuler-SA-2026-1298",
   ]
   ubuntu = ["USN-8022-1", "USN-8022-2", "USN-8023-1"]
+  amazonlinux = [
+    "ALAS2-2026-3170",
+    "ALAS2-2026-3171",
+    "ALAS2023-2026-1424",
+    "ALAS2023-2026-1425",
+    "ALAS2FIREFOX-2026-051",
+  ]

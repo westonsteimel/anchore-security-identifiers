@@ -6,3 +6,5 @@ allocated = 2026-02-19T06:15:46.435681Z
   cve = ["CVE-2026-2649"]
   gcve = ["GCVE-0-2026-2649"]
   github = ["GHSA-m568-c33v-g59q"]
+  debian = ["DSA-6146-1"]
+  opensuse = ["openSUSE-SU-2026:20258-1"]
