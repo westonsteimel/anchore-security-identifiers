@@ -24,3 +24,4 @@ allocated = 2026-01-28T11:40:52.909109Z
     "MINI-wvvv-rwqg-3fcc",
   ]
   almalinux = ["ALSA-2026:2914", "ALSA-2026:2920"]
+  chainguard = ["CGA-gpv2-2m7j-7629"]
