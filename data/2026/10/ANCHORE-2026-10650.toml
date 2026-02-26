@@ -1,0 +1,7 @@
+[security]
+id = "ANCHORE-2026-10650"
+allocated = 2026-02-26T06:15:51.509949Z
+
+  [security.aliases]
+  github = ["GHSA-2phg-qgmm-r638"]
+  go = ["GO-2026-4548"]

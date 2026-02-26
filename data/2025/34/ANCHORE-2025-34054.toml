@@ -10,3 +10,4 @@ allocated = 2025-10-15T14:17:43.285251Z
   minimos = ["MINI-9wj9-v876-v8x9"]
   echo = ["ECHO-0bd8-fe65-a70f"]
   amazonlinux = ["ALAS2023-2025-1351"]
+  ubuntu = ["USN-8062-1"]

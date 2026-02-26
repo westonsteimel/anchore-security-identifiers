@@ -6,3 +6,4 @@ allocated = 2025-10-15T14:15:37.948172Z
   cve = ["CVE-2019-10173"]
   gcve = ["GCVE-0-2019-10173"]
   github = ["GHSA-hf23-9pf7-388p"]
+  chainguard = ["CGA-p6x5-crfg-crcw"]

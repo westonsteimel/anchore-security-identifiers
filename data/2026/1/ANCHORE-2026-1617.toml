@@ -9,3 +9,4 @@ allocated = 2026-01-08T10:45:02.225944Z
   mageia = ["MGASA-2026-0003"]
   minimos = ["MINI-c73v-v84q-fmgc"]
   amazonlinux = ["ALAS2023-2026-1375"]
+  ubuntu = ["USN-8062-1"]

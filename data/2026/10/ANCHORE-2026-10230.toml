@@ -6,3 +6,4 @@ allocated = 2026-02-25T06:17:05.827922Z
   cve = ["CVE-2026-2779"]
   gcve = ["GCVE-0-2026-2779"]
   github = ["GHSA-94rx-4fcc-c849"]
+  debian = ["DSA-6148-1"]

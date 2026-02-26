@@ -1,0 +1,9 @@
+[security]
+id = "ANCHORE-2026-10479"
+allocated = 2026-02-26T06:15:46.266193Z
+
+  [security.aliases]
+  cve = ["CVE-2025-50180"]
+  gcve = ["GCVE-0-2025-50180"]
+  github = ["GHSA-3c9r-837r-qqm4"]
+  go = ["GO-2026-4545"]

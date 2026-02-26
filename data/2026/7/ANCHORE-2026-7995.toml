@@ -18,3 +18,4 @@ allocated = 2026-02-12T14:59:25.729643Z
   ]
   bitnami = ["BIT-postgresql-2026-2005"]
   mageia = ["MGASA-2026-0041"]
+  chainguard = ["CGA-5c8v-3rp3-97q7"]
