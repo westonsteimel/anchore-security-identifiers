@@ -7,3 +7,5 @@ allocated = 2026-02-25T06:17:05.814244Z
   gcve = ["GCVE-0-2026-2763"]
   github = ["GHSA-qmr7-46p8-4c5r"]
   debian = ["DSA-6148-1"]
+  redhat = ["RHSA-2026:3338", "RHSA-2026:3339", "RHSA-2026:3361"]
+  opensuse = ["openSUSE-SU-2026:10248-1"]

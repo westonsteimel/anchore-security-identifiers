@@ -6,3 +6,4 @@ allocated = 2026-02-10T20:52:25.883375Z
   cve = ["CVE-2026-25613"]
   gcve = ["GCVE-0-2026-25613"]
   github = ["GHSA-4x52-g43x-cfxm"]
+  bitnami = ["BIT-mongodb-2026-25613"]

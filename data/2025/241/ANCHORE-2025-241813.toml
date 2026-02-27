@@ -32,7 +32,7 @@ allocated = 2025-12-23T22:43:36.001888Z
     "RHSA-2026:1590",
     "RHSA-2026:1591",
   ]
-  oraclelinux = ["ELSA-2026-0914", "ELSA-2026-1574"]
+  oraclelinux = ["ELSA-2026-0914", "ELSA-2026-1574", "ELSA-2026-1590"]
   almalinux = ["ALSA-2026:0914", "ALSA-2026:1574"]
   amazonlinux = ["ALAS2GIMP-2026-010"]
   suse = ["SUSE-SU-2026:0313-1"]

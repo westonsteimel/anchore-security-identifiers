@@ -7,4 +7,4 @@ allocated = 2025-10-15T14:17:35.396229Z
   gcve = ["GCVE-0-2022-49943"]
   github = ["GHSA-6cpq-cwgw-5g63"]
   redhat = ["RHSA-2023:2458"]
-  suse = ["SUSE-SU-2025:02264-1"]
+  suse = ["SUSE-SU-2025:02264-1", "SUSE-SU-2026:0617-1"]

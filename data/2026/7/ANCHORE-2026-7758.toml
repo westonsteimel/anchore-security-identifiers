@@ -6,3 +6,4 @@ allocated = 2026-02-11T17:01:14.733551Z
   cve = ["CVE-2026-1837"]
   gcve = ["GCVE-0-2026-1837"]
   github = ["GHSA-76gx-97cq-65f5"]
+  suse = ["SUSE-SU-2026:0648-1"]

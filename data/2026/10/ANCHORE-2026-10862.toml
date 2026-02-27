@@ -1,0 +1,6 @@
+[security]
+id = "ANCHORE-2026-10862"
+allocated = 2026-02-27T06:10:17.870886Z
+
+  [security.aliases]
+  github = ["GHSA-mqpr-49jj-32rc"]

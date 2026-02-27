@@ -474,7 +474,7 @@ allocated = 2025-10-15T14:17:26.890248Z
     "RHSA-2025:8267",
     "RHSA-2026:1536",
   ]
-  suse = ["SUSE-SU-2025:1332-1"]
+  suse = ["SUSE-SU-2025:1332-1", "SUSE-SU-2026:0641-1"]
   opensuse = [
     "openSUSE-SU-2025:14937-1",
     "openSUSE-SU-2025:14954-1",
@@ -483,6 +483,7 @@ allocated = 2025-10-15T14:17:26.890248Z
     "openSUSE-SU-2025:14989-1",
     "openSUSE-SU-2025:14990-1",
     "openSUSE-SU-2025:15037-1",
+    "openSUSE-SU-2026:10255-1",
   ]
   minimos = [
     "MINI-242m-f8jj-h7jx",

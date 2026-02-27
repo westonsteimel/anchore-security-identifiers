@@ -1,0 +1,9 @@
+[security]
+id = "ANCHORE-2026-10801"
+allocated = 2026-02-27T06:10:13.552678Z
+
+  [security.aliases]
+  cve = ["CVE-2021-4456"]
+  gcve = ["GCVE-0-2021-4456"]
+  github = ["GHSA-6xjh-63ff-92mc"]
+  cpan = ["CPANSA-Net-CIDR-2021-4456"]
