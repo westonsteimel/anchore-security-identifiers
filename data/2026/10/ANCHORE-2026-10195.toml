@@ -7,3 +7,4 @@ allocated = 2026-02-25T06:17:05.798412Z
   gcve = ["GCVE-0-2024-56373"]
   github = ["GHSA-r837-hpv7-pc2f"]
   bitnami = ["BIT-airflow-2024-56373"]
+  chainguard = ["CGA-m2x5-7hr5-74p9"]

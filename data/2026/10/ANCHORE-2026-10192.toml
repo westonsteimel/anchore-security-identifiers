@@ -9,6 +9,7 @@ allocated = 2026-02-25T06:17:05.795664Z
   chainguard = ["CGA-9996-3fqh-33r8"]
   go = ["GO-2026-4550"]
   minimos = [
+    "MINI-2669-w7vj-2696",
     "MINI-2frf-gcrh-jxx7",
     "MINI-2mj7-m326-88hw",
     "MINI-343g-g8p7-8gx9",
@@ -22,6 +23,7 @@ allocated = 2026-02-25T06:17:05.795664Z
     "MINI-66v4-m7gg-fp29",
     "MINI-6gj2-9c5p-xvpg",
     "MINI-6mjq-vhxh-gv45",
+    "MINI-6pr8-9gfj-45fg",
     "MINI-7845-2882-jwq5",
     "MINI-89vc-5j92-h7x6",
     "MINI-8fmj-6775-7rrh",
@@ -54,12 +56,14 @@ allocated = 2026-02-25T06:17:05.795664Z
     "MINI-qx9p-2hhm-4m6p",
     "MINI-qxxw-f78q-89rj",
     "MINI-r4rq-fjx3-3rv9",
+    "MINI-r8w4-hwh4-vrm6",
     "MINI-rcrj-8cr8-wp67",
     "MINI-rm6w-f56j-v82w",
     "MINI-rpww-x85c-wrvh",
     "MINI-rrjw-4hwm-xx5f",
     "MINI-v6vg-ggjj-g6gf",
     "MINI-v989-9prj-jm7f",
+    "MINI-vh63-r6w5-q6c7",
     "MINI-xmcc-wvh9-vj32",
     "MINI-xwc3-6fr9-h8cx",
   ]

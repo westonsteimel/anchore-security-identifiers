@@ -4,3 +4,4 @@ allocated = 2026-02-20T06:19:28.736609Z
 
   [security.aliases]
   openssf_malicious_packages = ["MAL-2026-944"]
+  github = ["GHSA-cq58-2656-w9f6"]

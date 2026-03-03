@@ -9,14 +9,18 @@ allocated = 2026-02-12T11:59:25.752671Z
   bitnami = ["BIT-grafana-2026-21722"]
   minimos = [
     "MINI-3c83-297m-p685",
+    "MINI-5fxf-xwm8-h2wh",
     "MINI-66j8-3chc-q3vv",
     "MINI-83rc-w8mf-wv84",
     "MINI-87cr-77jr-w9qq",
+    "MINI-9g23-wj8x-g557",
     "MINI-9v99-3cxj-c287",
     "MINI-g2xg-gcx5-f872",
     "MINI-hgm5-hw7h-c6xq",
+    "MINI-m7c4-j64x-fcvm",
     "MINI-q7ch-wgpf-3rw9",
     "MINI-qmc6-g289-4g6m",
     "MINI-rvr8-g26v-mmvx",
+    "MINI-xvvj-8pvr-7mpf",
   ]
   chainguard = ["CGA-x9vm-696f-77hq"]

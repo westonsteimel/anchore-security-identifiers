@@ -10,6 +10,7 @@ allocated = 2026-01-28T11:40:52.909109Z
   oraclelinux = ["ELSA-2026-2914", "ELSA-2026-2920"]
   bitnami = ["BIT-grafana-2026-21721"]
   minimos = [
+    "MINI-294m-235h-5gcf",
     "MINI-62w5-jxp3-7gh2",
     "MINI-6r7p-5x33-6fx3",
     "MINI-f33g-6cm6-mrj3",
@@ -22,6 +23,7 @@ allocated = 2026-01-28T11:40:52.909109Z
     "MINI-vg2j-qxgg-487v",
     "MINI-w2j4-888g-ggqh",
     "MINI-wvvv-rwqg-3fcc",
+    "MINI-xx82-7cfg-4wjm",
   ]
   almalinux = ["ALSA-2026:2914", "ALSA-2026:2920"]
   chainguard = ["CGA-gpv2-2m7j-7629"]

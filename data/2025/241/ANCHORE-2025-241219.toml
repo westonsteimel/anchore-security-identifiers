@@ -9,6 +9,7 @@ allocated = 2025-12-18T22:43:18.605641Z
   bitnami = ["BIT-elk-2025-68389", "BIT-kibana-2025-68389"]
   chainguard = ["CGA-qmwx-mc75-wv4q"]
   minimos = [
+    "MINI-2fmc-89x6-9r5m",
     "MINI-2j72-hh8c-937j",
     "MINI-4gjg-67wc-xqxr",
     "MINI-cjp4-56f2-x95x",

@@ -7,3 +7,4 @@ allocated = 2026-02-24T06:17:05.456119Z
   gcve = ["GCVE-0-2025-67733"]
   bitnami = ["BIT-valkey-2025-67733"]
   oraclelinux = ["ELSA-2026-3443"]
+  redhat = ["RHSA-2026:3443", "RHSA-2026:3507"]

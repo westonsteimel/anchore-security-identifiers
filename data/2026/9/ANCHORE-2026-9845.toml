@@ -6,3 +6,4 @@ allocated = 2026-02-23T06:20:20.255027Z
   cve = ["CVE-2026-26045"]
   gcve = ["GCVE-0-2026-26045"]
   github = ["GHSA-ggxq-2mg9-8966"]
+  bitnami = ["BIT-moodle-2026-26045"]
