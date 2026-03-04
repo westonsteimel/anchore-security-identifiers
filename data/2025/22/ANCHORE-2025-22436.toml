@@ -419,14 +419,17 @@ allocated = 2025-10-15T14:17:34.975341Z
   ]
   ubuntu = ["USN-7574-1"]
   minimos = [
+    "MINI-2phj-fpc7-249h",
     "MINI-342x-5xwm-rrp9",
     "MINI-34pc-cpjv-fxvg",
     "MINI-3696-qfp3-376v",
     "MINI-39w4-85f9-4qmw",
     "MINI-3gvj-h4hg-558c",
     "MINI-3mfw-8gjc-hw4h",
+    "MINI-4vcr-4rgf-x5jp",
     "MINI-624v-gh8c-wfmp",
     "MINI-6fmf-qxh4-8pww",
+    "MINI-6gg3-x7c5-fqqc",
     "MINI-6pcx-cqr9-hxw7",
     "MINI-7w7f-pxxm-678c",
     "MINI-8mj3-274f-mjqj",

@@ -21,3 +21,5 @@ allocated = 2026-02-24T06:17:05.497264Z
     "openEuler-SA-2026-1456",
     "openEuler-SA-2026-1457",
   ]
+  chainguard = ["CGA-ch83-5f92-39m3"]
+  minimos = ["MINI-v3wg-xc33-gff7"]

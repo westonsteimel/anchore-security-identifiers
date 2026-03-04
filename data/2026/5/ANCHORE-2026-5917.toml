@@ -9,8 +9,12 @@ allocated = 2026-02-02T23:29:56.717188Z
   gcve = ["GCVE-0-2026-25518"]
   minimos = [
     "MINI-334r-v2v4-mvqr",
+    "MINI-4hp9-7xj7-88wj",
+    "MINI-fqq8-g4c8-jw99",
+    "MINI-fwx2-p2gv-9gff",
     "MINI-j5wr-8c7v-693q",
     "MINI-p3x4-m78v-38fm",
+    "MINI-pr78-2365-c7rh",
     "MINI-vp93-xx9v-hwqv",
   ]
   bitnami = ["BIT-cert-manager-2026-25518"]

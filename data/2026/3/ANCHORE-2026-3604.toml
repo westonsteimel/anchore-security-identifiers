@@ -10,11 +10,13 @@ allocated = 2026-01-20T22:46:56.402497Z
   chainguard = ["CGA-gm5q-f267-59gj"]
   bitnami = ["BIT-node-2025-59465", "BIT-node-min-2025-59465"]
   minimos = [
+    "MINI-68mv-3q5m-hq2m",
     "MINI-8333-ggg3-6vwc",
     "MINI-9v7j-p2w9-8fvj",
     "MINI-m6vj-v627-r859",
     "MINI-m84f-3g4p-2v3m",
     "MINI-r4vm-xh72-wv8w",
+    "MINI-w3cf-mxh4-xrj3",
   ]
   openeuler = [
     "OESA-2026-1218",

@@ -28,3 +28,4 @@ allocated = 2026-01-28T11:40:52.693686Z
   debian = ["DLA-4455-1"]
   amazonlinux = ["ALAS2023-2026-1437", "ALAS2023-2026-1444"]
   suse = ["SUSE-SU-2026:0642-1"]
+  minimos = ["MINI-h64f-6c6m-vr4w", "MINI-xq7g-j9m9-24w7"]

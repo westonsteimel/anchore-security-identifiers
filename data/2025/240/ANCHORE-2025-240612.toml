@@ -19,6 +19,7 @@ allocated = 2025-12-16T20:45:05.698234Z
     "MINI-2qxc-6647-jh58",
     "MINI-7j94-rcmf-27r7",
     "MINI-9xh9-7mfr-rpf9",
+    "MINI-gr58-6cfc-g6c8",
   ]
   ubuntu = ["USN-7999-1"]
   amazonlinux = ["ALAS2023-2026-1411", "ALAS2023-2026-1415"]

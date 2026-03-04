@@ -19,7 +19,7 @@ allocated = 2025-10-15T14:17:37.950092Z
     "RHSA-2025:16861",
   ]
   ubuntu = ["USN-7691-1", "USN-7691-2"]
-  minimos = ["MINI-jh87-w9wv-55q4"]
+  minimos = ["MINI-jh87-w9wv-55q4", "MINI-xjhm-6mqf-3vgv"]
   openeuler = ["OESA-2025-2085", "openEuler-SA-2025-2085"]
   oraclelinux = [
     "ELSA-2025-15699",

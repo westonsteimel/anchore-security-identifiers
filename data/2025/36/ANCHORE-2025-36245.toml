@@ -9,6 +9,7 @@ allocated = 2025-10-15T14:17:44.824656Z
   ubuntu = ["USN-7784-1", "USN-7960-1"]
   minimos = [
     "MINI-g4w3-gvr3-h232",
+    "MINI-h6mq-42gm-4qhr",
     "MINI-jcj8-ph3h-wxv8",
     "MINI-p8fx-9m2q-qhr9",
     "MINI-wr88-5f8m-8fhq",

@@ -8,6 +8,7 @@ allocated = 2025-10-15T14:17:46.539461Z
   github = ["GHSA-q8g5-rw97-f55h", "GHSA-w3q9-fxm7-j8fq"]
   minimos = [
     "MINI-25jh-pjm2-6752",
+    "MINI-477f-p72h-w787",
     "MINI-6jh7-6wvj-pg8h",
     "MINI-v524-wp24-xjm7",
     "MINI-x47v-9gj3-63f3",

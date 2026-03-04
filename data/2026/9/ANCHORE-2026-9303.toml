@@ -6,7 +6,10 @@ allocated = 2026-02-19T06:15:51.355834Z
   github = ["GHSA-wx95-c6cv-8532"]
   chainguard = ["CGA-wm7m-2wf3-587h"]
   minimos = [
+    "MINI-4549-7qmf-g294",
     "MINI-c83f-g7m4-398w",
     "MINI-hm8p-w4ch-84c7",
+    "MINI-hvvc-hm27-68r9",
+    "MINI-j7c6-m5gc-pfjm",
     "MINI-xvfq-jxw4-mjvw",
   ]

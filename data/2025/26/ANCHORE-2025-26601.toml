@@ -11,4 +11,8 @@ allocated = 2025-10-15T14:17:37.930430Z
     "CGA-pw7w-mhm8-c867",
     "CGA-qrrr-w9gq-q8h7",
   ]
-  minimos = ["MINI-c2rh-2374-c5wm", "MINI-x78p-v9fr-wgxf"]
+  minimos = [
+    "MINI-c2rh-2374-c5wm",
+    "MINI-pmxq-rxjw-8q4x",
+    "MINI-x78p-v9fr-wgxf",
+  ]

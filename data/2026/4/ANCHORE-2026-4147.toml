@@ -9,6 +9,7 @@ allocated = 2026-01-22T14:47:47.354080Z
   chainguard = ["CGA-745g-4mvm-hfg5"]
   bitnami = ["BIT-gitlab-2025-13927"]
   minimos = [
+    "MINI-2cjp-jw7m-25wc",
     "MINI-2hgg-77pr-2hfr",
     "MINI-2x7w-76mj-mp5j",
     "MINI-4788-qpff-9vq7",
@@ -18,7 +19,22 @@ allocated = 2026-01-22T14:47:47.354080Z
     "MINI-69wh-m9wr-8qwf",
     "MINI-6qcm-fcvr-5g8j",
     "MINI-6wrv-gc23-6qx7",
+    "MINI-72h8-fjrf-crh3",
+    "MINI-7vv8-r42x-cpqp",
+    "MINI-8cvc-49m9-vw8r",
+    "MINI-c35j-9r2j-vvvm",
+    "MINI-fc7p-78cw-7wvf",
     "MINI-fcp4-pj43-xfhp",
+    "MINI-fh88-3vvf-f8h7",
     "MINI-hw26-44q6-3v93",
+    "MINI-m3fx-qxh6-vwvp",
     "MINI-mph2-p6qh-xppw",
+    "MINI-pcm9-hcr6-893q",
+    "MINI-pm7c-fhrr-m3cq",
+    "MINI-rrmp-3256-r6j3",
+    "MINI-vjqm-gpfw-xr2x",
+    "MINI-w28f-933c-89jq",
+    "MINI-w7v7-qwmj-mm59",
+    "MINI-xh63-mp9v-6h64",
+    "MINI-xmwx-2wjq-678q",
   ]

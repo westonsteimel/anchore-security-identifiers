@@ -8,6 +8,8 @@ allocated = 2026-01-28T11:40:52.908304Z
   github = ["GHSA-m4rj-q4ph-fr4v"]
   bitnami = ["BIT-grafana-2026-21720"]
   minimos = [
+    "MINI-2chx-2fp4-x7hx",
+    "MINI-3fwr-w8hj-3c9m",
     "MINI-7hcq-3q76-94g5",
     "MINI-8gqf-6545-p7cp",
     "MINI-f8p3-vcvj-4544",

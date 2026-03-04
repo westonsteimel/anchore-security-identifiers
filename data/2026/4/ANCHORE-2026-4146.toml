@@ -8,8 +8,16 @@ allocated = 2026-01-22T14:47:47.353248Z
   github = ["GHSA-gr75-mcwq-hxv5"]
   bitnami = ["BIT-gitlab-2026-0723"]
   minimos = [
+    "MINI-2f49-4rxc-7wrx",
     "MINI-6j98-frf9-hm24",
+    "MINI-7p5w-q455-4fg4",
+    "MINI-9xvw-6g6r-vfjf",
+    "MINI-g3hv-3r6x-54pc",
     "MINI-gp9v-cj3w-q7p2",
+    "MINI-h69w-87hj-jcq7",
     "MINI-hw72-845j-jv8m",
+    "MINI-pg4q-m3g3-8498",
     "MINI-r7rj-wqph-g8m9",
+    "MINI-vcvc-q658-4r8j",
+    "MINI-xr4x-28gr-8pvh",
   ]

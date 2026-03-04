@@ -8,3 +8,4 @@ allocated = 2025-10-15T14:14:58.894759Z
   github = ["GHSA-vpxf-9vr8-jf96"]
   mageia = ["MGASA-2015-0130"]
   redhat = ["RHBA-2016:1500"]
+  minimos = ["MINI-cgx2-55cg-7c7q", "MINI-p2hf-p6v4-78qq"]

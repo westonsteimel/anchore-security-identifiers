@@ -8,6 +8,7 @@ allocated = 2025-11-21T01:04:14.197559Z
   gcve = ["GCVE-0-2025-64751"]
   minimos = [
     "MINI-427m-r9j4-3x7v",
+    "MINI-697w-qjx6-wh92",
     "MINI-6jp8-qrhp-5x6j",
     "MINI-8wwm-hpfm-7f78",
     "MINI-8xxm-hxfr-f35g",

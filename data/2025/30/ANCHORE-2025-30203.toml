@@ -54,7 +54,9 @@ allocated = 2025-10-15T14:17:40.570340Z
   minimos = [
     "MINI-2hv6-wxj6-5gr8",
     "MINI-77pv-884f-4vxr",
+    "MINI-c7hx-2v4g-457j",
     "MINI-gr55-w3v3-x59r",
+    "MINI-q893-q34w-5643",
   ]
   echo = ["ECHO-b8e7-d561-1eb4"]
   openeuler = [

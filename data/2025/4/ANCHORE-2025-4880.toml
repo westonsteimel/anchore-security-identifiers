@@ -15,3 +15,4 @@ allocated = 2025-10-15T14:17:22.779122Z
   amazonlinux = ["ALAS2023-2025-842", "ALAS2NGINX1-2025-008"]
   oraclelinux = ["ELSA-2025-7331"]
   mageia = ["MGASA-2025-0051"]
+  chainguard = ["CGA-4r5r-c8vr-87j5"]

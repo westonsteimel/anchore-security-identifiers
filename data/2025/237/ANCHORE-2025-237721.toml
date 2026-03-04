@@ -7,6 +7,7 @@ allocated = 2025-12-04T20:44:09.760682Z
   gcve = ["GCVE-0-2025-65637"]
   github = ["GHSA-4f99-4q7p-p3gh"]
   minimos = [
+    "MINI-3q7x-p8pc-v6vc",
     "MINI-8cv7-jqv7-cmmj",
     "MINI-9gfm-wq55-9v29",
     "MINI-fg7j-v7m6-4m79",
@@ -52,6 +53,7 @@ allocated = 2025-12-04T20:44:09.760682Z
     "RHSA-2026:2687",
     "RHSA-2026:2688",
     "RHSA-2026:2746",
+    "RHSA-2026:2973",
     "RHSA-2026:3428",
   ]
   openeuler = [

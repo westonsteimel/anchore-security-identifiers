@@ -8,4 +8,9 @@ allocated = 2026-01-20T22:46:56.457162Z
   github = ["GHSA-jjjh-9j5x-gr7x"]
   openeuler = ["OESA-2026-1196", "openEuler-SA-2026-1196"]
   ubuntu = ["USN-7994-1", "USN-8006-1"]
-  minimos = ["MINI-pg76-26xq-vf5c"]
+  minimos = [
+    "MINI-3g85-4gr7-7jg2",
+    "MINI-5rf6-6f3f-j7xp",
+    "MINI-g5pp-r957-3cr7",
+    "MINI-pg76-26xq-vf5c",
+  ]

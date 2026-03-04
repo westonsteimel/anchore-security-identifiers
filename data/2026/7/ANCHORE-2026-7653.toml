@@ -7,13 +7,18 @@ allocated = 2026-02-11T12:57:42.378475Z
   gcve = ["GCVE-0-2026-1282"]
   github = ["GHSA-8f2f-6w9m-mg42"]
   minimos = [
+    "MINI-3x94-qqc3-gf5m",
     "MINI-4vqv-wjgp-cg7j",
     "MINI-5mch-42mj-5q8j",
     "MINI-5wgq-4938-28q8",
     "MINI-762h-55fj-g9g4",
     "MINI-7c3r-9x59-jw43",
+    "MINI-c6j9-273j-g584",
     "MINI-hqfh-4976-fvf8",
+    "MINI-m6xw-26g4-v45c",
     "MINI-mm6v-4xv8-rf3v",
+    "MINI-pwhw-f23g-9m37",
+    "MINI-vxxm-2rqr-645m",
   ]
   chainguard = ["CGA-xp4j-p37r-xpfv"]
   bitnami = ["BIT-gitlab-2026-1282"]

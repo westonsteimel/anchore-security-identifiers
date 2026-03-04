@@ -9,6 +9,7 @@ allocated = 2026-02-18T15:02:14.659620Z
   bitnami = ["BIT-jenkins-2026-27099"]
   minimos = [
     "MINI-32fx-4rqj-fg3x",
+    "MINI-6x9m-wmr9-vpc3",
     "MINI-9vvp-vqwm-cj8j",
     "MINI-p94v-6qx3-mq7x",
     "MINI-qv89-j92h-3r3h",

@@ -6,5 +6,5 @@ allocated = 2025-10-30T18:05:38.545364Z
   cve = ["CVE-2025-12390"]
   gcve = ["GCVE-0-2025-12390"]
   github = ["GHSA-rg35-5v25-mqvp"]
-  minimos = ["MINI-3mx9-5g5m-mf9x"]
+  minimos = ["MINI-3mx9-5g5m-mf9x", "MINI-r2p7-f2gx-7gh6"]
   chainguard = ["CGA-m6jm-qxw7-gc4w"]

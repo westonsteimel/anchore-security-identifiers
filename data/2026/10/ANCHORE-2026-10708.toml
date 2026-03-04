@@ -6,3 +6,10 @@ allocated = 2026-02-27T06:10:13.473738Z
   cve = ["CVE-2026-26935"]
   gcve = ["GCVE-0-2026-26935"]
   github = ["GHSA-5rmp-wvrc-g6g5"]
+  bitnami = ["BIT-elk-2026-26935", "BIT-kibana-2026-26935"]
+  minimos = [
+    "MINI-6555-q25x-799j",
+    "MINI-6x7f-7pf9-7cfx",
+    "MINI-9vxg-5gcp-945c",
+    "MINI-mmwp-3mwg-ch4q",
+  ]

@@ -6,3 +6,8 @@ allocated = 2026-01-28T11:40:52.499430Z
   cve = ["CVE-2025-22234"]
   gcve = ["GCVE-0-2025-22234"]
   github = ["GHSA-vqxh-445g-37fc"]
+  minimos = [
+    "MINI-5h5q-p2m5-f2gc",
+    "MINI-7mf5-6q3c-8rh6",
+    "MINI-8794-24gr-ffq5",
+  ]

@@ -9,6 +9,7 @@ allocated = 2025-10-15T14:17:45.225037Z
   bitnami = ["BIT-argo-cd-2025-55191"]
   minimos = [
     "MINI-79fx-pg7f-237j",
+    "MINI-7fmc-mxfv-p4v5",
     "MINI-7jh6-3h2x-8j5h",
     "MINI-98g5-hxqp-chjh",
     "MINI-gfhg-6rcm-x9f7",

@@ -7,3 +7,4 @@ allocated = 2026-02-10T20:52:25.881269Z
   gcve = ["GCVE-0-2026-25609"]
   github = ["GHSA-57mf-76f3-g3qh"]
   bitnami = ["BIT-mongodb-2026-25609"]
+  minimos = ["MINI-7cpw-85j5-jw2p", "MINI-qrrj-gp5h-hfh8"]

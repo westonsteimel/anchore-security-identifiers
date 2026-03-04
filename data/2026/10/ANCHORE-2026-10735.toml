@@ -5,3 +5,4 @@ allocated = 2026-02-27T06:10:13.496655Z
   [security.aliases]
   cve = ["CVE-2026-27162"]
   gcve = ["GCVE-0-2026-27162"]
+  bitnami = ["BIT-discourse-2026-27162"]

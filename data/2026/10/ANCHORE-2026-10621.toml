@@ -7,4 +7,11 @@ allocated = 2026-02-26T06:15:46.378841Z
   gcve = ["GCVE-0-2026-27942"]
   github = ["GHSA-fj3w-jwp8-x2g3"]
   chainguard = ["CGA-83fg-7mmw-c32r"]
-  minimos = ["MINI-cx7c-xh4j-mf56"]
+  minimos = [
+    "MINI-59p8-fjv4-pr8g",
+    "MINI-99c3-c23w-cgx8",
+    "MINI-cx7c-xh4j-mf56",
+    "MINI-mxwx-jm76-j46x",
+    "MINI-qf92-hc7x-fvjh",
+    "MINI-v763-v69w-jvrm",
+  ]

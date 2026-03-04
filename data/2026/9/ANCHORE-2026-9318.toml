@@ -8,6 +8,7 @@ allocated = 2026-02-19T06:15:51.364993Z
   gcve = ["GCVE-0-2026-26996"]
   chainguard = ["CGA-4mrr-cgvh-9w95"]
   minimos = [
+    "MINI-2f7v-wv4v-874p",
     "MINI-3jv4-mqxw-cmxv",
     "MINI-4jw5-c4r6-4mx7",
     "MINI-5rw8-m3rf-m5m9",
@@ -18,6 +19,7 @@ allocated = 2026-02-19T06:15:51.364993Z
     "MINI-7gfh-wjf8-j349",
     "MINI-86hg-5j62-fxhj",
     "MINI-8pc7-gxcf-m8r3",
+    "MINI-9hg3-vc2v-6rm2",
     "MINI-9w7h-3r25-wqvx",
     "MINI-c4rh-gfcp-9xgf",
     "MINI-h7cw-q4hg-mxfg",

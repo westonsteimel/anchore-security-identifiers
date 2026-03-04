@@ -9,6 +9,7 @@ allocated = 2025-12-01T18:45:35.120443Z
   echo = ["ECHO-8bc4-4724-22d3"]
   psf = ["PSF-2025-15"]
   minimos = [
+    "MINI-63j8-j68g-cmcw",
     "MINI-7vjc-3rmh-vgqj",
     "MINI-p3vp-22rg-9xjg",
     "MINI-p93c-hq2x-pwjg",

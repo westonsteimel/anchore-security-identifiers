@@ -31,3 +31,4 @@ allocated = 2025-10-22T18:07:33.676441Z
   openeuler = ["OESA-2025-2654", "openEuler-SA-2025-2654"]
   mageia = ["MGASA-2025-0254"]
   chainguard = ["CGA-c3mq-6236-vq3q"]
+  minimos = ["MINI-w5jv-24p5-482x"]

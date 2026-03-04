@@ -8,6 +8,7 @@ allocated = 2025-10-15T14:17:45.396744Z
   github = ["GHSA-gpx4-37g2-c8pv"]
   bitnami = ["BIT-argo-cd-2025-59538"]
   minimos = [
+    "MINI-5753-2gwx-fx73",
     "MINI-5gv4-hjcp-rv89",
     "MINI-5qjc-cm2c-w556",
     "MINI-849m-6v57-5pfm",

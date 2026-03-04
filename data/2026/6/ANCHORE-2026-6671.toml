@@ -10,6 +10,7 @@ allocated = 2026-02-05T18:55:50.819439Z
   gcve = ["GCVE-0-2026-25727"]
   suse = ["SUSE-SU-2026:0452-1", "SUSE-SU-2026:0453-1", "SUSE-SU-2026:0620-1"]
   minimos = [
+    "MINI-332f-9mpc-h4x8",
     "MINI-43rg-74j3-f2wm",
     "MINI-4v64-w5jf-6732",
     "MINI-559f-p2hw-rcqx",

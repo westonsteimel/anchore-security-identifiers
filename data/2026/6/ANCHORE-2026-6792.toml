@@ -6,6 +6,7 @@ allocated = 2026-02-06T09:48:41.965675Z
   github = ["GHSA-jq9f-gm9w-rwm9"]
   minimos = [
     "MINI-335x-8qrr-94j9",
+    "MINI-76h4-mm8p-86vp",
     "MINI-84p7-43cv-8f9p",
     "MINI-85hf-m9pc-2fq5",
     "MINI-8mj8-gx37-fg36",
@@ -14,8 +15,10 @@ allocated = 2026-02-06T09:48:41.965675Z
     "MINI-gcpc-gx6q-4mrv",
     "MINI-hq6m-m428-2x95",
     "MINI-jvpq-g35q-48h4",
+    "MINI-r6gj-cq9w-jhrh",
     "MINI-v4h5-xvfp-wqqw",
     "MINI-vhp3-gmxj-qjf8",
+    "MINI-vqpm-c5fw-4j46",
   ]
   cve = ["CVE-2026-24851"]
   gcve = ["GCVE-0-2026-24851"]

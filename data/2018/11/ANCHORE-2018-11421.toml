@@ -13,5 +13,5 @@ allocated = 2025-10-15T14:15:26.876153Z
     "openSUSE-SU-2024:10873-1",
   ]
   ubuntu = ["USN-3747-1"]
-  minimos = ["MINI-ccqc-rxxx-q58g"]
+  minimos = ["MINI-ccqc-rxxx-q58g", "MINI-vqcg-5pvh-9r5r"]
   chainguard = ["CGA-vjwf-hj87-x85j"]

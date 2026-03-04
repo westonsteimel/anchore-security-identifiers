@@ -10,6 +10,7 @@ allocated = 2026-01-28T11:40:52.677537Z
   chainguard = ["CGA-jgjc-r94m-fgp2"]
   minimos = [
     "MINI-chjg-5c76-pf73",
+    "MINI-ggq5-7v34-9phx",
     "MINI-h4v9-6r3g-p4x2",
     "MINI-rv9c-v782-3mf2",
     "MINI-vcvc-7f9g-7xj3",
@@ -21,6 +22,9 @@ allocated = 2026-01-28T11:40:52.677537Z
     "RHSA-2026:3094",
     "RHSA-2026:3095",
     "RHSA-2026:3097",
+    "RHSA-2026:3218",
+    "RHSA-2026:3219",
+    "RHSA-2026:3220",
   ]
   oraclelinux = ["ELSA-2026-3094", "ELSA-2026-3095"]
   ubuntu = ["USN-8063-1"]

@@ -9,9 +9,15 @@ allocated = 2026-02-02T10:55:15.465350Z
   bitnami = ["BIT-gitlab-2026-1751"]
   minimos = [
     "MINI-46jp-jcrw-4j3m",
+    "MINI-4g9r-mgph-ggcc",
     "MINI-4h2m-8gc6-47gv",
+    "MINI-5q57-726v-mfgm",
     "MINI-8hhg-99p3-cpxx",
+    "MINI-g5fj-6h5p-p466",
     "MINI-hf73-c4mq-jxxj",
+    "MINI-hq4p-65hr-jr42",
+    "MINI-m5r8-pxvh-mm6j",
     "MINI-m7fw-pcwx-4vvg",
+    "MINI-xf2q-jrh4-fx62",
     "MINI-xqcx-5w68-q76c",
   ]
