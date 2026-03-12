@@ -5,3 +5,6 @@ allocated = 2026-03-05T06:11:22.661058Z
   [security.aliases]
   github = ["GHSA-3c6h-g97w-fg78"]
   minimos = ["MINI-hqpj-75xf-phrg"]
+  cve = ["CVE-2026-32059"]
+  gcve = ["GCVE-0-2026-32059"]
+  enisa = ["EUVD-2026-11148"]
