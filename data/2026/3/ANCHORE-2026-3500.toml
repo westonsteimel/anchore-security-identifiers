@@ -6,5 +6,13 @@ allocated = 2026-01-20T12:47:31.670254Z
   cve = ["CVE-2025-14369"]
   gcve = ["GCVE-0-2025-14369"]
   github = ["GHSA-3c35-prjf-p48q"]
-  fedora = ["FEDORA-2026-6887ad5a22", "FEDORA-2026-c52532a74b"]
+  fedora = [
+    "FEDORA-2026-243f5046dc",
+    "FEDORA-2026-6887ad5a22",
+    "FEDORA-2026-6ea6f0a56b",
+    "FEDORA-2026-9b4cb66a86",
+    "FEDORA-2026-bfa5bd0004",
+    "FEDORA-2026-c52532a74b",
+    "FEDORA-2026-c8cb37d552",
+  ]
   enisa = ["EUVD-2026-3448"]

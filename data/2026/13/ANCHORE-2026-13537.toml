@@ -7,3 +7,5 @@ allocated = 2026-03-11T12:04:38.855326Z
   gcve = ["GCVE-0-2026-3906"]
   github = ["GHSA-6x83-fcf5-r65g"]
   enisa = ["EUVD-2026-11134"]
+  bitnami = ["BIT-wordpress-2026-3906", "BIT-wordpress-multisite-2026-3906"]
+  minimos = ["MINI-jrj6-w9x2-qr4p"]

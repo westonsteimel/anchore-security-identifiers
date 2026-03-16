@@ -8,3 +8,4 @@ allocated = 2026-02-04T16:52:16.274384Z
   github = ["GHSA-4rhr-9xj2-x9gx"]
   echo = ["ECHO-386c-a434-c006"]
   enisa = ["EUVD-2026-5442"]
+  debian = ["DSA-6162-1"]

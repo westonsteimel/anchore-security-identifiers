@@ -54,3 +54,4 @@ allocated = 2025-10-15T14:17:32.987432Z
   minimos = ["MINI-4mp5-xhh5-8p9h"]
   photon = ["PHSA-2026-5.0-0779"]
   enisa = ["EUVD-2025-15945"]
+  debian = ["DSA-6163-1"]

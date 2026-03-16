@@ -7,3 +7,6 @@ allocated = 2026-03-12T06:15:05.613903Z
   gcve = ["GCVE-0-2026-31958"]
   enisa = ["EUVD-2026-11323"]
   github = ["GHSA-qjxf-f2mg-c6mc"]
+  chainguard = ["CGA-3jmv-9445-5g47"]
+  opensuse = ["openSUSE-SU-2026:10374-1"]
+  minimos = ["MINI-pc2r-4mwh-pjvc"]

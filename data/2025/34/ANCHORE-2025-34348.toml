@@ -8,3 +8,4 @@ allocated = 2025-10-15T14:17:43.495918Z
   github = ["GHSA-h5wq-3gv4-fhv7"]
   amazonlinux = ["ALAS2023-2023-138"]
   enisa = ["EUVD-2023-59872"]
+  redhat = ["RHSA-2023:6583", "RHSA-2023:7077"]

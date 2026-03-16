@@ -91,7 +91,7 @@ allocated = 2025-10-15T14:16:33.968385Z
     "openSUSE-SU-2024:13109-1",
     "openSUSE-SU-2024:13143-1",
   ]
-  ubuntu = ["USN-7109-1", "USN-7111-1"]
+  ubuntu = ["USN-7109-1", "USN-7111-1", "USN-8089-1"]
   openeuler = [
     "OESA-2023-1192",
     "OESA-2024-1139",
@@ -191,6 +191,7 @@ allocated = 2025-10-15T14:16:33.968385Z
     "FEDORA-EPEL-2025-3ad6d2fe5c",
     "FEDORA-EPEL-2025-72356603ed",
     "FEDORA-EPEL-2026-989773164c",
+    "FEDORA-EPEL-2026-eff2326058",
   ]
   photon = ["PHSA-2023-3.0-0564", "PHSA-2023-4.0-0362"]
   enisa = ["EUVD-2023-0804"]

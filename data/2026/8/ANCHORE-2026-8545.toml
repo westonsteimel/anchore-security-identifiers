@@ -7,6 +7,14 @@ allocated = 2026-02-16T01:19:11.859512Z
   gcve = ["GCVE-0-2026-23190"]
   github = ["GHSA-fc4j-ghgg-c9cg"]
   echo = ["ECHO-234c-94b0-203f"]
-  debian = ["DSA-6141-1"]
+  debian = ["DSA-6141-1", "DSA-6163-1"]
   photon = ["PHSA-2026-4.0-0965", "PHSA-2026-5.0-0770"]
   enisa = ["EUVD-2026-5852"]
+  openeuler = [
+    "OESA-2026-1566",
+    "OESA-2026-1567",
+    "OESA-2026-1570",
+    "openEuler-SA-2026-1566",
+    "openEuler-SA-2026-1567",
+    "openEuler-SA-2026-1570",
+  ]

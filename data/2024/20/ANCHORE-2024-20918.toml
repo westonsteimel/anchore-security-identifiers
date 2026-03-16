@@ -10,3 +10,4 @@ allocated = 2025-10-15T14:17:05.703829Z
   suse = ["SUSE-SU-2024:3771-1"]
   snyk = ["SNYK-JS-REQUIREJS-5416713"]
   enisa = ["EUVD-2024-2445"]
+  openeuler = ["OESA-2026-1600", "openEuler-SA-2026-1600"]

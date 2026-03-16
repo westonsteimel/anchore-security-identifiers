@@ -7,3 +7,4 @@ allocated = 2026-03-12T06:15:05.493823Z
   gcve = ["GCVE-0-2025-12704"]
   enisa = ["EUVD-2025-208573"]
   github = ["GHSA-5prc-f4c3-qjpv"]
+  bitnami = ["BIT-gitlab-2025-12704"]

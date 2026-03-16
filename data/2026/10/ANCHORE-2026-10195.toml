@@ -9,3 +9,4 @@ allocated = 2026-02-25T06:17:05.798412Z
   bitnami = ["BIT-airflow-2024-56373"]
   chainguard = ["CGA-m2x5-7hr5-74p9"]
   enisa = ["EUVD-2024-55432"]
+  minimos = ["MINI-39c2-jf9g-gqv2"]

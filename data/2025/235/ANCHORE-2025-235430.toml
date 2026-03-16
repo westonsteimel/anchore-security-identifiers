@@ -20,8 +20,8 @@ allocated = 2025-11-25T01:03:25.576525Z
     "ALAS2023-2025-1306",
     "ALAS2FIREFOX-2025-048",
   ]
-  ubuntu = ["USN-7924-1"]
-  suse = ["SUSE-SU-2025:4383-1", "SUSE-SU-2025:4533-1"]
+  ubuntu = ["USN-7924-1", "USN-8081-1"]
+  suse = ["SUSE-SU-2025:4383-1", "SUSE-SU-2025:4533-1", "SUSE-SU-2026:0898-1"]
   fedora = [
     "FEDORA-2025-13b23a6952",
     "FEDORA-2025-419c60783f",

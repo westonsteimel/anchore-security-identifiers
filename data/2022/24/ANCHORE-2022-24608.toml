@@ -13,6 +13,7 @@ allocated = 2025-10-15T14:16:29.410066Z
     "openSUSE-SU-2024:12769-1",
     "openSUSE-SU-2024:14175-1",
     "openSUSE-SU-2025:15125-1",
+    "openSUSE-SU-2026:10361-1",
   ]
   fedora = ["FEDORA-2023-91e69ea326"]
   enisa = ["EUVD-2022-7685"]

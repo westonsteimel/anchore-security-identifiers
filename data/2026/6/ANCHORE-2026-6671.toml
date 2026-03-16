@@ -37,10 +37,12 @@ allocated = 2026-02-05T18:55:50.819439Z
     "ALAS2FIREFOX-2026-052",
   ]
   fedora = [
+    "FEDORA-2026-04f13ba6d8",
     "FEDORA-2026-086a367966",
     "FEDORA-2026-1ace5758de",
     "FEDORA-2026-6388b28850",
     "FEDORA-2026-a92ff0085d",
+    "FEDORA-2026-eb2fc8e93d",
     "FEDORA-2026-f400579a21",
   ]
   fedora_epel = ["FEDORA-EPEL-2026-3994fa9db2", "FEDORA-EPEL-2026-5af2dc982d"]

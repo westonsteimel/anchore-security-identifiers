@@ -9,3 +9,4 @@ allocated = 2025-10-15T14:16:18.682278Z
   bitnami = ["BIT-argo-workflows-2022-29164"]
   go = ["GO-2022-0445"]
   enisa = ["EUVD-2022-3599"]
+  chainguard = ["CGA-gj44-x3jw-9jfw"]

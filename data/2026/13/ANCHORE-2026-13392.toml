@@ -6,3 +6,19 @@ allocated = 2026-03-11T06:12:59.718612Z
   cve = ["CVE-2026-31837"]
   gcve = ["GCVE-0-2026-31837"]
   enisa = ["EUVD-2026-10938"]
+  minimos = [
+    "MINI-7wj6-6v2g-rcjr",
+    "MINI-82qv-2q2m-c9jp",
+    "MINI-86wf-pgj9-g3jj",
+    "MINI-87ph-2c98-qjvg",
+    "MINI-963h-xwc6-6cx6",
+    "MINI-c3pq-v7p8-4jv7",
+    "MINI-cxf6-672q-vv23",
+    "MINI-jm92-hjx6-v5w9",
+    "MINI-pmpp-4ppm-p558",
+    "MINI-qp73-3mq2-w73j",
+    "MINI-rmhh-2vx3-7v87",
+    "MINI-v8jc-r8mv-xpp2",
+    "MINI-vgpj-8rxp-3pg7",
+    "MINI-x9wx-q7wp-2fq2",
+  ]

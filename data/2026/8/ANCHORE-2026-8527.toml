@@ -9,3 +9,11 @@ allocated = 2026-02-16T01:19:11.843831Z
   echo = ["ECHO-b32d-db85-7ec1"]
   debian = ["DSA-6141-1"]
   enisa = ["EUVD-2025-206987"]
+  openeuler = [
+    "OESA-2026-1566",
+    "OESA-2026-1567",
+    "OESA-2026-1570",
+    "openEuler-SA-2026-1566",
+    "openEuler-SA-2026-1567",
+    "openEuler-SA-2026-1570",
+  ]

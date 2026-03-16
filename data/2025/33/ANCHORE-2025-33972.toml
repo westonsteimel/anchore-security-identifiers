@@ -10,3 +10,11 @@ allocated = 2025-10-15T14:17:43.208919Z
   echo = ["ECHO-3d2f-3ce2-8fbb"]
   chainguard = ["CGA-7888-pmfp-r5xj"]
   enisa = ["EUVD-2025-28948"]
+  openeuler = [
+    "OESA-2026-1566",
+    "OESA-2026-1567",
+    "OESA-2026-1570",
+    "openEuler-SA-2026-1566",
+    "openEuler-SA-2026-1567",
+    "openEuler-SA-2026-1570",
+  ]

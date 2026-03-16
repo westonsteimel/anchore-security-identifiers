@@ -1,0 +1,7 @@
+[security]
+id = "ANCHORE-2026-14435"
+allocated = 2026-03-16T06:31:43.437736Z
+
+  [security.aliases]
+  github = ["GHSA-mj4p-rc52-m843"]
+  minimos = ["MINI-rfwf-q6xr-gm4c"]

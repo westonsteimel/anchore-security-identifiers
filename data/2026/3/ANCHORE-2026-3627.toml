@@ -52,7 +52,9 @@ allocated = 2026-01-20T22:46:56.424172Z
   fedora = [
     "FEDORA-2026-10af0bfadd",
     "FEDORA-2026-27ce708600",
+    "FEDORA-2026-3ebfc12a16",
     "FEDORA-2026-9ad2d11c1f",
+    "FEDORA-2026-ac5dd35f2d",
     "FEDORA-2026-b1b37b00ef",
     "FEDORA-2026-c8b3418f91",
     "FEDORA-2026-cf721e4319",

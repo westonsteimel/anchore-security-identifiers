@@ -13,9 +13,23 @@ allocated = 2026-01-28T11:40:52.693686Z
     "BIT-python-2026-1299",
     "BIT-python-min-2026-1299",
   ]
-  redhat = ["RHSA-2026:2128", "RHSA-2026:4165", "RHSA-2026:4168"]
-  oraclelinux = ["ELSA-2026-2128", "ELSA-2026-4165", "ELSA-2026-4168"]
-  almalinux = ["ALSA-2026:2128"]
+  redhat = [
+    "RHSA-2026:2128",
+    "RHSA-2026:4165",
+    "RHSA-2026:4168",
+    "RHSA-2026:4216",
+    "RHSA-2026:4463",
+    "RHSA-2026:4473",
+  ]
+  oraclelinux = [
+    "ELSA-2026-2128",
+    "ELSA-2026-4165",
+    "ELSA-2026-4168",
+    "ELSA-2026-4216",
+    "ELSA-2026-4463",
+    "ELSA-2026-4473",
+  ]
+  almalinux = ["ALSA-2026:2128", "ALSA-2026:4165"]
   chainguard = ["CGA-pjgm-mfph-cxr6"]
   openeuler = [
     "OESA-2026-1356",
@@ -32,12 +46,25 @@ allocated = 2026-01-28T11:40:52.693686Z
     "ALAS2023-2026-1444",
     "ALAS2023-2026-1447",
   ]
-  suse = ["SUSE-SU-2026:0642-1"]
-  minimos = ["MINI-h64f-6c6m-vr4w", "MINI-xq7g-j9m9-24w7"]
+  suse = [
+    "SUSE-SU-2026:0642-1",
+    "SUSE-SU-2026:0873-1",
+    "SUSE-SU-2026:0884-1",
+    "SUSE-SU-2026:0891-1",
+    "SUSE-SU-2026:0897-1",
+  ]
+  minimos = [
+    "MINI-336g-rwjj-rwvq",
+    "MINI-93jg-jrgx-3x8h",
+    "MINI-h64f-6c6m-vr4w",
+    "MINI-x3gh-526c-w448",
+    "MINI-xq7g-j9m9-24w7",
+  ]
   fedora = [
     "FEDORA-2026-10af0bfadd",
     "FEDORA-2026-27ce708600",
     "FEDORA-2026-289d6d4f69",
+    "FEDORA-2026-3ebfc12a16",
     "FEDORA-2026-489dc1bc1b",
     "FEDORA-2026-4e99b7fe5f",
     "FEDORA-2026-8fa5a66a49",

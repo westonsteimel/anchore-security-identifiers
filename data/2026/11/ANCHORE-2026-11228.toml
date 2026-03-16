@@ -8,3 +8,14 @@ allocated = 2026-03-03T06:11:08.300693Z
   echo = ["ECHO-7bc9-c663-1fef"]
   github = ["GHSA-878v-mxg6-vj8f"]
   enisa = ["EUVD-2026-9195"]
+  ubuntu = ["USN-8086-1"]
+  openeuler = [
+    "OESA-2026-1574",
+    "OESA-2026-1575",
+    "OESA-2026-1576",
+    "OESA-2026-1577",
+    "openEuler-SA-2026-1574",
+    "openEuler-SA-2026-1575",
+    "openEuler-SA-2026-1576",
+    "openEuler-SA-2026-1577",
+  ]

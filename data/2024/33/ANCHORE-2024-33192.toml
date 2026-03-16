@@ -25,6 +25,7 @@ allocated = 2025-10-15T14:17:14.191600Z
     "MINI-8pff-rj6j-2j37",
     "MINI-jjcj-w4xx-8fqx",
     "MINI-pr3m-4v85-xpxm",
+    "MINI-px9w-c7c2-9jr6",
   ]
   amazonlinux = ["ALAS2-2025-2853"]
   oraclelinux = ["ELSA-2024-10987"]

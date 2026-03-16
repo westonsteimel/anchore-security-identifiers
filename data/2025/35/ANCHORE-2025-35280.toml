@@ -10,3 +10,4 @@ allocated = 2025-10-15T14:17:44.143131Z
   suse = ["SUSE-SU-2025:3751-1", "SUSE-SU-2025:4057-1", "SUSE-SU-2025:4132-1"]
   photon = ["PHSA-2026-5.0-0779"]
   enisa = ["EUVD-2025-29887"]
+  debian = ["DSA-6163-1"]

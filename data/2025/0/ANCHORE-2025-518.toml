@@ -87,3 +87,4 @@ allocated = 2025-10-15T14:17:19.698765Z
   oraclelinux = ["ELSA-2025-0401"]
   echo = ["ECHO-7b33-48f3-c82a"]
   enisa = ["EUVD-2025-0043"]
+  ubuntu = ["USN-8088-1"]

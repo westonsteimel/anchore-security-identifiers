@@ -13,11 +13,13 @@ allocated = 2025-12-10T10:44:07.336220Z
     "OESA-2025-2878",
     "OESA-2025-2879",
     "OESA-2025-2880",
+    "OESA-2026-1556",
     "openEuler-SA-2025-2876",
     "openEuler-SA-2025-2877",
     "openEuler-SA-2025-2878",
     "openEuler-SA-2025-2879",
     "openEuler-SA-2025-2880",
+    "openEuler-SA-2026-1556",
   ]
   amazonlinux = ["ALAS2-2025-3111"]
   debian = ["DLA-4417-1", "DSA-6125-1"]

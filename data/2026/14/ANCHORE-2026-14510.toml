@@ -1,0 +1,6 @@
+[security]
+id = "ANCHORE-2026-14510"
+allocated = 2026-03-16T06:37:57.984104Z
+
+  [security.aliases]
+  openssf_malicious_packages = ["MAL-2026-1426"]

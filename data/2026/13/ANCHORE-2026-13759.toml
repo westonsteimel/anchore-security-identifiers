@@ -7,3 +7,5 @@ allocated = 2026-03-12T06:15:05.695840Z
   gcve = ["GCVE-0-2026-3926"]
   enisa = ["EUVD-2026-11444"]
   github = ["GHSA-jmwc-f9w6-7j8q"]
+  chainguard = ["CGA-85w5-5mg5-r47v"]
+  debian = ["DSA-6164-1"]

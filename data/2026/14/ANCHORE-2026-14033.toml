@@ -5,3 +5,8 @@ allocated = 2026-03-13T06:14:50.157602Z
   [security.aliases]
   github = ["GHSA-4hjq-9h5c-252j"]
   go = ["GO-2026-4684"]
+  minimos = [
+    "MINI-2c2m-h7pv-x5pm",
+    "MINI-hw5p-cfpf-35rm",
+    "MINI-wwff-qg6p-pjwf",
+  ]

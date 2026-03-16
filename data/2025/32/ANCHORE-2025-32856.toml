@@ -33,6 +33,7 @@ allocated = 2025-10-15T14:17:42.435768Z
   echo = ["ECHO-4e7f-99e9-5dbf"]
   amazonlinux = [
     "ALAS2023-2025-1208",
+    "ALAS2023-2026-1468",
     "ALAS2KERNEL-5.10-2025-104",
     "ALAS2KERNEL-5.15-2025-089",
     "ALAS2KERNEL-5.4-2025-109",

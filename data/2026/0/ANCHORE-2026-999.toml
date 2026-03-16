@@ -11,3 +11,4 @@ allocated = 2026-01-06T01:09:01.509825Z
   minimos = ["MINI-4h98-3j95-w56f", "MINI-j4w2-grgw-2452"]
   ubuntu = ["USN-8032-1"]
   enisa = ["EUVD-2026-1047"]
+  suse = ["SUSE-SU-2026:0858-1", "SUSE-SU-2026:0859-1"]

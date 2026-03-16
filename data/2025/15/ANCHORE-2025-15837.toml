@@ -25,3 +25,4 @@ allocated = 2025-10-15T14:17:30.373980Z
   archlinux = ["AVG-2880"]
   chainguard = ["CGA-wj2c-v25v-c33q"]
   enisa = ["EUVD-2025-11984"]
+  suse = ["SUSE-SU-2026:0872-1", "SUSE-SU-2026:0892-1"]

@@ -13,6 +13,6 @@ allocated = 2025-10-15T14:17:38.299179Z
     "CGA-f763-q86q-5cm4",
     "CGA-rc3v-r9vq-8p94",
   ]
-  opensuse = ["openSUSE-SU-2025:15382-1"]
+  opensuse = ["openSUSE-SU-2025:15382-1", "openSUSE-SU-2026:10366-1"]
   amazonlinux = ["ALAS2023-2025-1124"]
   enisa = ["EUVD-2025-21984"]

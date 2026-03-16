@@ -45,6 +45,8 @@ allocated = 2025-10-15T14:17:31.870377Z
   oraclelinux = ["ELSA-2025-20480", "ELSA-2025-20530"]
   minimos = ["MINI-8pmw-f2qj-wmw5"]
   redhat = [
+    "RHSA-2025:20095",
+    "RHSA-2025:20518",
     "RHSA-2026:0804",
     "RHSA-2026:0917",
     "RHSA-2026:1441",

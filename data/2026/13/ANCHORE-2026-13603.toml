@@ -9,3 +9,10 @@ allocated = 2026-03-12T06:15:05.478140Z
   github = ["GHSA-56px-hm34-xqj5"]
   chainguard = ["CGA-37p5-x5vq-vqx9"]
   go = ["GO-2026-4678"]
+  bitnami = ["BIT-argo-workflows-2026-28229"]
+  minimos = [
+    "MINI-7x9c-rh86-j8m9",
+    "MINI-c7gf-2rcc-927x",
+    "MINI-cjwr-h7gv-vrc2",
+    "MINI-f9cm-hvwg-j88f",
+  ]

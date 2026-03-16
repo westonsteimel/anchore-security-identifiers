@@ -6,6 +6,6 @@ allocated = 2026-02-16T01:19:11.798649Z
   cve = ["CVE-2026-23128"]
   gcve = ["GCVE-0-2026-23128"]
   github = ["GHSA-7jxv-w4j5-p37v"]
-  amazonlinux = ["ALAS2023-2026-1455"]
+  amazonlinux = ["ALAS2023-2026-1455", "ALAS2023-2026-1468"]
   photon = ["PHSA-2026-5.0-0770"]
   enisa = ["EUVD-2026-6114"]

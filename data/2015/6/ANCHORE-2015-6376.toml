@@ -16,6 +16,7 @@ allocated = 2025-10-15T14:15:02.068324Z
     "openSUSE-SU-2024:13165-1",
     "openSUSE-SU-2024:14174-1",
     "openSUSE-SU-2025:14697-1",
+    "openSUSE-SU-2026:10356-1",
   ]
   ubuntu = ["USN-2834-1", "USN-2875-1"]
   amazonlinux = ["ALAS2-2019-1220"]

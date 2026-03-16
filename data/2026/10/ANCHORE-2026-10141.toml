@@ -25,3 +25,4 @@ allocated = 2026-02-24T06:17:05.512588Z
   debian = ["DSA-6158-1", "DSA-6159-1"]
   enisa = ["EUVD-2026-7429"]
   github = ["GHSA-xg29-8ghv-v4xr"]
+  photon = ["PHSA-2026-4.0-0976"]

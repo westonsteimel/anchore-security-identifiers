@@ -46,7 +46,20 @@ allocated = 2025-10-15T14:17:24.269033Z
     "openSUSE-SU-2025:14842-1",
   ]
   ubuntu = ["USN-7299-1", "USN-7299-2", "USN-7299-4"]
-  openeuler = ["OESA-2025-1429", "openEuler-SA-2025-1429"]
+  openeuler = [
+    "OESA-2025-1429",
+    "OESA-2026-1587",
+    "OESA-2026-1588",
+    "OESA-2026-1589",
+    "OESA-2026-1590",
+    "OESA-2026-1591",
+    "openEuler-SA-2025-1429",
+    "openEuler-SA-2026-1587",
+    "openEuler-SA-2026-1588",
+    "openEuler-SA-2026-1589",
+    "openEuler-SA-2026-1590",
+    "openEuler-SA-2026-1591",
+  ]
   amazonlinux = ["ALAS2-2025-2791", "ALAS2023-2025-892", "ALAS2023-2025-895"]
   oraclelinux = [
     "ELSA-2025-2500",

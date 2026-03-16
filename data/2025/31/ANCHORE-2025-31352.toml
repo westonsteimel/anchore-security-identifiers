@@ -34,3 +34,11 @@ allocated = 2025-10-15T14:17:41.382248Z
   ]
   minimos = ["MINI-h69v-w947-h9cv"]
   enisa = ["EUVD-2025-25542"]
+  openeuler = [
+    "OESA-2026-1566",
+    "OESA-2026-1567",
+    "OESA-2026-1570",
+    "openEuler-SA-2026-1566",
+    "openEuler-SA-2026-1567",
+    "openEuler-SA-2026-1570",
+  ]

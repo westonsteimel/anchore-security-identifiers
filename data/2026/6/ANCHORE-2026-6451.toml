@@ -8,3 +8,11 @@ allocated = 2026-02-04T16:52:16.270222Z
   github = ["GHSA-jfx6-g684-5hpw"]
   debian = ["DSA-6126-1"]
   enisa = ["EUVD-2026-5448"]
+  openeuler = [
+    "OESA-2026-1566",
+    "OESA-2026-1567",
+    "OESA-2026-1570",
+    "openEuler-SA-2026-1566",
+    "openEuler-SA-2026-1567",
+    "openEuler-SA-2026-1570",
+  ]

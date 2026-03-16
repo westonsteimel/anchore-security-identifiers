@@ -8,7 +8,17 @@ allocated = 2026-02-04T16:52:16.240103Z
   github = ["GHSA-64h7-35x7-95w2"]
   debian = ["DLA-4476-1", "DSA-6126-1", "DSA-6127-1"]
   echo = ["ECHO-1d3a-c5c4-b8be"]
-  amazonlinux = ["ALAS2023-2026-1455"]
+  amazonlinux = ["ALAS2023-2026-1455", "ALAS2023-2026-1468"]
   photon = ["PHSA-2026-5.0-0770"]
   enisa = ["EUVD-2026-5492"]
   oraclelinux = ["ELSA-2026-50144"]
+  openeuler = [
+    "OESA-2026-1566",
+    "OESA-2026-1567",
+    "OESA-2026-1569",
+    "OESA-2026-1570",
+    "openEuler-SA-2026-1566",
+    "openEuler-SA-2026-1567",
+    "openEuler-SA-2026-1569",
+    "openEuler-SA-2026-1570",
+  ]

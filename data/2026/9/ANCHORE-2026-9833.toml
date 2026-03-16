@@ -7,6 +7,6 @@ allocated = 2026-02-23T06:20:20.226584Z
   gcve = ["GCVE-0-2025-65995"]
   github = ["GHSA-gfw7-2v73-69wg"]
   bitnami = ["BIT-airflow-2025-65995"]
-  minimos = ["MINI-44h7-r32v-94v2"]
+  minimos = ["MINI-2xqq-86w9-gm35", "MINI-44h7-r32v-94v2"]
   chainguard = ["CGA-7rq8-fgjj-r6wr"]
   enisa = ["EUVD-2025-207649"]

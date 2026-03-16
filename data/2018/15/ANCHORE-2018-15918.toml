@@ -14,6 +14,7 @@ allocated = 2025-10-15T14:15:30.013267Z
     "openSUSE-SU-2024:13162-1",
     "openSUSE-SU-2024:14171-1",
     "openSUSE-SU-2025:15120-1",
+    "openSUSE-SU-2026:10353-1",
   ]
   fedora = [
     "FEDORA-2018-4ce40afcb6",

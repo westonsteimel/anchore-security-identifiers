@@ -22,3 +22,4 @@ allocated = 2026-02-24T06:17:05.498680Z
   minimos = ["MINI-63f4-2r55-cgc4"]
   debian = ["DSA-6158-1"]
   enisa = ["EUVD-2026-7448"]
+  photon = ["PHSA-2026-4.0-0976"]

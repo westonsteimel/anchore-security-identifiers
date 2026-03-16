@@ -7,3 +7,17 @@ allocated = 2026-02-13T16:15:41.717800Z
   gcve = ["GCVE-0-2026-0965"]
   ubuntu = ["USN-8051-1", "USN-8051-2"]
   suse = ["SUSE-SU-2026:0778-1", "SUSE-SU-2026:0779-1"]
+  openeuler = [
+    "OESA-2026-1558",
+    "OESA-2026-1559",
+    "OESA-2026-1560",
+    "OESA-2026-1561",
+    "OESA-2026-1562",
+    "OESA-2026-1563",
+    "openEuler-SA-2026-1558",
+    "openEuler-SA-2026-1559",
+    "openEuler-SA-2026-1560",
+    "openEuler-SA-2026-1561",
+    "openEuler-SA-2026-1562",
+    "openEuler-SA-2026-1563",
+  ]

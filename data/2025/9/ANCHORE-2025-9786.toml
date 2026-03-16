@@ -1175,5 +1175,6 @@ allocated = 2025-10-15T14:17:26.137829Z
     "FEDORA-EPEL-2025-a9cfd9ab21",
     "FEDORA-EPEL-2025-ab0fae74f1",
     "FEDORA-EPEL-2026-e2d94a8bdf",
+    "FEDORA-EPEL-2026-eff2326058",
   ]
   enisa = ["EUVD-2025-6690"]

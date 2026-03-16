@@ -8,7 +8,7 @@ allocated = 2026-02-10T19:01:03.460624Z
   echo = ["ECHO-6445-7d7c-0289"]
   mageia = ["MGASA-2026-0038"]
   minimos = ["MINI-f56v-rjc3-6p9r"]
-  ubuntu = ["USN-8035-1", "USN-8039-1"]
+  ubuntu = ["USN-8035-1", "USN-8039-1", "USN-8081-1"]
   debian = ["DLA-4481-1", "DSA-6138-1"]
   redhat = [
     "RHSA-2026:3031",
@@ -21,6 +21,9 @@ allocated = 2026-02-10T19:01:03.460624Z
     "RHSA-2026:3577",
     "RHSA-2026:3968",
     "RHSA-2026:3969",
+    "RHSA-2026:4221",
+    "RHSA-2026:4222",
+    "RHSA-2026:4306",
   ]
   suse = [
     "SUSE-SU-2026:0596-1",
@@ -28,7 +31,12 @@ allocated = 2026-02-10T19:01:03.460624Z
     "SUSE-SU-2026:0598-1",
     "SUSE-SU-2026:0599-1",
   ]
-  oraclelinux = ["ELSA-2026-3031", "ELSA-2026-3405", "ELSA-2026-3551"]
+  oraclelinux = [
+    "ELSA-2026-3031",
+    "ELSA-2026-3405",
+    "ELSA-2026-3551",
+    "ELSA-2026-4306",
+  ]
   almalinux = ["ALSA-2026:3031", "ALSA-2026:3405", "ALSA-2026:3551"]
   amazonlinux = ["ALAS2-2026-3189", "ALAS2023-2026-1463"]
   fedora = [

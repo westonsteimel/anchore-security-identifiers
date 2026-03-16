@@ -16,14 +16,29 @@ allocated = 2026-01-20T22:46:56.422495Z
   echo = ["ECHO-a3ad-1e4f-ac31"]
   minimos = [
     "MINI-78jm-p4q5-m944",
+    "MINI-8f7w-hhhw-3m52",
     "MINI-mcq6-rvw4-j52p",
     "MINI-p9q2-v4p8-xpq9",
     "MINI-q8hv-48hc-pfgj",
   ]
-  redhat = ["RHSA-2026:2128", "RHSA-2026:4165", "RHSA-2026:4168"]
+  redhat = [
+    "RHSA-2026:2128",
+    "RHSA-2026:4165",
+    "RHSA-2026:4168",
+    "RHSA-2026:4216",
+    "RHSA-2026:4463",
+    "RHSA-2026:4473",
+  ]
   ubuntu = ["USN-8018-1", "USN-8018-2"]
-  oraclelinux = ["ELSA-2026-2128", "ELSA-2026-4165", "ELSA-2026-4168"]
-  almalinux = ["ALSA-2026:2128"]
+  oraclelinux = [
+    "ELSA-2026-2128",
+    "ELSA-2026-4165",
+    "ELSA-2026-4168",
+    "ELSA-2026-4216",
+    "ELSA-2026-4463",
+    "ELSA-2026-4473",
+  ]
+  almalinux = ["ALSA-2026:2128", "ALSA-2026:4165"]
   debian = ["DLA-4455-1"]
   suse = [
     "SUSE-SU-2026:0612-1",
@@ -36,6 +51,7 @@ allocated = 2026-01-20T22:46:56.422495Z
   fedora = [
     "FEDORA-2026-10af0bfadd",
     "FEDORA-2026-289d6d4f69",
+    "FEDORA-2026-3ebfc12a16",
     "FEDORA-2026-489dc1bc1b",
     "FEDORA-2026-4e99b7fe5f",
     "FEDORA-2026-6ee987bce2",

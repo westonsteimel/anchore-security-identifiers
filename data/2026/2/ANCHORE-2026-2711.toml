@@ -6,7 +6,18 @@ allocated = 2026-01-14T16:47:10.911944Z
   cve = ["CVE-2025-14242"]
   gcve = ["GCVE-0-2025-14242"]
   github = ["GHSA-6v4g-392h-r9mh"]
-  redhat = ["RHSA-2026:0605", "RHSA-2026:0606", "RHSA-2026:0608"]
+  redhat = [
+    "RHSA-2026:0605",
+    "RHSA-2026:0606",
+    "RHSA-2026:0608",
+    "RHSA-2026:4470",
+    "RHSA-2026:4477",
+    "RHSA-2026:4513",
+    "RHSA-2026:4522",
+    "RHSA-2026:4525",
+    "RHSA-2026:4543",
+    "RHSA-2026:4550",
+  ]
   oraclelinux = ["ELSA-2026-0605", "ELSA-2026-0606", "ELSA-2026-0608"]
   almalinux = ["ALSA-2026:0605", "ALSA-2026:0606", "ALSA-2026:0608"]
   openeuler = ["OESA-2026-1345", "openEuler-SA-2026-1345"]

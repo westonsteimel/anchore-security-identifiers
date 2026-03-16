@@ -46,3 +46,4 @@ allocated = 2025-10-15T14:16:52.177741Z
   amazonlinux = ["ALAS2-2024-2458", "ALAS2023-2024-526"]
   fedora = ["FEDORA-2024-7fecec055b"]
   enisa = ["EUVD-2023-3251"]
+  ubuntu = ["USN-8088-1"]

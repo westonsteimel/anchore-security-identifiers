@@ -21,6 +21,7 @@ allocated = 2025-10-15T14:16:06.110743Z
     "openSUSE-SU-2024:13165-1",
     "openSUSE-SU-2024:14174-1",
     "openSUSE-SU-2025:14697-1",
+    "openSUSE-SU-2026:10356-1",
   ]
   ubuntu = ["USN-5575-1", "USN-5575-2"]
   openeuler = ["OESA-2022-2098", "openEuler-SA-2022-2098"]

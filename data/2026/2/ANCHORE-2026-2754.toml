@@ -10,3 +10,15 @@ allocated = 2026-01-14T22:45:44.559424Z
   amazonlinux = ["ALAS2023-2026-1450"]
   fedora = ["FEDORA-2026-3d29b96a25", "FEDORA-2026-eea5babc00"]
   enisa = ["EUVD-2026-2430"]
+  openeuler = [
+    "OESA-2026-1545",
+    "OESA-2026-1547",
+    "OESA-2026-1548",
+    "OESA-2026-1549",
+    "OESA-2026-1550",
+    "openEuler-SA-2026-1545",
+    "openEuler-SA-2026-1547",
+    "openEuler-SA-2026-1548",
+    "openEuler-SA-2026-1549",
+    "openEuler-SA-2026-1550",
+  ]

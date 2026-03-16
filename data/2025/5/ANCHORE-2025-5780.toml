@@ -24,7 +24,11 @@ allocated = 2025-10-15T14:17:23.389142Z
   debian = ["DLA-4090-1", "DSA-5886-1"]
   redhat = ["RHSA-2025:7085"]
   suse = ["SUSE-SU-2025:0874-1"]
-  opensuse = ["openSUSE-SU-2025:14811-1", "openSUSE-SU-2025:14875-1"]
+  opensuse = [
+    "openSUSE-SU-2025:14811-1",
+    "openSUSE-SU-2025:14875-1",
+    "openSUSE-SU-2026:10358-1",
+  ]
   ubuntu = ["USN-7366-1", "USN-7366-2"]
   minimos = ["MINI-qwwh-jr8r-c36v", "MINI-vmwh-xc8q-88cc"]
   openeuler = ["OESA-2025-1299", "openEuler-SA-2025-1299"]

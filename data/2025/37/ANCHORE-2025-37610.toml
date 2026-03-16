@@ -37,3 +37,4 @@ allocated = 2025-10-15T14:17:45.767366Z
   fedora = ["FEDORA-2026-9d457091e8"]
   photon = ["PHSA-2025-4.0-0911", "PHSA-2025-5.0-0687"]
   enisa = ["EUVD-2025-32134"]
+  ubuntu = ["USN-8090-1", "USN-8090-2"]

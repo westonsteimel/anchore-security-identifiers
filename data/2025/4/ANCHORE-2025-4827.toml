@@ -18,3 +18,4 @@ allocated = 2025-10-15T14:17:22.742711Z
   chainguard = ["CGA-v826-97c2-87gj"]
   photon = ["PHSA-2025-4.0-0774", "PHSA-2025-5.0-0479"]
   enisa = ["EUVD-2025-1518"]
+  ubuntu = ["USN-8084-1"]

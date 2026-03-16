@@ -9,3 +9,5 @@ allocated = 2026-02-19T06:15:46.355310Z
   echo = ["ECHO-c9a4-bb6b-0b13"]
   photon = ["PHSA-2026-4.0-0972"]
   enisa = ["EUVD-2026-7680"]
+  debian = ["DSA-6162-1", "DSA-6163-1"]
+  amazonlinux = ["ALAS2KERNEL-5.15-2026-098"]

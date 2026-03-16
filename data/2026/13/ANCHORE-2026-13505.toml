@@ -7,3 +7,4 @@ allocated = 2026-03-11T06:13:05.934251Z
   cve = ["CVE-2026-31901"]
   gcve = ["GCVE-0-2026-31901"]
   enisa = ["EUVD-2026-11317"]
+  bitnami = ["BIT-parse-2026-31901"]

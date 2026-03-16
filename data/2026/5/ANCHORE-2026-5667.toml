@@ -10,3 +10,11 @@ allocated = 2026-01-31T13:57:24.964270Z
   debian = ["DLA-4475-1", "DLA-4476-1", "DSA-6126-1", "DSA-6127-1"]
   photon = ["PHSA-2026-4.0-0965", "PHSA-2026-5.0-0770"]
   enisa = ["EUVD-2025-206589"]
+  openeuler = [
+    "OESA-2026-1566",
+    "OESA-2026-1567",
+    "OESA-2026-1570",
+    "openEuler-SA-2026-1566",
+    "openEuler-SA-2026-1567",
+    "openEuler-SA-2026-1570",
+  ]
