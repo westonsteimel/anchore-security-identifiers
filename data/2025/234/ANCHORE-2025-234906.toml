@@ -23,5 +23,5 @@ allocated = 2025-11-21T17:05:31.425090Z
   debian = ["DLA-4492-1"]
   redhat = ["RHSA-2026:3477", "RHSA-2026:4188"]
   oraclelinux = ["ELSA-2026-3477", "ELSA-2026-4188", "ELSA-2026-50149"]
-  almalinux = ["ALSA-2026:3477"]
+  almalinux = ["ALSA-2026:3477", "ALSA-2026:4188"]
   enisa = ["EUVD-2025-206344"]

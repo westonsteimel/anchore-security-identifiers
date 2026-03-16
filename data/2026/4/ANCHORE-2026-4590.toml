@@ -29,7 +29,13 @@ allocated = 2026-01-28T11:40:52.693686Z
     "ELSA-2026-4463",
     "ELSA-2026-4473",
   ]
-  almalinux = ["ALSA-2026:2128", "ALSA-2026:4165"]
+  almalinux = [
+    "ALSA-2026:2128",
+    "ALSA-2026:4165",
+    "ALSA-2026:4168",
+    "ALSA-2026:4216",
+    "ALSA-2026:4463",
+  ]
   chainguard = ["CGA-pjgm-mfph-cxr6"]
   openeuler = [
     "OESA-2026-1356",

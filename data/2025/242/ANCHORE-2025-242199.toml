@@ -10,3 +10,4 @@ allocated = 2025-12-26T18:07:10.020216Z
   amazonlinux = ["ALAS2KERNEL-5.10-2023-034"]
   photon = ["PHSA-2021-4.0-0065"]
   enisa = ["EUVD-2023-60345"]
+  redhat = ["RHSA-2024:2394", "RHSA-2024:3138"]

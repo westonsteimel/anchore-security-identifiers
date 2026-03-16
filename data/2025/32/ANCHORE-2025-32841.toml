@@ -16,7 +16,7 @@ allocated = 2025-10-15T14:17:42.424385Z
     "RHSA-2026:4111",
   ]
   oraclelinux = ["ELSA-2026-0793", "ELSA-2026-4012"]
-  almalinux = ["ALSA-2026:0793"]
+  almalinux = ["ALSA-2026:0793", "ALSA-2026:4012"]
   ubuntu = [
     "USN-8028-1",
     "USN-8028-2",
