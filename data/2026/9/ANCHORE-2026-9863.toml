@@ -8,3 +8,4 @@ allocated = 2026-02-23T06:20:20.273382Z
   github = ["GHSA-wh94-p5m6-mr7j"]
   minimos = ["MINI-h26v-jmmg-v3mj"]
   enisa = ["EUVD-2026-7715"]
+  cnvd = ["CNVD-2026-13382"]

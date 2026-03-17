@@ -9,12 +9,20 @@ allocated = 2026-03-09T09:50:09.915031Z
   opensuse = ["openSUSE-SU-2026:10297-1"]
   minimos = [
     "MINI-326m-9r86-v34g",
+    "MINI-3mg6-398m-3rpg",
+    "MINI-7g2c-vv3j-98pr",
     "MINI-88xw-4v3g-xfmp",
     "MINI-93vp-hmmx-4hq4",
+    "MINI-9cxc-w8r3-7h62",
+    "MINI-9fqf-2x2g-jwg9",
+    "MINI-9x9j-6hg7-9r26",
+    "MINI-c4w6-5r37-prr6",
     "MINI-c7p5-vvv6-pjj6",
+    "MINI-h3pq-2x29-mf3w",
     "MINI-j868-3cxf-984w",
     "MINI-qc6g-6v9w-8v7h",
     "MINI-qhf9-c88r-hxqw",
+    "MINI-rpm7-gmg8-v7mq",
     "MINI-v4f9-vw8q-3hgw",
   ]
   go = ["GO-2026-4635"]

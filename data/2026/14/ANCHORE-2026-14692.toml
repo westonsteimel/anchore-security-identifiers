@@ -1,0 +1,10 @@
+[security]
+id = "ANCHORE-2026-14692"
+allocated = 2026-03-17T06:19:56.538032Z
+
+  [security.aliases]
+  cve = ["CVE-2026-21991"]
+  gcve = ["GCVE-0-2026-21991"]
+  enisa = ["EUVD-2026-12522"]
+  github = ["GHSA-m3x9-92c9-624c"]
+  oraclelinux = ["ELSA-2026-50151", "ELSA-2026-50152", "ELSA-2026-50153"]

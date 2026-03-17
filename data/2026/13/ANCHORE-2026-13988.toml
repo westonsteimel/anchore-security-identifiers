@@ -8,7 +8,11 @@ allocated = 2026-03-13T06:14:44.944612Z
   enisa = ["EUVD-2026-11703"]
   github = ["GHSA-f269-vfmq-vjvj"]
   minimos = [
+    "MINI-9fx9-vvwr-97gj",
     "MINI-9wc3-xrm4-5rfc",
     "MINI-fxgq-f6hg-wv5c",
+    "MINI-hgg9-9wr6-7hwv",
+    "MINI-rxpj-x747-w6p2",
+    "MINI-w7v3-vfrh-fx5j",
     "MINI-xm69-ph56-57vp",
   ]

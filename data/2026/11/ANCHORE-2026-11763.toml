@@ -9,3 +9,5 @@ allocated = 2026-03-05T06:11:17.548848Z
   debian = ["DSA-6157-1"]
   opensuse = ["openSUSE-SU-2026:10296-1", "openSUSE-SU-2026:20332-1"]
   enisa = ["EUVD-2026-9487"]
+  cnvd = ["CNVD-2026-13796"]
+  minimos = ["MINI-967p-w7r7-j7cg"]

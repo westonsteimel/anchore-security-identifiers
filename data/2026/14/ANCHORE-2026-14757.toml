@@ -1,0 +1,6 @@
+[security]
+id = "ANCHORE-2026-14757"
+allocated = 2026-03-17T06:20:02.554745Z
+
+  [security.aliases]
+  github = ["GHSA-g375-5wmp-xr78"]

@@ -8,3 +8,4 @@ allocated = 2026-03-12T06:15:05.719898Z
   enisa = ["EUVD-2026-11487"]
   github = ["GHSA-cpfq-66p2-336j"]
   bitnami = ["BIT-consul-2026-2808"]
+  go = ["GO-2026-4690"]

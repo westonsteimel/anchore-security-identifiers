@@ -27,6 +27,7 @@ allocated = 2025-10-15T14:17:11.850371Z
   suse = ["SUSE-RU-2025:1150-1", "SUSE-SU-2024:3596-1"]
   opensuse = ["openSUSE-SU-2024:14387-1"]
   minimos = [
+    "MINI-2gfh-wqrj-phqm",
     "MINI-f6wp-5xgf-67vw",
     "MINI-fm77-f42h-xxcg",
     "MINI-h8v8-r7hq-xj5f",

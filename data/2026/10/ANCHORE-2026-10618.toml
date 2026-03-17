@@ -10,6 +10,7 @@ allocated = 2026-02-26T06:15:46.376743Z
   minimos = [
     "MINI-3f7x-4w76-89wc",
     "MINI-3mpg-pxhw-x8f7",
+    "MINI-4767-368g-x9jm",
     "MINI-47fx-7r2j-mw42",
     "MINI-48vx-4fpc-x9jv",
     "MINI-4hcg-9xq9-v6jf",
@@ -21,7 +22,11 @@ allocated = 2026-02-26T06:15:46.376743Z
     "MINI-9jw8-v5cf-g2hf",
     "MINI-fvrg-f59v-h62c",
     "MINI-hpwj-9j48-c9xv",
+    "MINI-jc43-q987-xr68",
+    "MINI-rmjw-35g3-f9qj",
+    "MINI-rvj7-mwvx-hmxq",
     "MINI-vjwh-jrq3-h86p",
+    "MINI-vrf8-cc43-3j85",
     "MINI-xvf8-6798-37g9",
   ]
   enisa = ["EUVD-2026-8802"]

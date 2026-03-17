@@ -8,6 +8,8 @@ allocated = 2026-02-27T06:10:13.479761Z
   github = ["GHSA-4m27-pqhx-2rfv"]
   bitnami = ["BIT-elk-2026-26937", "BIT-kibana-2026-26937"]
   minimos = [
+    "MINI-f6m9-25h9-27m2",
+    "MINI-hx3v-2xwm-hjp9",
     "MINI-p7m7-66j2-j9ch",
     "MINI-vhj4-qx5c-cg9v",
     "MINI-w7gj-3j3c-hm8g",

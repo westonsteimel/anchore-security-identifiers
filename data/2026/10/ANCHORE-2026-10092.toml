@@ -9,3 +9,4 @@ allocated = 2026-02-24T06:17:05.474882Z
   debian = ["DSA-6151-1"]
   cnvd = ["CNVD-2026-12763"]
   enisa = ["EUVD-2026-7473"]
+  minimos = ["MINI-h24j-3432-fvr3"]

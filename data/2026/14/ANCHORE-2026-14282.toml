@@ -6,3 +6,4 @@ allocated = 2026-03-16T06:31:36.960607Z
   cve = ["CVE-2026-3839"]
   gcve = ["GCVE-0-2026-3839"]
   enisa = ["EUVD-2026-12168"]
+  github = ["GHSA-hv24-53jm-mrp5"]

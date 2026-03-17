@@ -9,3 +9,4 @@ allocated = 2026-03-12T06:15:05.709382Z
   github = ["GHSA-8h7v-3ch8-p4rg"]
   chainguard = ["CGA-2rqw-8w72-h8w8"]
   debian = ["DSA-6164-1"]
+  minimos = ["MINI-3v6v-fgmj-8hgr"]
