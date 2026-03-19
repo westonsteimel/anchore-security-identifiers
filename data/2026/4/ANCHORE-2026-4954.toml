@@ -30,6 +30,8 @@ allocated = 2026-01-28T11:40:52.946974Z
     "RHSA-2026:4163",
     "RHSA-2026:4214",
     "RHSA-2026:4472",
+    "RHSA-2026:4824",
+    "RHSA-2026:4825",
   ]
   minimos = ["MINI-f9qm-gx9g-pp9f"]
   mageia = ["MGASA-2026-0029"]

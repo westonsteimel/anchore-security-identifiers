@@ -11,7 +11,7 @@ allocated = 2026-01-28T11:40:52.780584Z
   amazonlinux = ["ALAS2023-2026-1455", "ALAS2023-2026-1468"]
   photon = ["PHSA-2026-5.0-0752"]
   enisa = ["EUVD-2026-4626"]
-  oraclelinux = ["ELSA-2026-50144"]
+  oraclelinux = ["ELSA-2026-4723", "ELSA-2026-50144"]
   openeuler = [
     "OESA-2026-1566",
     "OESA-2026-1567",
@@ -20,3 +20,4 @@ allocated = 2026-01-28T11:40:52.780584Z
     "openEuler-SA-2026-1567",
     "openEuler-SA-2026-1570",
   ]
+  redhat = ["RHSA-2026:4723"]

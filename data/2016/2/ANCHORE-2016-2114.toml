@@ -13,3 +13,4 @@ allocated = 2025-10-15T14:15:03.675322Z
   fedora = ["FEDORA-2016-20cc04ac50", "FEDORA-2016-e024b3e02b"]
   cnvd = ["CNVD-2016-02799"]
   enisa = ["EUVD-2016-3256"]
+  cpan = ["CPANSA-Alien-SVN-2016-2168-subversion"]

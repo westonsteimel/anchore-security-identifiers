@@ -46,6 +46,6 @@ allocated = 2025-10-15T14:16:02.205886Z
     "FEDORA-2021-27187ac9dd",
     "FEDORA-2021-68db93b130",
   ]
-  photon = ["PHSA-2021-0343", "PHSA-2021-0390"]
+  photon = ["PHSA-2021-0343", "PHSA-2021-0390", "PHSA-2021-1.0-0390"]
   cnvd = ["CNVD-2021-30880"]
   enisa = ["EUVD-2021-16613"]

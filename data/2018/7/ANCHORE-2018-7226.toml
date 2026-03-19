@@ -15,6 +15,7 @@ allocated = 2025-10-15T14:15:23.982197Z
   fedora_epel = ["FEDORA-EPEL-2018-7c41fcb3cc"]
   photon = [
     "PHSA-2018-0067",
+    "PHSA-2018-0150",
     "PHSA-2018-1.0-0150",
     "PHSA-2023-4.0-0415",
     "PHSA-2023-5.0-0035",

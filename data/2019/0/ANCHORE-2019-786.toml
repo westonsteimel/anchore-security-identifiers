@@ -17,6 +17,6 @@ allocated = 2025-10-15T14:15:32.107069Z
   oraclelinux = ["ELSA-2019-2327", "ELSA-2019-2511"]
   mageia = ["MGASA-2019-0147"]
   fedora = ["FEDORA-2019-21b76d179e"]
-  photon = ["PHSA-2019-0152", "PHSA-2019-1.0-0212"]
+  photon = ["PHSA-2019-0152", "PHSA-2019-0212", "PHSA-2019-1.0-0212"]
   cnvd = ["CNVD-2019-26712"]
   enisa = ["EUVD-2019-12169"]

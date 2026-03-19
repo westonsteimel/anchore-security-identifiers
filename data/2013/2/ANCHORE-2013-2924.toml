@@ -12,3 +12,4 @@ allocated = 2025-10-15T14:14:50.641625Z
   oraclelinux = ["ELSA-2014-0255"]
   mageia = ["MGASA-2013-0175"]
   enisa = ["EUVD-2013-1956"]
+  cpan = ["CPANSA-Alien-SVN-2013-1968-svn"]

@@ -36,6 +36,6 @@ allocated = 2025-10-15T14:15:21.477802Z
     "FEDORA-2018-c1769746da",
   ]
   fedora_epel = ["FEDORA-EPEL-2018-86171fce03"]
-  photon = ["PHSA-2018-0037", "PHSA-2018-1.0-0126"]
+  photon = ["PHSA-2018-0037", "PHSA-2018-0126", "PHSA-2018-1.0-0126"]
   cnvd = ["CNVD-2018-06104"]
   enisa = ["EUVD-2018-0111"]

@@ -21,6 +21,6 @@ allocated = 2025-10-15T14:15:21.089802Z
     "openSUSE-SU-2024:11284-1",
   ]
   mageia = ["MGASA-2018-0270", "MGASA-2018-0495"]
-  photon = ["PHSA-2018-0037", "PHSA-2018-1.0-0126"]
+  photon = ["PHSA-2018-0037", "PHSA-2018-0126", "PHSA-2018-1.0-0126"]
   cnvd = ["CNVD-2018-06516"]
   enisa = ["EUVD-2017-9340"]

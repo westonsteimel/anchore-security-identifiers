@@ -114,6 +114,6 @@ allocated = 2025-10-15T14:15:18.355454Z
     "SUSE-SU-2018:1648-1",
   ]
   oraclelinux = ["ELSA-2018-1062", "ELSA-2018-1319"]
-  photon = ["PHSA-2018-0031", "PHSA-2018-1.0-0122"]
+  photon = ["PHSA-2018-0031", "PHSA-2018-0122", "PHSA-2018-1.0-0122"]
   cnvd = ["CNVD-2017-37033"]
   enisa = ["EUVD-2017-4683"]

@@ -10,3 +10,9 @@ allocated = 2026-03-11T06:12:59.700045Z
   fedora = ["FEDORA-2026-0523662d59"]
   chainguard = ["CGA-cq2m-2ghh-c6hg"]
   rustsec = ["RUSTSEC-2026-0037"]
+  opensuse = [
+    "openSUSE-SU-2026:10380-1",
+    "openSUSE-SU-2026:10382-1",
+    "openSUSE-SU-2026:10383-1",
+    "openSUSE-SU-2026:10384-1",
+  ]

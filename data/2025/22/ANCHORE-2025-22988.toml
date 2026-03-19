@@ -17,6 +17,8 @@ allocated = 2025-10-15T14:17:35.349242Z
     "USN-7721-1",
     "USN-8096-1",
     "USN-8096-2",
+    "USN-8096-3",
+    "USN-8096-4",
   ]
   echo = ["ECHO-3bc3-a44f-a8a4"]
   openeuler = [

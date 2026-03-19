@@ -12,6 +12,6 @@ allocated = 2025-10-15T14:15:30.926980Z
   ubuntu = ["USN-3834-1"]
   cpan = ["CPANSA-perl-2018-18313"]
   fedora = ["FEDORA-2018-9dbe983805", "FEDORA-2018-ca03363d57"]
-  photon = ["PHSA-2019-0135", "PHSA-2019-1.0-0212"]
+  photon = ["PHSA-2019-0135", "PHSA-2019-0212", "PHSA-2019-1.0-0212"]
   cnvd = ["CNVD-2019-09594"]
   enisa = ["EUVD-2018-10046"]

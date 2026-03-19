@@ -17,6 +17,6 @@ allocated = 2025-10-15T14:15:21.394703Z
   amazonlinux = ["ALAS2-2020-1480"]
   oraclelinux = ["ELSA-2018-4304", "ELSA-2018-4307", "ELSA-2019-4509"]
   fedora = ["FEDORA-2018-bf60ec1389", "FEDORA-2018-cf76003e1f"]
-  photon = ["PHSA-2018-0044", "PHSA-2018-0135"]
+  photon = ["PHSA-2018-0044", "PHSA-2018-0135", "PHSA-2018-1.0-0135"]
   cnvd = ["CNVD-2018-06474"]
   enisa = ["EUVD-2018-19726"]

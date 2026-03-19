@@ -16,6 +16,6 @@ allocated = 2025-10-15T14:15:19.877553Z
     "FEDORA-2018-ef303deec6",
     "FEDORA-2018-f8c54aeec4",
   ]
-  photon = ["PHSA-2018-0017", "PHSA-2018-1.0-0109"]
+  photon = ["PHSA-2018-0017", "PHSA-2018-0109", "PHSA-2018-1.0-0109"]
   cnvd = ["CNVD-2018-04361"]
   enisa = ["EUVD-2018-17768"]

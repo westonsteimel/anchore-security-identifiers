@@ -10,6 +10,6 @@ allocated = 2025-10-15T14:15:27.470009Z
   opensuse = ["openSUSE-SU-2024:10225-1"]
   mageia = ["MGASA-2016-0387"]
   fedora = ["FEDORA-2016-94d1c64fe2", "FEDORA-2016-cc5006bef7"]
-  photon = ["PHSA-2019-1.0-0248"]
+  photon = ["PHSA-2019-0248", "PHSA-2019-1.0-0248"]
   cnvd = ["CNVD-2016-10775"]
   enisa = ["EUVD-2016-9480"]

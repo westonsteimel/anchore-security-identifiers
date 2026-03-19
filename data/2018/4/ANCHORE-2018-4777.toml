@@ -11,13 +11,13 @@ allocated = 2025-10-15T14:15:22.236351Z
   opensuse = ["openSUSE-SU-2024:11400-1"]
   ubuntu = ["USN-4205-1", "USN-4394-1"]
   mageia = ["MGASA-2018-0181", "MGASA-2023-0208"]
-  cpan = ["CPANSA-DBD-SQLite-2018-8740"]
+  cpan = ["CPANSA-DBD-SQLite-2018-8740", "CPANSA-DBD-SQLite-2018-8740-sqlite"]
   fedora = [
     "FEDORA-2018-07e15ad5a5",
     "FEDORA-2018-aace372c3f",
     "FEDORA-2018-bb66329dee",
     "FEDORA-2019-49f80a78bc",
   ]
-  photon = ["PHSA-2018-0037", "PHSA-2018-1.0-0126"]
+  photon = ["PHSA-2018-0037", "PHSA-2018-0126", "PHSA-2018-1.0-0126"]
   cnvd = ["CNVD-2018-06132"]
   enisa = ["EUVD-2018-20350"]

@@ -12,3 +12,4 @@ allocated = 2025-10-15T14:15:45.128145Z
   ubuntu = ["USN-2694-1", "USN-2943-1"]
   cnvd = ["CNVD-2015-03941"]
   enisa = ["EUVD-2015-2419"]
+  cpan = ["CPANSA-Perl6-Pugs-2015-2326-libpcre"]

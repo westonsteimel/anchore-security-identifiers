@@ -1,0 +1,9 @@
+[security]
+id = "ANCHORE-2026-15047"
+allocated = 2026-03-19T06:18:23.254428Z
+
+  [security.aliases]
+  cve = ["CVE-2026-24062"]
+  gcve = ["GCVE-0-2026-24062"]
+  enisa = ["EUVD-2026-12829"]
+  github = ["GHSA-wr36-4m3g-vx95"]

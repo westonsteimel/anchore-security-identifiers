@@ -13,6 +13,7 @@ allocated = 2026-01-20T22:46:56.427521Z
     "RHSA-2026:0931",
     "RHSA-2026:0932",
     "RHSA-2026:0933",
+    "RHSA-2026:4832",
   ]
   chainguard = ["CGA-cr7g-xqww-r2rj"]
   almalinux = [

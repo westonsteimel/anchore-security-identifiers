@@ -35,6 +35,6 @@ allocated = 2025-10-15T14:15:21.274707Z
     "ELSA-2019-4316",
   ]
   fedora = ["FEDORA-2018-2bce10900e"]
-  photon = ["PHSA-2018-0037", "PHSA-2018-0132"]
+  photon = ["PHSA-2018-0037", "PHSA-2018-0132", "PHSA-2018-1.0-0132"]
   cnvd = ["CNVD-2018-06647"]
   enisa = ["EUVD-2018-19469"]

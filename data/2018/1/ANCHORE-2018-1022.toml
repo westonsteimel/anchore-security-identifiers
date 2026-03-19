@@ -9,6 +9,6 @@ allocated = 2025-10-15T14:15:19.691770Z
   redhat = ["RHSA-2018:0586", "RHSA-2018:0587"]
   ubuntu = ["USN-3537-1"]
   fedora = ["FEDORA-2018-d553b29a30"]
-  photon = ["PHSA-2018-0037", "PHSA-2018-1.0-0126"]
+  photon = ["PHSA-2018-0037", "PHSA-2018-0126", "PHSA-2018-1.0-0126"]
   cnvd = ["CNVD-2018-02160"]
   enisa = ["EUVD-2018-14428"]

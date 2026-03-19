@@ -31,6 +31,12 @@ allocated = 2025-10-15T14:15:43.542400Z
     "FEDORA-2020-fcc91a28e8",
   ]
   fedora_epel = ["FEDORA-EPEL-2020-62ef58ec56"]
-  photon = ["PHSA-2020-0204", "PHSA-2020-1.0-0264", "PHSA-2020-3.0-0048"]
+  photon = [
+    "PHSA-2020-0203",
+    "PHSA-2020-0204",
+    "PHSA-2020-0264",
+    "PHSA-2020-1.0-0264",
+    "PHSA-2020-3.0-0048",
+  ]
   cnvd = ["CNVD-2020-03864"]
   enisa = ["EUVD-2019-10108"]

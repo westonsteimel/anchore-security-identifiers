@@ -28,10 +28,18 @@ allocated = 2026-01-13T01:04:57.955034Z
     "RHSA-2026:3576",
     "RHSA-2026:3577",
     "RHSA-2026:4306",
+    "RHSA-2026:4728",
     "RHSA-2026:4729",
+    "RHSA-2026:4730",
     "RHSA-2026:4731",
+    "RHSA-2026:4732",
   ]
-  oraclelinux = ["ELSA-2026-3405", "ELSA-2026-3551", "ELSA-2026-4306"]
+  oraclelinux = [
+    "ELSA-2026-3405",
+    "ELSA-2026-3551",
+    "ELSA-2026-4306",
+    "ELSA-2026-4728",
+  ]
   almalinux = ["ALSA-2026:3405", "ALSA-2026:3551", "ALSA-2026:4306"]
   fedora = ["FEDORA-2026-168ebcb4a8", "FEDORA-2026-a9ae661fa2"]
   photon = ["PHSA-2026-4.0-0966", "PHSA-2026-5.0-0764"]

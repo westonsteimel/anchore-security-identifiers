@@ -20,5 +20,5 @@ allocated = 2025-10-15T14:16:04.062260Z
   mageia = ["MGASA-2021-0265"]
   archlinux = ["AVG-2053"]
   fedora = ["FEDORA-2021-dce7e7738e", "FEDORA-2021-e3f6dd670d"]
-  photon = ["PHSA-2021-0365", "PHSA-2021-0409"]
+  photon = ["PHSA-2021-0365", "PHSA-2021-0409", "PHSA-2021-1.0-0409"]
   enisa = ["EUVD-2021-13484"]

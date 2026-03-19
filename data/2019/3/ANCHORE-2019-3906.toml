@@ -7,6 +7,11 @@ allocated = 2025-10-15T14:15:34.228685Z
   gcve = ["GCVE-0-2019-7608"]
   github = ["GHSA-24qm-h8fv-cv5c"]
   redhat = ["RHSA-2019:2860"]
-  photon = ["PHSA-2019-0155", "PHSA-2019-0225", "PHSA-2019-3.0-0014"]
+  photon = [
+    "PHSA-2019-0155",
+    "PHSA-2019-0225",
+    "PHSA-2019-1.0-0225",
+    "PHSA-2019-3.0-0014",
+  ]
   cnvd = ["CNVD-2019-12162"]
   enisa = ["EUVD-2019-17146"]

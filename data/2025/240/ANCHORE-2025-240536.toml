@@ -11,4 +11,11 @@ allocated = 2025-12-16T16:44:35.557215Z
   amazonlinux = ["ALAS2023-2026-1430"]
   oraclelinux = ["ELSA-2026-50112"]
   enisa = ["EUVD-2025-203783"]
-  ubuntu = ["USN-8094-1", "USN-8095-1", "USN-8095-2", "USN-8100-1"]
+  ubuntu = [
+    "USN-8094-1",
+    "USN-8094-2",
+    "USN-8095-1",
+    "USN-8095-2",
+    "USN-8095-3",
+    "USN-8100-1",
+  ]

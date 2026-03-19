@@ -22,6 +22,11 @@ allocated = 2025-10-15T14:15:50.431086Z
   mageia = ["MGASA-2021-0303"]
   cpan = ["CPANSA-DBD-SQLite-2020-13434", "CPANSA-DBD-SQLite-2020-13434-sqlite"]
   fedora = ["FEDORA-2020-0477f8840e"]
-  photon = ["PHSA-2020-0249", "PHSA-2020-0298", "PHSA-2020-3.0-0101"]
+  photon = [
+    "PHSA-2020-0249",
+    "PHSA-2020-0298",
+    "PHSA-2020-1.0-0298",
+    "PHSA-2020-3.0-0101",
+  ]
   cnvd = ["CNVD-2020-31671"]
   enisa = ["EUVD-2020-5687"]

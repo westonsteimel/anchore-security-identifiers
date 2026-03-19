@@ -6,6 +6,6 @@ allocated = 2025-10-15T14:15:41.930988Z
   cve = ["CVE-2019-10210"]
   gcve = ["GCVE-0-2019-10210"]
   github = ["GHSA-2qpm-xf67-jj26"]
-  photon = ["PHSA-2019-1.0-0261"]
+  photon = ["PHSA-2019-0261", "PHSA-2019-1.0-0261"]
   cnvd = ["CNVD-2019-31336"]
   enisa = ["EUVD-2019-2227"]

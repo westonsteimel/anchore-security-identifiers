@@ -9,3 +9,8 @@ allocated = 2026-03-17T06:19:56.518762Z
   github = ["GHSA-h46w-ffvp-4pw5"]
   psf = ["PSF-2026-12"]
   echo = ["ECHO-7dc2-599b-22cd"]
+  bitnami = [
+    "BIT-libpython-2026-4224",
+    "BIT-python-2026-4224",
+    "BIT-python-min-2026-4224",
+  ]

@@ -15,3 +15,7 @@ allocated = 2025-10-15T14:15:02.843459Z
   fedora_epel = ["FEDORA-EPEL-2016-7a25f65890", "FEDORA-EPEL-2016-c03e77f531"]
   cnvd = ["CNVD-2016-00961"]
   enisa = ["EUVD-2016-0765"]
+  cpan = [
+    "CPANSA-Nginx-Engine-2016-0742-nginx",
+    "CPANSA-Nginx-Perl-2016-0742-nginx",
+  ]
