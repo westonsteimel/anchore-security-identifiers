@@ -7,3 +7,5 @@ allocated = 2026-03-19T06:18:28.843932Z
   cve = ["CVE-2026-33211"]
   gcve = ["GCVE-0-2026-33211"]
   chainguard = ["CGA-3v45-wr3m-8cgj"]
+  enisa = ["EUVD-2026-14636"]
+  go = ["GO-2026-4761"]

@@ -7,3 +7,4 @@ allocated = 2026-03-23T08:24:43.544416Z
   gcve = ["GCVE-0-2026-4603"]
   github = ["GHSA-464q-cqxq-xhgr"]
   snyk = ["SNYK-JS-JSRSASIGN-15371176"]
+  enisa = ["EUVD-2026-14380"]

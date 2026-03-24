@@ -18,3 +18,4 @@ allocated = 2026-02-16T01:19:11.842001Z
     "openEuler-SA-2026-1570",
   ]
   enisa = ["EUVD-2025-206989"]
+  chainguard = ["CGA-8g37-5f4r-5xwc"]

@@ -179,7 +179,12 @@ allocated = 2025-10-15T14:17:07.341103Z
     "openSUSE-SU-2025:14909-1",
   ]
   ubuntu = ["USN-7161-1", "USN-7161-2", "USN-7161-3"]
-  minimos = ["MINI-pw36-qm67-c4vg", "MINI-vr82-hf5x-mv7m"]
+  minimos = [
+    "MINI-fmc7-8g6w-mq52",
+    "MINI-pw36-qm67-c4vg",
+    "MINI-qh3v-536v-wc34",
+    "MINI-vr82-hf5x-mv7m",
+  ]
   openeuler = [
     "OESA-2024-1959",
     "OESA-2024-2074",

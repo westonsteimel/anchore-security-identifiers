@@ -12,3 +12,4 @@ allocated = 2026-02-04T16:52:16.275787Z
   enisa = ["EUVD-2026-5440"]
   amazonlinux = ["ALAS2023-2026-1468"]
   suse = ["SUSE-SU-2026:20667-1", "SUSE-SU-2026:20720-1"]
+  chainguard = ["CGA-g4m9-p8w7-wr35"]

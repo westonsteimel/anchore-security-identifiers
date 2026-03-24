@@ -12,3 +12,5 @@ allocated = 2026-03-23T08:24:43.698047Z
     "MINI-fvgq-795f-cq8f",
     "MINI-h24m-qh9m-m6xj",
   ]
+  enisa = ["EUVD-2026-14643"]
+  go = ["GO-2026-4773"]

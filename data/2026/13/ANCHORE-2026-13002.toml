@@ -23,3 +23,4 @@ allocated = 2026-03-10T10:33:17.997066Z
     "openEuler-SA-2026-1696",
     "openEuler-SA-2026-1697",
   ]
+  chainguard = ["CGA-9gmh-q69g-86cq"]

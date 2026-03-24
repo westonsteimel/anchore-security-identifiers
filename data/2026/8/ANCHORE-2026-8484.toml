@@ -8,3 +8,4 @@ allocated = 2026-02-16T01:19:11.806792Z
   github = ["GHSA-rwc9-h9mh-xfwq"]
   echo = ["ECHO-e184-8d23-cc31"]
   enisa = ["EUVD-2026-5900"]
+  chainguard = ["CGA-84f3-vfxg-j6h9"]

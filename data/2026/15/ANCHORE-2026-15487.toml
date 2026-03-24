@@ -13,3 +13,5 @@ allocated = 2026-03-23T08:24:43.248917Z
     "FEDORA-2026-ae0b7bdc90",
     "FEDORA-2026-c6c01a71f2",
   ]
+  chainguard = ["CGA-8xvq-x5ff-4hpp"]
+  rustsec = ["RUSTSEC-2026-0067"]
