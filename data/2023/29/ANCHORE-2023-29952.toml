@@ -493,6 +493,7 @@ allocated = 2025-10-15T14:16:50.683769Z
     "MGASA-2024-0010",
     "MGASA-2024-0015",
     "MGASA-2024-0034",
+    "MGASA-2026-0066",
   ]
   bellsoft = ["BELL-SA-2023-11", "BELL-SA-2023:11"]
   fedora = [

@@ -1,0 +1,9 @@
+[security]
+id = "ANCHORE-2026-16897"
+allocated = 2026-03-25T08:00:03.454748Z
+
+  [security.aliases]
+  cve = ["CVE-2025-33242"]
+  gcve = ["GCVE-0-2025-33242"]
+  enisa = ["EUVD-2025-208971"]
+  github = ["GHSA-wrfr-265x-gm85"]

@@ -7,3 +7,8 @@ allocated = 2026-02-11T18:59:47.002825Z
   gcve = ["GCVE-0-2025-69872"]
   github = ["GHSA-w8v5-vhqr-4h9v"]
   enisa = ["EUVD-2025-207391"]
+  fedora = [
+    "FEDORA-2026-319d85836c",
+    "FEDORA-2026-56264d0a56",
+    "FEDORA-2026-9e5037f4e6",
+  ]

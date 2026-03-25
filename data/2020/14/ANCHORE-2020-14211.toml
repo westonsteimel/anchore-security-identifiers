@@ -10,3 +10,4 @@ allocated = 2025-10-15T14:15:54.380652Z
   photon = ["PHSA-2022-3.0-0358"]
   cnvd = ["CNVD-2021-30571"]
   enisa = ["EUVD-2021-1665"]
+  ubuntu = ["USN-8118-1"]

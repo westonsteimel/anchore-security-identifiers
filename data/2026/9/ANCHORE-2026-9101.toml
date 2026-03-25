@@ -11,3 +11,4 @@ allocated = 2026-02-19T06:15:46.353168Z
   enisa = ["EUVD-2025-207661"]
   opensuse = ["openSUSE-SU-2026:10387-1"]
   amazonlinux = ["ALAS2KERNEL-5.10-2026-114"]
+  oraclelinux = ["ELSA-2026-50160"]

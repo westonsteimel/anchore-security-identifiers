@@ -355,6 +355,7 @@ allocated = 2025-10-15T14:17:24.807333Z
     "CGA-9qf4-wj7r-f8p5",
     "CGA-9qjx-4g5r-3388",
     "CGA-9qp3-4vvh-f5mp",
+    "CGA-9qp8-wmc2-2x5f",
     "CGA-9qrh-hm85-cv3j",
     "CGA-9rp9-p9xh-6ffw",
     "CGA-9v2q-p5c3-wh4x",
@@ -923,6 +924,7 @@ allocated = 2025-10-15T14:17:24.807333Z
     "SUSE-SU-2025:20377-1",
     "SUSE-SU-2025:20393-1",
     "SUSE-SU-2025:20515-1",
+    "SUSE-SU-2026:0972-1",
     "SUSE-SU-2026:20550-1",
   ]
   opensuse = [

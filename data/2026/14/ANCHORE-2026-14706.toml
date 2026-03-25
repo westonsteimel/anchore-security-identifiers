@@ -11,3 +11,4 @@ allocated = 2026-03-17T06:20:02.520194Z
   minimos = ["MINI-8cwf-jvr9-x4p2", "MINI-p5pq-f5v5-pprm"]
   echo = ["ECHO-e106-5b29-8a6f"]
   opensuse = ["openSUSE-SU-2026:10392-1"]
+  ubuntu = ["USN-8115-1"]

@@ -11,3 +11,4 @@ allocated = 2026-03-16T06:31:36.889802Z
   redhat = ["RHSA-2026:5063", "RHSA-2026:5080"]
   openeuler = ["OESA-2026-1641", "openEuler-SA-2026-1641"]
   oraclelinux = ["ELSA-2026-5063", "ELSA-2026-5080"]
+  almalinux = ["ALSA-2026:5063", "ALSA-2026:5080"]

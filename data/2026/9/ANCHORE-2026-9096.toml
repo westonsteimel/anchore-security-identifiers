@@ -17,6 +17,7 @@ allocated = 2026-02-19T06:15:46.347834Z
     "openEuler-SA-2026-1567",
     "openEuler-SA-2026-1570",
   ]
-  suse = ["SUSE-SU-2026:20667-1", "SUSE-SU-2026:20720-1"]
+  suse = ["SUSE-SU-2026:0962-1", "SUSE-SU-2026:20667-1", "SUSE-SU-2026:20720-1"]
   opensuse = ["openSUSE-SU-2026:10387-1"]
   amazonlinux = ["ALAS2KERNEL-5.10-2026-114"]
+  oraclelinux = ["ELSA-2026-50160"]

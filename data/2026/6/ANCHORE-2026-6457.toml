@@ -17,3 +17,4 @@ allocated = 2026-02-04T16:52:16.274384Z
     "openEuler-SA-2026-1643",
     "openEuler-SA-2026-1644",
   ]
+  oraclelinux = ["ELSA-2026-50160"]
