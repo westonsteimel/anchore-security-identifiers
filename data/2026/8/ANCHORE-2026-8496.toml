@@ -7,3 +7,4 @@ allocated = 2026-02-16T01:19:11.817196Z
   gcve = ["GCVE-0-2026-23148"]
   github = ["GHSA-c783-64qq-77vx"]
   enisa = ["EUVD-2026-5887"]
+  oraclelinux = ["ELSA-2026-50160"]

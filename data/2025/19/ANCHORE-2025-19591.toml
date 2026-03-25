@@ -30,7 +30,12 @@ allocated = 2025-10-15T14:17:32.992821Z
   ]
   echo = ["ECHO-be1a-6f50-c5e8"]
   amazonlinux = ["ALAS2023-2025-994"]
-  oraclelinux = ["ELSA-2025-20470", "ELSA-2025-20480", "ELSA-2025-20530"]
+  oraclelinux = [
+    "ELSA-2025-20470",
+    "ELSA-2025-20480",
+    "ELSA-2025-20530",
+    "ELSA-2026-50160",
+  ]
   minimos = ["MINI-mvcp-hgj9-rjh5"]
   mageia = ["MGASA-2025-0182", "MGASA-2025-0183"]
   enisa = ["EUVD-2025-15920"]

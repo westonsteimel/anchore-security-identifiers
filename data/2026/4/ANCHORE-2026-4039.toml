@@ -24,6 +24,7 @@ allocated = 2026-01-22T01:10:51.475107Z
     "SUSE-SU-2026:20434-1",
   ]
   enisa = ["EUVD-2026-4203"]
-  redhat = ["RHSA-2026:4717"]
-  oraclelinux = ["ELSA-2026-4717"]
+  redhat = ["RHSA-2026:4717", "RHSA-2026:5587", "RHSA-2026:5603"]
+  oraclelinux = ["ELSA-2026-4717", "ELSA-2026-5603"]
   opensuse = ["openSUSE-SU-2026:10086-1", "openSUSE-SU-2026:20233-1"]
+  almalinux = ["ALSA-2026:4717"]

@@ -10,3 +10,4 @@ allocated = 2026-02-16T01:19:11.857017Z
   debian = ["DLA-4499-1", "DSA-6141-1", "DSA-6163-1"]
   photon = ["PHSA-2026-5.0-0770"]
   enisa = ["EUVD-2026-5855"]
+  oraclelinux = ["ELSA-2026-50160"]

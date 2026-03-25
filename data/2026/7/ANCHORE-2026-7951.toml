@@ -8,3 +8,4 @@ allocated = 2026-02-12T08:05:29.292143Z
   github = ["GHSA-jhp8-jfxv-5ggj"]
   enisa = ["EUVD-2026-6705"]
   debian = ["DSA-6172-1"]
+  mageia = ["MGASA-2026-0064"]

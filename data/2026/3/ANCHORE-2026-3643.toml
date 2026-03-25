@@ -14,7 +14,12 @@ allocated = 2026-01-20T22:46:56.437385Z
     "MINI-78p3-329m-4phh",
     "MINI-gw49-r9hx-q4v3",
   ]
-  redhat = ["RHSA-2026:4162", "RHSA-2026:4828"]
+  redhat = [
+    "RHSA-2026:4162",
+    "RHSA-2026:4828",
+    "RHSA-2026:5580",
+    "RHSA-2026:5640",
+  ]
   oraclelinux = ["ELSA-2026-4162", "ELSA-2026-4828"]
   enisa = ["EUVD-2026-3572"]
-  almalinux = ["ALSA-2026:4162"]
+  almalinux = ["ALSA-2026:4162", "ALSA-2026:4828"]

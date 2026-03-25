@@ -4,3 +4,9 @@ allocated = 2026-02-13T20:49:23.392873Z
 
   [security.aliases]
   github = ["GHSA-g433-pq76-6cmf"]
+  rustsec = [
+    "RUSTSEC-2026-0069",
+    "RUSTSEC-2026-0070",
+    "RUSTSEC-2026-0071",
+    "RUSTSEC-2026-0072",
+  ]

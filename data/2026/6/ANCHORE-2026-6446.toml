@@ -11,9 +11,11 @@ allocated = 2026-02-04T16:52:16.266710Z
   suse = [
     "SUSE-SU-2026:0617-1",
     "SUSE-SU-2026:0928-1",
+    "SUSE-SU-2026:0961-1",
+    "SUSE-SU-2026:0962-1",
     "SUSE-SU-2026:20667-1",
     "SUSE-SU-2026:20720-1",
   ]
   photon = ["PHSA-2026-5.0-0770"]
   enisa = ["EUVD-2026-5453"]
-  oraclelinux = ["ELSA-2026-50145"]
+  oraclelinux = ["ELSA-2026-50145", "ELSA-2026-50160"]

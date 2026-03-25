@@ -7,3 +7,4 @@ allocated = 2026-02-26T06:15:46.316119Z
   gcve = ["GCVE-0-2026-25942"]
   enisa = ["EUVD-2026-8731"]
   ubuntu = ["USN-8105-1"]
+  opensuse = ["openSUSE-SU-2026:10408-1"]

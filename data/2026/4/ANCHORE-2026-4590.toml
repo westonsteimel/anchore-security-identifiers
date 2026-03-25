@@ -32,6 +32,7 @@ allocated = 2026-01-28T11:40:52.693686Z
     "RHSA-2026:5225",
     "RHSA-2026:5226",
     "RHSA-2026:5315",
+    "RHSA-2026:5399",
   ]
   oraclelinux = [
     "ELSA-2026-2128",
@@ -49,6 +50,7 @@ allocated = 2026-01-28T11:40:52.693686Z
     "ALSA-2026:4216",
     "ALSA-2026:4463",
     "ALSA-2026:4473",
+    "ALSA-2026:4713",
   ]
   chainguard = ["CGA-pjgm-mfph-cxr6"]
   openeuler = [

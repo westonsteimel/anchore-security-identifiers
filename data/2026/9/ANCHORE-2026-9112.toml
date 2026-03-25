@@ -10,3 +10,4 @@ allocated = 2026-02-19T06:15:46.364841Z
   echo = ["ECHO-bc45-5f7e-564a"]
   enisa = ["EUVD-2026-7671"]
   opensuse = ["openSUSE-SU-2026:10387-1"]
+  oraclelinux = ["ELSA-2026-50160"]

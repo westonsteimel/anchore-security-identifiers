@@ -9,3 +9,4 @@ allocated = 2026-03-11T06:12:59.644928Z
   enisa = ["EUVD-2026-10794"]
   echo = ["ECHO-77a1-940a-2ce8"]
   opensuse = ["openSUSE-SU-2026:10326-1"]
+  fedora = ["FEDORA-2026-c260342365"]

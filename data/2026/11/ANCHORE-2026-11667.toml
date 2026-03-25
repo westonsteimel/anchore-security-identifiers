@@ -10,3 +10,4 @@ allocated = 2026-03-05T06:11:17.467661Z
   debian = ["DLA-4498-1", "DLA-4499-1", "DSA-6162-1", "DSA-6163-1"]
   opensuse = ["openSUSE-SU-2026:10387-1"]
   echo = ["ECHO-e059-e89d-f44f"]
+  oraclelinux = ["ELSA-2026-50160"]

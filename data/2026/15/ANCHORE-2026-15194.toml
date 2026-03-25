@@ -9,6 +9,7 @@ allocated = 2026-03-19T06:18:28.835449Z
   enisa = ["EUVD-2026-13830"]
   chainguard = ["CGA-8qwg-3gv7-2fp3"]
   minimos = [
+    "MINI-23ff-8g73-p595",
     "MINI-259x-h6x7-r62v",
     "MINI-25g8-r68j-596h",
     "MINI-25vh-v352-9f6m",
@@ -228,6 +229,7 @@ allocated = 2026-03-19T06:18:28.835449Z
     "MINI-p92p-h48p-6pmr",
     "MINI-pg3r-g76v-c47g",
     "MINI-pgjq-pgw6-5mxw",
+    "MINI-pjxx-2mj3-hxww",
     "MINI-pp49-gqjq-6p8h",
     "MINI-ppm7-c6xm-x279",
     "MINI-pppq-7fq4-x47p",
@@ -315,3 +317,4 @@ allocated = 2026-03-19T06:18:28.835449Z
     "MINI-xw3m-p625-g7mq",
     "MINI-xx7q-x92v-jw4g",
   ]
+  opensuse = ["openSUSE-SU-2026:10407-1"]
