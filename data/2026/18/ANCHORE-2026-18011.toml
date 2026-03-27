@@ -1,0 +1,7 @@
+[security]
+id = "ANCHORE-2026-18011"
+allocated = 2026-03-27T09:03:18.201517Z
+
+  [security.aliases]
+  github = ["GHSA-cp57-fq8g-qh6v"]
+  rustsec = ["RUSTSEC-2026-0077"]

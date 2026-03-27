@@ -27,7 +27,12 @@ allocated = 2026-01-20T14:47:43.213311Z
   ]
   minimos = ["MINI-phc3-7qpg-76g2"]
   redhat = ["RHSA-2026:2786", "RHSA-2026:4772"]
-  oraclelinux = ["ELSA-2026-2786", "ELSA-2026-4772", "ELSA-2026-50120"]
+  oraclelinux = [
+    "ELSA-2026-2786",
+    "ELSA-2026-4772",
+    "ELSA-2026-50120",
+    "ELSA-2026-50174",
+  ]
   almalinux = ["ALSA-2026:2786", "ALSA-2026:4772"]
   fedora = ["FEDORA-2026-205d532069", "FEDORA-2026-a2f3af8a86"]
   photon = ["PHSA-2026-5.0-0749"]

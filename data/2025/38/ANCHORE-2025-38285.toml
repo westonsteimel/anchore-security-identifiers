@@ -18,7 +18,11 @@ allocated = 2025-10-15T14:17:46.235774Z
     "CGA-q5g6-vp8q-cj29",
     "CGA-w88r-9xmv-hhv8",
   ]
-  minimos = ["MINI-45ch-35qc-9fv4"]
+  minimos = [
+    "MINI-45ch-35qc-9fv4",
+    "MINI-g6f5-4gh3-w796",
+    "MINI-xg7p-jq27-f2cr",
+  ]
   go = ["GO-2025-4020"]
   fedora = [
     "FEDORA-2025-73b0006102",

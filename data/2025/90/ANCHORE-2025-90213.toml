@@ -469,6 +469,7 @@ allocated = 2025-10-30T18:05:38.679882Z
     "RHSA-2026:4532",
     "RHSA-2026:4533",
     "RHSA-2026:4693",
+    "RHSA-2026:5086",
     "RHSA-2026:5234",
   ]
   echo = ["ECHO-fc4a-06a9-746f"]
@@ -571,6 +572,7 @@ allocated = 2025-10-30T18:05:38.679882Z
     "FEDORA-2025-ffac32ead0",
     "FEDORA-2026-004192d79d",
     "FEDORA-2026-49b5d5c5e6",
+    "FEDORA-2026-76033f35ea",
     "FEDORA-2026-c9fb6d2b76",
     "FEDORA-2026-ce1dd0caa0",
     "FEDORA-2026-de52e7caa1",

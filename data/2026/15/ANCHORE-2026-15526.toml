@@ -14,3 +14,10 @@ allocated = 2026-03-23T08:24:43.293587Z
     "BIT-python-2026-4519",
     "BIT-python-min-2026-4519",
   ]
+  fedora = [
+    "FEDORA-2026-15f71c015c",
+    "FEDORA-2026-1fb0e26534",
+    "FEDORA-2026-3b4578d2f4",
+    "FEDORA-2026-838bf0f5d5",
+    "FEDORA-2026-e2f42121f3",
+  ]

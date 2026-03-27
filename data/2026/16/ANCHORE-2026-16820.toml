@@ -8,3 +8,4 @@ allocated = 2026-03-25T08:00:03.385078Z
   enisa = ["EUVD-2026-14837"]
   github = ["GHSA-9979-85jw-xp9m"]
   opensuse = ["openSUSE-SU-2026:10413-1"]
+  redhat = ["RHSA-2026:5930", "RHSA-2026:5931", "RHSA-2026:5932"]

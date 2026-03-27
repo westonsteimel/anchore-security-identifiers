@@ -10,3 +10,5 @@ allocated = 2026-02-26T06:15:46.331691Z
   ubuntu = ["USN-8105-1"]
   amazonlinux = ["ALAS2-2026-3199"]
   opensuse = ["openSUSE-SU-2026:10408-1"]
+  redhat = ["RHSA-2026:5936", "RHSA-2026:5939"]
+  oraclelinux = ["ELSA-2026-5939"]

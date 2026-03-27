@@ -8,3 +8,4 @@ allocated = 2026-01-31T13:57:24.955900Z
   github = ["GHSA-r8hg-wq4j-qxmg"]
   enisa = ["EUVD-2026-5077"]
   suse = ["SUSE-SU-2026:0962-1", "SUSE-SU-2026:20667-1", "SUSE-SU-2026:20720-1"]
+  chainguard = ["CGA-p7j5-79gr-h89g"]

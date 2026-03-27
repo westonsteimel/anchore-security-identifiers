@@ -19,6 +19,7 @@ allocated = 2026-01-20T20:59:49.334471Z
   ]
   fedora = [
     "FEDORA-2026-06635fd623",
+    "FEDORA-2026-47a943ac72",
     "FEDORA-2026-7585365ba3",
     "FEDORA-2026-ab51ea3744",
   ]

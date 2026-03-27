@@ -25,3 +25,4 @@ allocated = 2026-01-14T16:47:10.907468Z
     "SUSE-SU-2026:20615-1",
   ]
   opensuse = ["openSUSE-SU-2026:20287-1"]
+  chainguard = ["CGA-mqxf-8852-rq46"]

@@ -1,0 +1,7 @@
+[security]
+id = "ANCHORE-2026-18026"
+allocated = 2026-03-27T09:03:18.212066Z
+
+  [security.aliases]
+  github = ["GHSA-pwqr-wmgm-9rr8"]
+  chainguard = ["CGA-wf6r-m9m7-hvjf"]

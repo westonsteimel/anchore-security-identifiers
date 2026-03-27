@@ -19,5 +19,9 @@ allocated = 2026-02-26T06:15:46.251271Z
     "openEuler-SA-2026-1549",
     "openEuler-SA-2026-1550",
   ]
-  fedora = ["FEDORA-2026-a92f2096cd", "FEDORA-2026-f7473d3da8"]
+  fedora = [
+    "FEDORA-2026-71154797a5",
+    "FEDORA-2026-a92f2096cd",
+    "FEDORA-2026-f7473d3da8",
+  ]
   opensuse = ["openSUSE-SU-2026:10274-1"]

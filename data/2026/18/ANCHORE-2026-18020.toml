@@ -1,0 +1,6 @@
+[security]
+id = "ANCHORE-2026-18020"
+allocated = 2026-03-27T09:03:18.207671Z
+
+  [security.aliases]
+  github = ["GHSA-363v-5rh8-23wg"]

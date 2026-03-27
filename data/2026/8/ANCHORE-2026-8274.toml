@@ -8,3 +8,5 @@ allocated = 2026-02-13T16:15:41.726966Z
   debian = ["DLA-4483-1", "DSA-6139-1"]
   amazonlinux = ["ALAS2GIMP-2026-011"]
   suse = ["SUSE-SU-2026:0604-1"]
+  enisa = ["EUVD-2026-16340"]
+  github = ["GHSA-688g-4qr3-6q47"]

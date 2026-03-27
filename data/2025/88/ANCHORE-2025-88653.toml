@@ -24,3 +24,4 @@ allocated = 2025-10-22T18:07:33.478290Z
   ]
   photon = ["PHSA-2021-4.0-0065"]
   enisa = ["EUVD-2023-60024"]
+  redhat = ["RHSA-2024:9315"]

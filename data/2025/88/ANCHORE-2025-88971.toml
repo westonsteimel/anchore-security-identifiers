@@ -20,4 +20,4 @@ allocated = 2025-10-23T15:30:45.980051Z
   ]
   photon = ["PHSA-2025-5.0-0666"]
   enisa = ["EUVD-2025-35663"]
-  opensuse = ["openSUSE-SU-2025:15766-1"]
+  opensuse = ["openSUSE-SU-2025:15766-1", "openSUSE-SU-2026:20384-1"]

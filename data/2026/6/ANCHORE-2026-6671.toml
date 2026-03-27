@@ -73,5 +73,7 @@ allocated = 2026-02-05T18:55:50.819439Z
     "openSUSE-SU-2026:20245-1",
     "openSUSE-SU-2026:20326-1",
     "openSUSE-SU-2026:20364-1",
+    "openSUSE-SU-2026:20377-1",
+    "openSUSE-SU-2026:20380-1",
   ]
   enisa = ["EUVD-2026-5587"]
