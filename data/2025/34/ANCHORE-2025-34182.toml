@@ -87,7 +87,7 @@ allocated = 2025-10-15T14:17:43.372815Z
     "ALSA-2026:3407",
   ]
   julia = ["JLSEC-2025-173"]
-  mageia = ["MGASA-2025-0240"]
+  mageia = ["MGASA-2025-0240", "MGASA-2026-0080", "MGASA-2026-0081"]
   bellsoft = ["BELL-SA-2025-13", "BELL-SA-2025:13"]
   ubuntu = ["USN-8022-1"]
   fedora = [

@@ -1,0 +1,8 @@
+[security]
+id = "ANCHORE-2026-19349"
+allocated = 2026-04-03T04:42:26.769642Z
+
+  [security.aliases]
+  cve = ["CVE-2026-33617"]
+  gcve = ["GCVE-0-2026-33617"]
+  github = ["GHSA-x585-wrhm-2vx3"]

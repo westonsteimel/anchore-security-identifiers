@@ -85,6 +85,7 @@ allocated = 2025-10-15T14:17:39.000485Z
     "SUSE-SU-2026:20896-1",
     "SUSE-SU-2026:20897-1",
     "SUSE-SU-2026:20898-1",
+    "SUSE-SU-2026:20946-1",
   ]
   echo = ["ECHO-674e-420e-fe7a"]
   amazonlinux = [

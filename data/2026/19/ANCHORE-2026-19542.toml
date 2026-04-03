@@ -1,0 +1,7 @@
+[security]
+id = "ANCHORE-2026-19542"
+allocated = 2026-04-03T04:42:33.455697Z
+
+  [security.aliases]
+  github = ["GHSA-3hfp-gqgh-xc5g"]
+  snyk = ["SNYK-JS-AXIOS-15850650", "SNYK-JS-PLAINCRYPTOJS-15850652"]

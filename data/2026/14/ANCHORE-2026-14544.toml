@@ -11,3 +11,8 @@ allocated = 2026-03-16T12:45:48.232973Z
   mageia = ["MGASA-2026-0061"]
   suse = ["SUSE-SU-2026:1137-1", "SUSE-SU-2026:1159-1"]
   opensuse = ["openSUSE-SU-2026:10466-1"]
+  amazonlinux = [
+    "ALAS2-2026-3219",
+    "ALAS2023-2026-1518",
+    "ALAS2FIREFOX-2026-055",
+  ]

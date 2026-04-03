@@ -1,0 +1,8 @@
+[security]
+id = "ANCHORE-2026-19492"
+allocated = 2026-04-03T04:42:26.946008Z
+
+  [security.aliases]
+  cve = ["CVE-2024-44303"]
+  gcve = ["GCVE-0-2024-44303"]
+  github = ["GHSA-hpmv-cmmm-3mqx"]

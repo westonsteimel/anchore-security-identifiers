@@ -14,4 +14,12 @@ allocated = 2026-03-17T06:19:56.516649Z
     "BIT-python-2026-3644",
     "BIT-python-min-2026-3644",
   ]
-  opensuse = ["openSUSE-SU-2026:10469-1"]
+  opensuse = [
+    "openSUSE-SU-2026:10469-1",
+    "openSUSE-SU-2026:10477-1",
+    "openSUSE-SU-2026:10478-1",
+    "openSUSE-SU-2026:10479-1",
+    "openSUSE-SU-2026:10480-1",
+    "openSUSE-SU-2026:10481-1",
+  ]
+  amazonlinux = ["ALAS2-2026-3217", "ALAS2-2026-3218"]

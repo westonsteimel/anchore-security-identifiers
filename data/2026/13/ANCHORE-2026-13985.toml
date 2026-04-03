@@ -17,3 +17,8 @@ allocated = 2026-03-13T06:14:44.941907Z
     "MINI-mmf6-mxcf-4qp2",
   ]
   chainguard = ["CGA-xmgj-hc7r-rjjg"]
+  amazonlinux = [
+    "ALAS2023-2026-1524",
+    "ALAS2023-2026-1525",
+    "ALAS2023-2026-1526",
+  ]

@@ -5,5 +5,9 @@ allocated = 2026-03-23T08:24:45.635771Z
   [security.aliases]
   github = ["GHSA-9f94-5g5w-gf6r"]
   rustsec = ["RUSTSEC-2026-0042", "RUSTSEC-2026-0048"]
-  minimos = ["MINI-gxc6-2v9p-8fq3"]
+  minimos = [
+    "MINI-37cj-564v-w58g",
+    "MINI-gxc6-2v9p-8fq3",
+    "MINI-m95r-25pq-7rgw",
+  ]
   chainguard = ["CGA-2hvw-crv4-gr28"]

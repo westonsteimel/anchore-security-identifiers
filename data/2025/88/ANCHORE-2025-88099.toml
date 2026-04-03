@@ -41,7 +41,7 @@ allocated = 2025-10-20T08:11:19.101959Z
   almalinux = ["ALSA-2025:19107", "ALSA-2025:20935", "ALSA-2025:21002"]
   debian = ["DLA-4369-1", "DSA-6047-1"]
   fedora = ["FEDORA-2025-252c9276b3", "FEDORA-2025-f0452df4e2"]
-  photon = ["PHSA-2025-5.0-0690"]
+  photon = ["PHSA-2025-5.0-0690", "PHSA-2026-4.0-0955"]
   enisa = ["EUVD-2025-34894"]
   suse = [
     "SUSE-SU-2025:3902-1",

@@ -1,0 +1,8 @@
+[security]
+id = "ANCHORE-2026-19327"
+allocated = 2026-04-03T04:42:26.749272Z
+
+  [security.aliases]
+  cve = ["CVE-2026-0686"]
+  gcve = ["GCVE-0-2026-0686"]
+  github = ["GHSA-pwm7-wr54-2jxv"]

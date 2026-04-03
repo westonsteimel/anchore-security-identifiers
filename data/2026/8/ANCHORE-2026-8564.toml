@@ -29,7 +29,12 @@ allocated = 2026-02-16T01:19:11.876309Z
     "ALAS2KERNEL-5.15-2026-098",
     "ALAS2KERNEL-5.15-2026-099",
   ]
-  oraclelinux = ["ELSA-2026-50145", "ELSA-2026-50160"]
+  oraclelinux = [
+    "ELSA-2026-50145",
+    "ELSA-2026-50160",
+    "ELSA-2026-6037",
+    "ELSA-2026-6153",
+  ]
   suse = [
     "SUSE-SU-2026:0962-1",
     "SUSE-SU-2026:0984-1",
@@ -44,6 +49,7 @@ allocated = 2026-02-16T01:19:11.876309Z
     "SUSE-SU-2026:20838-1",
     "SUSE-SU-2026:20845-1",
     "SUSE-SU-2026:20876-1",
+    "SUSE-SU-2026:20931-1",
   ]
   opensuse = ["openSUSE-SU-2026:20416-1"]
   almalinux = ["ALSA-2026:6036", "ALSA-2026:6037"]

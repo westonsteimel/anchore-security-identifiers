@@ -4,3 +4,4 @@ allocated = 2026-03-27T09:03:18.248649Z
 
   [security.aliases]
   github = ["GHSA-prh4-vhfh-24mj"]
+  go = ["GO-2026-4876"]

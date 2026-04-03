@@ -15,6 +15,7 @@ allocated = 2026-03-23T08:24:43.293587Z
     "BIT-python-min-2026-4519",
   ]
   fedora = [
+    "FEDORA-2026-013fb3d1bc",
     "FEDORA-2026-156169f944",
     "FEDORA-2026-15f71c015c",
     "FEDORA-2026-1a816eeca2",
@@ -40,5 +41,20 @@ allocated = 2026-03-23T08:24:43.293587Z
     "RHSA-2026:6285",
     "RHSA-2026:6286",
   ]
-  opensuse = ["openSUSE-SU-2026:10469-1"]
-  oraclelinux = ["ELSA-2026-6256"]
+  opensuse = [
+    "openSUSE-SU-2026:10469-1",
+    "openSUSE-SU-2026:10477-1",
+    "openSUSE-SU-2026:10478-1",
+    "openSUSE-SU-2026:10479-1",
+    "openSUSE-SU-2026:10480-1",
+    "openSUSE-SU-2026:10481-1",
+  ]
+  oraclelinux = [
+    "ELSA-2026-6256",
+    "ELSA-2026-6281",
+    "ELSA-2026-6283",
+    "ELSA-2026-6285",
+    "ELSA-2026-6286",
+  ]
+  chainguard = ["CGA-mwjj-543v-2qxw"]
+  photon = ["PHSA-2026-4.0-0990"]

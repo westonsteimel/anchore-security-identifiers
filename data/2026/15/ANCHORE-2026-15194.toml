@@ -61,6 +61,7 @@ allocated = 2026-03-19T06:18:28.835449Z
     "MINI-5ggf-8wg8-9xq9",
     "MINI-5ghp-3xh4-7x65",
     "MINI-5h5w-8q5g-gfpv",
+    "MINI-5hpp-rhm3-w9g8",
     "MINI-5pxm-j2q5-j5m3",
     "MINI-5qm8-m87j-q63g",
     "MINI-5qwm-gwfr-6cg8",
@@ -123,6 +124,7 @@ allocated = 2026-03-19T06:18:28.835449Z
     "MINI-9hgv-9wvm-r8px",
     "MINI-9m64-7cm2-h233",
     "MINI-9p9p-6j29-62cv",
+    "MINI-9qqg-3hcw-mmr8",
     "MINI-9qvh-2hr2-mqm5",
     "MINI-9w6w-9rjv-7c7x",
     "MINI-9x4v-fxxp-g42m",
@@ -331,5 +333,6 @@ allocated = 2026-03-19T06:18:28.835449Z
     "openSUSE-SU-2026:10419-1",
     "openSUSE-SU-2026:10420-1",
     "openSUSE-SU-2026:10432-1",
+    "openSUSE-SU-2026:10474-1",
   ]
   go = ["GO-2026-4762"]

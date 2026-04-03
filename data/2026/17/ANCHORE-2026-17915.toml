@@ -7,3 +7,12 @@ allocated = 2026-03-27T09:03:12.947868Z
   gcve = ["GCVE-0-2026-21724"]
   enisa = ["EUVD-2026-16338"]
   github = ["GHSA-7g92-g4vh-hp84"]
+  minimos = [
+    "MINI-2v58-35xh-63m5",
+    "MINI-3h3q-m2p8-874q",
+    "MINI-3m8r-c538-g455",
+    "MINI-7qpp-pgg8-rvx7",
+    "MINI-9jjj-xw7w-qc9x",
+    "MINI-w4mv-f233-53q2",
+    "MINI-w5wg-hw6j-5gv5",
+  ]

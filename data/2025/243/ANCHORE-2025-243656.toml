@@ -1,0 +1,8 @@
+[security]
+id = "ANCHORE-2025-243656"
+allocated = 2026-04-03T04:42:27.224703Z
+
+  [security.aliases]
+  cve = ["CVE-2025-13763"]
+  gcve = ["GCVE-0-2025-13763"]
+  opensuse = ["openSUSE-SU-2026:10475-1"]

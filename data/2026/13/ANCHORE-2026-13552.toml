@@ -10,3 +10,5 @@ allocated = 2026-03-11T12:04:38.983466Z
   minimos = ["MINI-wq64-4mqj-q9hr"]
   redhat = ["RHSA-2026:6259"]
   ubuntu = ["USN-8131-1"]
+  amazonlinux = ["ALAS2-2026-3209", "ALAS2023-2026-1503"]
+  oraclelinux = ["ELSA-2026-6259"]

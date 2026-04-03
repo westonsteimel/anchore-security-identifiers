@@ -7,3 +7,4 @@ allocated = 2025-12-26T18:07:09.820117Z
   gcve = ["GCVE-0-2023-54011"]
   github = ["GHSA-v87f-6285-pqgv"]
   enisa = ["EUVD-2025-205144"]
+  redhat = ["RHSA-2023:6583", "RHSA-2023:7077"]

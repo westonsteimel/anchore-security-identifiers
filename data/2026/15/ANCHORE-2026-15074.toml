@@ -7,3 +7,4 @@ allocated = 2026-03-19T06:18:23.285910Z
   gcve = ["GCVE-0-2026-23263"]
   enisa = ["EUVD-2026-12900"]
   github = ["GHSA-3qg9-j2gc-w8g9"]
+  amazonlinux = ["ALAS2023-2026-1514"]

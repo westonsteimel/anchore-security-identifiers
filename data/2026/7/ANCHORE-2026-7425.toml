@@ -62,6 +62,8 @@ allocated = 2026-02-10T19:01:03.460624Z
     "FEDORA-2026-2af2f2fa9d",
     "FEDORA-2026-a9ae661fa2",
     "FEDORA-2026-dba3079676",
+    "FEDORA-2026-dfa60d30bc",
+    "FEDORA-2026-e1669a5881",
   ]
   photon = ["PHSA-2026-4.0-0966", "PHSA-2026-5.0-0764"]
   enisa = ["EUVD-2026-7050"]

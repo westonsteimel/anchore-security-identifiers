@@ -9,3 +9,4 @@ allocated = 2026-03-11T06:12:59.649816Z
   enisa = ["EUVD-2026-10800"]
   bitnami = ["BIT-envoy-2026-26309"]
   go = ["GO-2026-4663"]
+  amazonlinux = ["ALAS2023-2026-1532", "ALAS2ECS-2026-100"]

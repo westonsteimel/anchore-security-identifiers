@@ -97,6 +97,7 @@ duplicates = ["ANCHORE-2025-234840"]
     "SUSE-SU-2025:4479-1",
     "SUSE-SU-2025:4482-1",
     "SUSE-SU-2026:0777-1",
+    "SUSE-SU-2026:20904-1",
   ]
   fedora = [
     "FEDORA-2025-00368e9022",

@@ -9,3 +9,4 @@ allocated = 2026-02-26T06:15:46.325809Z
   fedora = ["FEDORA-2026-53fe996a57"]
   ubuntu = ["USN-8105-1"]
   opensuse = ["openSUSE-SU-2026:10408-1"]
+  amazonlinux = ["ALAS2023-2026-1512"]

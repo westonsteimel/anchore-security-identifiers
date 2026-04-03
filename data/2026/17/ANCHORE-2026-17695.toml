@@ -9,3 +9,11 @@ allocated = 2026-03-26T10:48:00.947795Z
   mageia = ["MGASA-2026-0071"]
   enisa = ["EUVD-2026-17178"]
   github = ["GHSA-8jgr-5cgv-g667"]
+  minimos = [
+    "MINI-346r-233v-8xx8",
+    "MINI-883f-42qv-6h9q",
+    "MINI-cvx5-gqpr-47w9",
+    "MINI-j7j2-qhh9-ffhm",
+    "MINI-mf96-89h3-6cc3",
+    "MINI-v6q8-j2gw-v3xf",
+  ]
