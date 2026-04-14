@@ -1,6 +1,7 @@
 [security]
 id = "ANCHORE-2026-20077"
 allocated = 2026-04-06T04:49:30.945423Z
+duplicates = ["ANCHORE-2026-21288"]
 
   [security.aliases]
   github = ["GHSA-5hr4-253g-cpx2"]
