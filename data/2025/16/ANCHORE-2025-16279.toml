@@ -8,6 +8,7 @@ allocated = 2025-10-15T14:17:30.684032Z
   github = ["GHSA-rc42-6c7j-7h5r"]
   chainguard = [
     "CGA-3g2w-6vpw-c433",
+    "CGA-4x52-94c9-8rvh",
     "CGA-7h95-gfx9-4jv5",
     "CGA-mcfv-66f9-8p82",
   ]

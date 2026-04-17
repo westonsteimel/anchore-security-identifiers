@@ -15,6 +15,7 @@ allocated = 2026-04-15T04:49:36.478933Z
     "MINI-56v4-3jv3-gv27",
     "MINI-5vvh-frpx-3v34",
     "MINI-75jm-7rwx-8vcj",
+    "MINI-7ghq-frm6-qj8g",
     "MINI-7m74-57j6-pf33",
     "MINI-7p33-92j3-9g3v",
     "MINI-9p42-7m96-96hx",
@@ -32,3 +33,4 @@ allocated = 2026-04-15T04:49:36.478933Z
     "MINI-wg23-6f8j-mqhv",
     "MINI-xjwp-9r4w-q4r5",
   ]
+  chainguard = ["CGA-5h9p-26x9-27gj"]

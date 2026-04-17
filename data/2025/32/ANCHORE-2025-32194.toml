@@ -36,9 +36,11 @@ allocated = 2025-10-15T14:17:41.984285Z
   ]
   minimos = [
     "MINI-24jc-rvm8-x3cq",
+    "MINI-55rr-q3g6-h3hq",
     "MINI-7gj3-72wq-f5xj",
     "MINI-8gvc-2w4w-pxvx",
     "MINI-8h9w-c7cg-j8g3",
+    "MINI-cf84-fr3f-jjg7",
     "MINI-f4h9-qqhh-w564",
     "MINI-h5q5-5gjx-9x4r",
     "MINI-hrgg-xv9m-p3vq",
@@ -107,6 +109,7 @@ allocated = 2025-10-15T14:17:41.984285Z
     "SUSE-FU-2026:20990-1",
     "SUSE-SU-2025:21158-1",
     "SUSE-SU-2025:3869-1",
+    "SUSE-SU-2026:1361-1",
     "SUSE-SU-2026:20077-1",
     "SUSE-SU-2026:20096-1",
     "SUSE-SU-2026:20235-1",

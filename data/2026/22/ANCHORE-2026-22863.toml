@@ -6,3 +6,12 @@ allocated = 2026-04-16T04:53:28.151301Z
   cve = ["CVE-2026-34000"]
   gcve = ["GCVE-0-2026-34000"]
   echo = ["ECHO-3dd8-08d4-1c16"]
+  suse = [
+    "SUSE-SU-2026:1328-1",
+    "SUSE-SU-2026:1330-1",
+    "SUSE-SU-2026:1331-1",
+    "SUSE-SU-2026:1332-1",
+    "SUSE-SU-2026:1333-1",
+    "SUSE-SU-2026:1335-1",
+  ]
+  opensuse = ["openSUSE-SU-2026:10556-1", "openSUSE-SU-2026:10557-1"]

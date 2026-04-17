@@ -17,6 +17,7 @@ allocated = 2026-03-17T06:19:56.539186Z
   ]
   fedora_epel = ["FEDORA-EPEL-2026-52be5354a0"]
   amazonlinux = ["ALAS2-2026-3216", "ALAS2023-2026-1517"]
-  redhat = ["RHSA-2026:6470"]
+  redhat = ["RHSA-2026:6470", "RHSA-2026:8311"]
   oraclelinux = ["ELSA-2026-6470"]
   almalinux = ["ALSA-2026:6470"]
+  opensuse = ["openSUSE-SU-2026:10551-1"]

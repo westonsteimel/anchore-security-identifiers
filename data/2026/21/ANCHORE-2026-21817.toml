@@ -4,3 +4,4 @@ allocated = 2026-04-13T04:56:01.180411Z
 
   [security.aliases]
   github = ["GHSA-jvff-x2qm-6286"]
+  chainguard = ["CGA-7w7c-g5cw-c39p"]

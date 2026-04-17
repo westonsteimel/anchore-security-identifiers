@@ -4,3 +4,4 @@ allocated = 2026-04-16T04:53:33.914118Z
 
   [security.aliases]
   github = ["GHSA-pxq7-h93f-9jrg"]
+  minimos = ["MINI-3wc2-hw99-vv3j", "MINI-8274-3ph2-7xx8"]
