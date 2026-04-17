@@ -8,3 +8,4 @@ allocated = 2025-10-15T14:16:18.289301Z
   github = ["GHSA-q77q-vx4q-xx6q"]
   debian = ["DLA-4246-1"]
   enisa = ["EUVD-2022-1809"]
+  ubuntu = ["USN-8181-1"]

@@ -9,3 +9,4 @@ allocated = 2026-04-14T04:50:37.879348Z
   github = ["GHSA-pcvx-ph33-r5vv"]
   minimos = ["MINI-v7ff-v35x-498j"]
   echo = ["ECHO-1ce2-9161-9612"]
+  opensuse = ["openSUSE-SU-2026:10559-1"]

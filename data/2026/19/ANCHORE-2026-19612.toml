@@ -204,5 +204,9 @@ allocated = 2026-04-03T04:42:33.501313Z
     "MINI-xwgj-555w-mfgh",
   ]
   enisa = ["EUVD-2026-19363"]
-  fedora = ["FEDORA-2026-e520168745"]
+  fedora = [
+    "FEDORA-2026-49fd0d9636",
+    "FEDORA-2026-a5015b57b9",
+    "FEDORA-2026-e520168745",
+  ]
   opensuse = ["openSUSE-SU-2026:10529-1"]

@@ -23,4 +23,4 @@ allocated = 2026-01-28T11:40:52.770601Z
     "SUSE-SU-2026:20876-1",
   ]
   opensuse = ["openSUSE-SU-2026:20287-1"]
-  ubuntu = ["USN-8162-1"]
+  ubuntu = ["USN-8162-1", "USN-8180-1"]

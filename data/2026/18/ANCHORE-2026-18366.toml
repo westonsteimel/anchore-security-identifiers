@@ -10,3 +10,4 @@ allocated = 2026-03-30T10:07:18.203632Z
   minimos = ["MINI-f9vm-mg6q-rmx5", "MINI-r5mq-vf37-j5p9"]
   chainguard = ["CGA-ppv9-mjqf-c9x4"]
   photon = ["PHSA-2026-5.0-0812"]
+  fedora = ["FEDORA-2026-58dd426edd"]

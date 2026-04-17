@@ -7,3 +7,4 @@ allocated = 2025-10-15T14:17:08.087310Z
   gcve = ["GCVE-0-2024-7545"]
   github = ["GHSA-f64h-f2xm-35c7"]
   enisa = ["EUVD-2024-48452"]
+  ubuntu = ["USN-8178-1"]

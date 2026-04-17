@@ -26,3 +26,4 @@ allocated = 2026-04-13T04:55:55.220047Z
     "MINI-wj3v-5f62-x5mr",
   ]
   opensuse = ["openSUSE-SU-2026:10544-1"]
+  chainguard = ["CGA-99gg-5485-cvhj"]

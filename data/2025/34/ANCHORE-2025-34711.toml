@@ -31,7 +31,7 @@ allocated = 2025-10-15T14:17:43.747691Z
     "openEuler-SA-2025-2634",
     "openEuler-SA-2025-2635",
   ]
-  oraclelinux = ["ELSA-2025-25754", "ELSA-2026-50160"]
+  oraclelinux = ["ELSA-2025-25754", "ELSA-2026-50160", "ELSA-2026-50232"]
   enisa = ["EUVD-2025-29582"]
   ubuntu = [
     "USN-8095-1",

@@ -7,4 +7,4 @@ allocated = 2025-10-15T14:17:38.298534Z
   gcve = ["GCVE-0-2025-49087"]
   github = ["GHSA-fmjv-q9m9-j657"]
   enisa = ["EUVD-2025-22030"]
-  fedora = ["FEDORA-2026-d619d8d077"]
+  fedora = ["FEDORA-2026-29f4f47ade", "FEDORA-2026-d619d8d077"]

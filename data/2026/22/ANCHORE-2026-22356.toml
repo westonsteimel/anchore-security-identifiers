@@ -9,3 +9,15 @@ allocated = 2026-04-15T04:49:36.601746Z
   enisa = ["EUVD-2026-22635"]
   minimos = ["MINI-7wwv-6482-55r9", "MINI-m3j3-2w32-ph94"]
   ubuntu = ["USN-8176-1"]
+  chainguard = ["CGA-qq7f-cmwq-26wf"]
+  redhat = [
+    "RHSA-2026:8467",
+    "RHSA-2026:8468",
+    "RHSA-2026:8469",
+    "RHSA-2026:8470",
+    "RHSA-2026:8471",
+    "RHSA-2026:8472",
+    "RHSA-2026:8473",
+    "RHSA-2026:8474",
+    "RHSA-2026:8475",
+  ]

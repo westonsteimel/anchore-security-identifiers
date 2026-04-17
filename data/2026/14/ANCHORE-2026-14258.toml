@@ -8,3 +8,5 @@ allocated = 2026-03-16T06:31:36.939136Z
   enisa = ["EUVD-2026-12091"]
   github = ["GHSA-f38f-5xpm-9r7c"]
   opensuse = ["openSUSE-SU-2026:10379-1"]
+  fedora = ["FEDORA-2026-a2778fcae6", "FEDORA-2026-ec61ca906c"]
+  fedora_epel = ["FEDORA-EPEL-2026-437fe6eb99"]

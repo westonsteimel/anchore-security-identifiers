@@ -8,3 +8,11 @@ allocated = 2026-03-23T08:24:43.023094Z
   enisa = ["EUVD-2026-13097"]
   github = ["GHSA-c75f-55f6-f63q"]
   echo = ["ECHO-0051-e755-e08e"]
+  redhat = [
+    "RHSA-2026:8492",
+    "RHSA-2026:8510",
+    "RHSA-2026:8517",
+    "RHSA-2026:8521",
+    "RHSA-2026:8534",
+  ]
+  oraclelinux = ["ELSA-2026-8492"]

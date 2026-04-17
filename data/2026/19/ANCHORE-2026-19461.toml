@@ -13,3 +13,4 @@ allocated = 2026-04-03T04:42:26.891559Z
     "MINI-pfq4-7ghw-xf4m",
     "MINI-rfg4-7hqj-6mwx",
   ]
+  ubuntu = ["USN-8182-1"]

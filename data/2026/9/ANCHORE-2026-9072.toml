@@ -27,4 +27,4 @@ allocated = 2026-02-18T15:02:14.666156Z
     "ALAS2023-2026-1487",
     "ALAS2KERNEL-5.10-2026-114",
   ]
-  oraclelinux = ["ELSA-2026-50160"]
+  oraclelinux = ["ELSA-2026-50160", "ELSA-2026-50232"]

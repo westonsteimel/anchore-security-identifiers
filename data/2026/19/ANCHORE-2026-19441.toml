@@ -27,3 +27,4 @@ allocated = 2026-04-03T04:42:26.874303Z
     "MINI-x455-266f-vm3q",
   ]
   opensuse = ["openSUSE-SU-2026:10508-1"]
+  ubuntu = ["USN-8182-1"]

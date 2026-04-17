@@ -9,3 +9,4 @@ allocated = 2026-04-09T04:43:12.877530Z
   enisa = ["EUVD-2026-20701"]
   debian = ["DSA-6205-1"]
   opensuse = ["openSUSE-SU-2026:10530-1"]
+  chainguard = ["CGA-32xx-526w-6232"]

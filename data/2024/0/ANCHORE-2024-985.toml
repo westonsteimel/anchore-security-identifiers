@@ -6,3 +6,4 @@ allocated = 2025-10-15T14:16:52.073896Z
   cve = ["CVE-2024-21637"]
   gcve = ["GCVE-0-2024-21637"]
   enisa = ["EUVD-2024-19275"]
+  bitnami = ["BIT-authentik-2024-21637"]

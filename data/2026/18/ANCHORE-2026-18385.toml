@@ -8,3 +8,9 @@ allocated = 2026-03-30T10:07:18.214583Z
   github = ["GHSA-2vwv-vqpv-v8vc"]
   enisa = ["EUVD-2026-17073"]
   echo = ["ECHO-fe78-e324-d857"]
+  redhat = [
+    "RHSA-2026:8510",
+    "RHSA-2026:8517",
+    "RHSA-2026:8521",
+    "RHSA-2026:8534",
+  ]
