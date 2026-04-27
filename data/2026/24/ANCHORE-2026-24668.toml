@@ -6,3 +6,7 @@ allocated = 2026-04-24T04:54:55.140231Z
   cve = ["CVE-2026-41246"]
   gcve = ["GCVE-0-2026-41246"]
   enisa = ["EUVD-2026-25280"]
+  github = ["GHSA-x4mj-7f9g-29h4"]
+  chainguard = ["CGA-6fcw-5x87-xhp2"]
+  bitnami = ["BIT-contour-2026-41246"]
+  minimos = ["MINI-2p5x-cx7p-cgc7", "MINI-68wr-6883-73r8"]

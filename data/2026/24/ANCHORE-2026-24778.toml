@@ -5,3 +5,15 @@ allocated = 2026-04-24T04:54:55.249255Z
   [security.aliases]
   cve = ["CVE-2026-41485"]
   gcve = ["GCVE-0-2026-41485"]
+  enisa = ["EUVD-2026-25392"]
+  chainguard = ["CGA-4q7q-7q3j-38wq"]
+  minimos = [
+    "MINI-7w84-vc66-qf4x",
+    "MINI-96g6-rqj4-prpr",
+    "MINI-fcpv-pq26-g59r",
+    "MINI-g932-h364-jw74",
+    "MINI-gq76-4v74-cgqj",
+    "MINI-h633-28gc-9qh5",
+    "MINI-mprf-8jxx-79r6",
+    "MINI-r8c2-2r3p-gcq7",
+  ]

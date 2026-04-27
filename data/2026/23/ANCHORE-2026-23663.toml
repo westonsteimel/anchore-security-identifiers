@@ -8,3 +8,15 @@ allocated = 2026-04-21T04:52:08.219148Z
   enisa = ["EUVD-2026-23849"]
   github = ["GHSA-wf66-mphr-4c4r"]
   bitnami = ["BIT-kafka-2026-33558"]
+  minimos = [
+    "MINI-2f8w-p58c-fp9q",
+    "MINI-39cf-9jvx-phqh",
+    "MINI-3hhw-vhmh-x577",
+    "MINI-4w65-qhxg-8px3",
+    "MINI-72f6-7r9f-4cp4",
+    "MINI-cmh2-2p4p-4c62",
+    "MINI-gcx9-x85r-3pf6",
+    "MINI-hqgv-7r2r-q857",
+    "MINI-v4j9-rxq3-hcvx",
+    "MINI-xf3j-c755-vjr3",
+  ]

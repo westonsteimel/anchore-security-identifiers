@@ -13,7 +13,7 @@ allocated = 2026-04-15T04:49:36.494142Z
     "BIT-python-2026-5713",
     "BIT-python-min-2026-5713",
   ]
-  fedora = ["FEDORA-2026-382df0cfce"]
+  fedora = ["FEDORA-2026-382df0cfce", "FEDORA-2026-841a2250e4"]
   redhat = [
     "RHSA-2026:7443",
     "RHSA-2026:8822",

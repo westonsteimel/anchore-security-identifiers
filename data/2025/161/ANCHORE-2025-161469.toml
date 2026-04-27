@@ -31,5 +31,6 @@ allocated = 2025-11-12T09:01:26.308046Z
     "SUSE-SU-2026:0279-1",
     "SUSE-SU-2026:0375-1",
     "SUSE-SU-2026:20050-1",
+    "SUSE-SU-2026:21263-1",
   ]
   opensuse = ["openSUSE-SU-2025:15746-1", "openSUSE-SU-2025:20100-1"]

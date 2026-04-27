@@ -9,3 +9,15 @@ allocated = 2026-04-13T04:55:55.454043Z
   github = ["GHSA-w54f-pw7x-c532"]
   echo = ["ECHO-970d-b2f9-098e"]
   suse = ["SUSE-SU-2026:1343-1"]
+  openeuler = [
+    "OESA-2026-2048",
+    "OESA-2026-2049",
+    "OESA-2026-2050",
+    "OESA-2026-2051",
+    "OESA-2026-2052",
+    "openEuler-SA-2026-2048",
+    "openEuler-SA-2026-2049",
+    "openEuler-SA-2026-2050",
+    "openEuler-SA-2026-2051",
+    "openEuler-SA-2026-2052",
+  ]

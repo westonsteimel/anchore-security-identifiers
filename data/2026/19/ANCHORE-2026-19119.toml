@@ -10,3 +10,4 @@ allocated = 2026-04-02T04:41:50.272251Z
   chainguard = ["CGA-g3vh-m4ww-whjm"]
   opensuse = ["openSUSE-SU-2026:10505-1"]
   julia = ["JLSEC-2026-145"]
+  fedora = ["FEDORA-2026-11097124bf"]

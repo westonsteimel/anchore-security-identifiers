@@ -19,11 +19,13 @@ allocated = 2026-03-31T10:23:05.742832Z
     "MINI-734q-3vxf-x93r",
     "MINI-75w6-mrr6-898p",
     "MINI-77rm-v3jm-gh6j",
+    "MINI-7vm2-f8m3-g3qm",
     "MINI-8fjm-q57x-h7vm",
     "MINI-8gqr-2pxj-5rwj",
     "MINI-9j6w-c386-5v68",
     "MINI-9q6v-jx44-pmhw",
     "MINI-c557-vvv7-crqq",
+    "MINI-c7vr-vfq8-9xrg",
     "MINI-ccgx-5chc-gqvv",
     "MINI-cfr7-j6v2-594r",
     "MINI-f9xw-cgmp-mf63",
@@ -45,6 +47,7 @@ allocated = 2026-03-31T10:23:05.742832Z
     "MINI-qcmx-fh74-g4xm",
     "MINI-qg6v-mg8m-5x7w",
     "MINI-qgqp-wf46-5876",
+    "MINI-rhgq-67m5-h8wm",
     "MINI-rmx5-26hx-5fh8",
     "MINI-rqr5-c946-pgpc",
     "MINI-vj8v-jhjq-ggqc",
@@ -58,3 +61,4 @@ allocated = 2026-03-31T10:23:05.742832Z
   ]
   go = ["GO-2026-4910"]
   opensuse = ["openSUSE-SU-2026:10509-1"]
+  fedora = ["FEDORA-2026-6fc2f11089"]

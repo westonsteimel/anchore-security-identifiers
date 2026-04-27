@@ -7,7 +7,11 @@ allocated = 2026-04-02T04:41:50.184509Z
   gcve = ["GCVE-0-2026-35092"]
   github = ["GHSA-g4g9-h6f9-v5x2"]
   enisa = ["EUVD-2026-17881"]
-  fedora = ["FEDORA-2026-95ee0edcd5", "FEDORA-2026-ee4ff58256"]
+  fedora = [
+    "FEDORA-2026-95ee0edcd5",
+    "FEDORA-2026-e34a334e81",
+    "FEDORA-2026-ee4ff58256",
+  ]
   ubuntu = ["USN-8170-1"]
   amazonlinux = ["ALAS2023-2026-1560"]
   suse = ["SUSE-SU-2026:1394-1", "SUSE-SU-2026:21224-1"]
@@ -15,8 +19,12 @@ allocated = 2026-04-02T04:41:50.184509Z
     "OESA-2026-1964",
     "OESA-2026-1965",
     "OESA-2026-1966",
+    "OESA-2026-2046",
+    "OESA-2026-2047",
     "openEuler-SA-2026-1964",
     "openEuler-SA-2026-1965",
     "openEuler-SA-2026-1966",
+    "openEuler-SA-2026-2046",
+    "openEuler-SA-2026-2047",
   ]
   opensuse = ["openSUSE-SU-2026:20505-1"]

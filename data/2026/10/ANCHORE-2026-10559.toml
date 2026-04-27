@@ -35,3 +35,15 @@ allocated = 2026-02-26T06:15:46.330169Z
   ]
   almalinux = ["ALSA-2026:5939", "ALSA-2026:6004", "ALSA-2026:6005"]
   mageia = ["MGASA-2026-0086"]
+  openeuler = [
+    "OESA-2026-2036",
+    "OESA-2026-2037",
+    "OESA-2026-2038",
+    "OESA-2026-2039",
+    "OESA-2026-2040",
+    "openEuler-SA-2026-2036",
+    "openEuler-SA-2026-2037",
+    "openEuler-SA-2026-2038",
+    "openEuler-SA-2026-2039",
+    "openEuler-SA-2026-2040",
+  ]

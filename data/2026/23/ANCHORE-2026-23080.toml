@@ -7,3 +7,4 @@ allocated = 2026-04-17T04:52:19.352246Z
   chainguard = ["CGA-86p8-28p6-g554"]
   cve = ["CVE-2026-40897"]
   gcve = ["GCVE-0-2026-40897"]
+  enisa = ["EUVD-2026-25571"]

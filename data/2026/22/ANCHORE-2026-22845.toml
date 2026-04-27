@@ -8,3 +8,8 @@ allocated = 2026-04-16T04:53:27.863234Z
   enisa = ["EUVD-2026-23149"]
   github = ["GHSA-wxm2-x9x9-x5mj"]
   debian = ["DSA-6217-1"]
+  fedora = [
+    "FEDORA-2026-036e523144",
+    "FEDORA-2026-52b9116b3d",
+    "FEDORA-2026-b42cf3db3b",
+  ]

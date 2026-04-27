@@ -23,3 +23,4 @@ allocated = 2026-04-01T09:47:09.147224Z
     "openEuler-SA-2026-1863",
     "openEuler-SA-2026-1864",
   ]
+  photon = ["PHSA-2026-4.0-1002", "PHSA-2026-5.0-0830"]

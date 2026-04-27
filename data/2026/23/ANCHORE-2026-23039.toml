@@ -6,4 +6,9 @@ allocated = 2026-04-17T04:52:19.320218Z
   github = ["GHSA-xgp8-3hg3-c2mh"]
   rustsec = ["RUSTSEC-2026-0099"]
   chainguard = ["CGA-66j7-pfx4-g5hh"]
-  minimos = ["MINI-385q-fcrf-8gr8", "MINI-j8ch-xf4f-vc54"]
+  minimos = [
+    "MINI-385q-fcrf-8gr8",
+    "MINI-7r39-9h76-mwwr",
+    "MINI-f9q6-grjq-7pvg",
+    "MINI-j8ch-xf4f-vc54",
+  ]

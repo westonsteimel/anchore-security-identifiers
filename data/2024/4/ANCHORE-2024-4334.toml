@@ -10,3 +10,15 @@ allocated = 2025-10-15T14:16:54.416947Z
   ubuntu = ["USN-6695-1", "USN-7985-1"]
   mageia = ["MGASA-2024-0108"]
   enisa = ["EUVD-2024-22598"]
+  openeuler = [
+    "OESA-2026-2110",
+    "OESA-2026-2111",
+    "OESA-2026-2112",
+    "OESA-2026-2113",
+    "OESA-2026-2114",
+    "openEuler-SA-2026-2110",
+    "openEuler-SA-2026-2111",
+    "openEuler-SA-2026-2112",
+    "openEuler-SA-2026-2113",
+    "openEuler-SA-2026-2114",
+  ]

@@ -7,3 +7,13 @@ allocated = 2026-04-24T04:54:55.135436Z
   gcve = ["GCVE-0-2026-40886"]
   enisa = ["EUVD-2026-25267"]
   github = ["GHSA-5jv8-h7qh-rf5p"]
+  chainguard = ["CGA-m56j-h8gv-cgw8"]
+  bitnami = ["BIT-argo-workflows-2026-40886"]
+  minimos = [
+    "MINI-4756-cp55-mj5m",
+    "MINI-4p7p-95jq-xm6c",
+    "MINI-7f6q-7528-w8q5",
+    "MINI-fpxg-3j83-9h4f",
+    "MINI-g25v-q3g6-6m7r",
+    "MINI-gphq-6wx9-r99m",
+  ]

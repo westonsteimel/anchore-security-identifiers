@@ -6,3 +6,9 @@ allocated = 2026-04-22T04:50:27.185297Z
   cve = ["CVE-2026-40613"]
   gcve = ["GCVE-0-2026-40613"]
   enisa = ["EUVD-2026-24228"]
+  fedora = [
+    "FEDORA-2026-1adc5f1ef8",
+    "FEDORA-2026-1c11dc3e37",
+    "FEDORA-2026-e673311164",
+  ]
+  fedora_epel = ["FEDORA-EPEL-2026-84fff0d811", "FEDORA-EPEL-2026-e0c1b77ba1"]

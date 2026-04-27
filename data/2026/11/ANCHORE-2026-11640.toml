@@ -21,3 +21,4 @@ allocated = 2026-03-05T06:11:17.433750Z
     "openEuler-SA-2026-1681",
   ]
   chainguard = ["CGA-q463-qq6h-m3vj"]
+  jvndb = ["JVNDB-2026-006408"]

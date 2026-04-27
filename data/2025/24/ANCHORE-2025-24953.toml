@@ -11,6 +11,7 @@ allocated = 2025-10-15T14:17:36.745961Z
   fedora = [
     "FEDORA-2025-cbd9bd51dd",
     "FEDORA-2026-29f4f47ade",
+    "FEDORA-2026-52a9a687f0",
     "FEDORA-2026-d619d8d077",
   ]
   enisa = ["EUVD-2025-20081"]

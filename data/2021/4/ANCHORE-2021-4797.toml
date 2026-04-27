@@ -21,3 +21,4 @@ allocated = 2025-10-15T14:16:01.127395Z
   ]
   cnvd = ["CNVD-2021-24265"]
   enisa = ["EUVD-2021-7640"]
+  julia = ["JLSEC-2026-183"]

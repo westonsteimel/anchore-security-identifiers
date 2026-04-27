@@ -13,3 +13,8 @@ allocated = 2026-04-10T04:50:29.840144Z
     "MINI-h6ph-mhw5-hmmg",
     "MINI-v794-fjww-447v",
   ]
+  fedora = [
+    "FEDORA-2026-34c2bf6df4",
+    "FEDORA-2026-b4633cbe23",
+    "FEDORA-2026-e9ecdd44c4",
+  ]

@@ -6,7 +6,9 @@ allocated = 2026-03-23T08:24:45.635771Z
   github = ["GHSA-9f94-5g5w-gf6r"]
   rustsec = ["RUSTSEC-2026-0042", "RUSTSEC-2026-0048"]
   minimos = [
+    "MINI-2mxc-x544-36px",
     "MINI-37cj-564v-w58g",
+    "MINI-3rr3-crv7-vp34",
     "MINI-gxc6-2v9p-8fq3",
     "MINI-m6jc-4qmj-c6x2",
     "MINI-m95r-25pq-7rgw",

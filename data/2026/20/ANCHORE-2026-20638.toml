@@ -600,4 +600,9 @@ allocated = 2026-04-08T13:30:03.443050Z
     "MINI-xxqh-cjv6-xhq5",
   ]
   bitnami = ["BIT-golang-2026-32281"]
-  suse = ["SUSE-SU-2026:1320-1", "SUSE-SU-2026:1321-1"]
+  suse = [
+    "SUSE-SU-2026:1320-1",
+    "SUSE-SU-2026:1321-1",
+    "SUSE-SU-2026:1580-1",
+    "SUSE-SU-2026:1581-1",
+  ]

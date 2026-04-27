@@ -63,6 +63,7 @@ allocated = 2026-02-10T19:01:03.460624Z
     "ELSA-2026-4756",
     "ELSA-2026-6439",
     "ELSA-2026-6445",
+    "ELSA-2026-7032",
   ]
   almalinux = [
     "ALSA-2026:3031",
@@ -79,9 +80,11 @@ allocated = 2026-02-10T19:01:03.460624Z
     "FEDORA-2026-168ebcb4a8",
     "FEDORA-2026-1bf9e14627",
     "FEDORA-2026-2af2f2fa9d",
+    "FEDORA-2026-3adf4e38cb",
     "FEDORA-2026-4e514c1c36",
     "FEDORA-2026-60fce94678",
     "FEDORA-2026-a9ae661fa2",
+    "FEDORA-2026-bcba077d11",
     "FEDORA-2026-dba3079676",
     "FEDORA-2026-dfa60d30bc",
     "FEDORA-2026-e1669a5881",

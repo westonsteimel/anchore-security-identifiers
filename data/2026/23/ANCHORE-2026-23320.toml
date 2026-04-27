@@ -6,3 +6,15 @@ allocated = 2026-04-20T04:56:18.070533Z
   cve = ["CVE-2026-28214"]
   gcve = ["GCVE-0-2026-28214"]
   enisa = ["EUVD-2026-23466"]
+  openeuler = [
+    "OESA-2026-2013",
+    "OESA-2026-2014",
+    "OESA-2026-2015",
+    "OESA-2026-2016",
+    "OESA-2026-2017",
+    "openEuler-SA-2026-2013",
+    "openEuler-SA-2026-2014",
+    "openEuler-SA-2026-2015",
+    "openEuler-SA-2026-2016",
+    "openEuler-SA-2026-2017",
+  ]

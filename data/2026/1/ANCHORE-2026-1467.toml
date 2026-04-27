@@ -7,9 +7,11 @@ allocated = 2026-01-07T22:45:29.287457Z
   rustsec = ["RUSTSEC-2026-0002"]
   chainguard = ["CGA-8p7q-m2xc-9jw5"]
   minimos = [
+    "MINI-474h-6hj6-f9v5",
     "MINI-4qgf-45pj-v4fh",
     "MINI-55pw-9hpm-4cpp",
     "MINI-9g67-32r6-8j98",
+    "MINI-c273-42rm-9h2x",
     "MINI-cvw2-p8h6-fwh3",
     "MINI-jrgp-w692-f384",
     "MINI-mp43-crwc-jw7r",

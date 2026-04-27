@@ -8,3 +8,18 @@ allocated = 2026-04-16T04:53:27.698270Z
   enisa = ["EUVD-2026-22872"]
   github = ["GHSA-p93r-85wp-75v3"]
   opensuse = ["openSUSE-SU-2026:10571-1"]
+  chainguard = ["CGA-vgfm-4x3c-36fm"]
+  minimos = [
+    "MINI-9fhh-7qh6-qjfc",
+    "MINI-9gpq-px8v-4v7v",
+    "MINI-9w2c-wvmw-j584",
+    "MINI-c9ph-m5f8-2m3f",
+    "MINI-cmw7-g43w-6386",
+    "MINI-j8fv-79xx-pf7q",
+    "MINI-jq97-f2xg-wcf8",
+    "MINI-jrgq-4597-47vv",
+    "MINI-qqwx-p4mm-xwhv",
+    "MINI-qv6f-f8qv-q67g",
+    "MINI-rxvf-c49x-q84q",
+    "MINI-ww9c-jmhj-v5wp",
+  ]

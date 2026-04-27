@@ -1,0 +1,12 @@
+[security]
+id = "ANCHORE-2026-25195"
+allocated = 2026-04-27T04:59:18.857806Z
+
+  [security.aliases]
+  cve = ["CVE-2026-39858"]
+  gcve = ["GCVE-0-2026-39858"]
+  minimos = [
+    "MINI-8f27-87m9-q3h6",
+    "MINI-cgx4-x4hc-hjjq",
+    "MINI-rrvw-f54g-chph",
+  ]

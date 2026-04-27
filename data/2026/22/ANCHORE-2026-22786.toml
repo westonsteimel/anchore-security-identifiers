@@ -7,3 +7,11 @@ allocated = 2026-04-16T04:53:27.784286Z
   gcve = ["GCVE-0-2026-40917"]
   enisa = ["EUVD-2026-23024"]
   github = ["GHSA-856r-6q67-9x29"]
+  openeuler = [
+    "OESA-2026-2000",
+    "OESA-2026-2001",
+    "OESA-2026-2002",
+    "openEuler-SA-2026-2000",
+    "openEuler-SA-2026-2001",
+    "openEuler-SA-2026-2002",
+  ]

@@ -7,7 +7,11 @@ allocated = 2026-04-02T04:41:50.271461Z
   gcve = ["GCVE-0-2026-34544"]
   enisa = ["EUVD-2026-18060"]
   github = ["GHSA-h762-rhv3-h25v"]
-  fedora = ["FEDORA-2026-abd4c1829d"]
+  fedora = [
+    "FEDORA-2026-11097124bf",
+    "FEDORA-2026-502486fc61",
+    "FEDORA-2026-abd4c1829d",
+  ]
   chainguard = ["CGA-rp3q-hh6r-c8mj"]
   opensuse = ["openSUSE-SU-2026:10505-1"]
   amazonlinux = ["ALAS2023-2026-1561"]

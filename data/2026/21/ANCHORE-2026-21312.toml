@@ -7,3 +7,8 @@ allocated = 2026-04-10T04:50:29.920131Z
   gcve = ["GCVE-0-2026-39977"]
   enisa = ["EUVD-2026-21045"]
   opensuse = ["openSUSE-SU-2026:10590-1"]
+  fedora = [
+    "FEDORA-2026-25ff246b4f",
+    "FEDORA-2026-5e62b78a0c",
+    "FEDORA-2026-631b9d535c",
+  ]

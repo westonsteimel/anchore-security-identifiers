@@ -10,4 +10,9 @@ allocated = 2026-04-16T04:53:27.801022Z
   chainguard = ["CGA-gxcj-grm4-wgv7"]
   debian = ["DSA-6214-1"]
   opensuse = ["openSUSE-SU-2026:10572-1", "openSUSE-SU-2026:20588-1"]
-  fedora = ["FEDORA-2026-d3c82235d4"]
+  fedora = [
+    "FEDORA-2026-3675ac2066",
+    "FEDORA-2026-ca6321e5f1",
+    "FEDORA-2026-d3c82235d4",
+  ]
+  fedora_epel = ["FEDORA-EPEL-2026-9ce82c1a41"]

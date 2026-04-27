@@ -20,9 +20,23 @@ allocated = 2026-04-14T04:50:37.846141Z
     "FEDORA-2026-382df0cfce",
     "FEDORA-2026-5e7144a6af",
     "FEDORA-2026-77d74cf57f",
+    "FEDORA-2026-841a2250e4",
     "FEDORA-2026-a5ba8297fd",
     "FEDORA-2026-dd34c4467b",
     "FEDORA-2026-f684007460",
   ]
-  redhat = ["RHSA-2026:8822", "RHSA-2026:8824", "RHSA-2026:9228"]
+  redhat = [
+    "RHSA-2026:10117",
+    "RHSA-2026:8822",
+    "RHSA-2026:8824",
+    "RHSA-2026:9228",
+  ]
   chainguard = ["CGA-49qp-h3gj-c2h5"]
+  openeuler = [
+    "OESA-2026-2115",
+    "OESA-2026-2116",
+    "OESA-2026-2117",
+    "openEuler-SA-2026-2115",
+    "openEuler-SA-2026-2116",
+    "openEuler-SA-2026-2117",
+  ]

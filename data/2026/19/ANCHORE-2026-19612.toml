@@ -12,6 +12,7 @@ allocated = 2026-04-03T04:42:33.501313Z
     "MINI-24pw-jj8v-xj2q",
     "MINI-273m-c7qh-2frp",
     "MINI-2cm4-gcvg-p9m7",
+    "MINI-2h8j-cw78-4x5g",
     "MINI-2hx2-4m55-v8j8",
     "MINI-2m9c-65m7-666m",
     "MINI-2r63-3fhg-jr83",
@@ -34,6 +35,7 @@ allocated = 2026-04-03T04:42:33.501313Z
     "MINI-4m75-99q5-5w6w",
     "MINI-4qxx-hj3h-qvqc",
     "MINI-4v32-p6m2-gmp6",
+    "MINI-4xxv-3fhf-6f3m",
     "MINI-522x-wxgv-448m",
     "MINI-5288-cq7g-9m6j",
     "MINI-52mg-34m7-g78x",
@@ -81,6 +83,7 @@ allocated = 2026-04-03T04:42:33.501313Z
     "MINI-8mv5-3fm8-jvqm",
     "MINI-8rp8-vjgx-mgpw",
     "MINI-8w28-6r7r-6g5m",
+    "MINI-952h-hqcr-5r4g",
     "MINI-95fw-66w6-5qpq",
     "MINI-9fvf-7v28-rgp9",
     "MINI-9g4h-jrv5-52xx",
@@ -228,8 +231,17 @@ allocated = 2026-04-03T04:42:33.501313Z
     "FEDORA-2026-245867ac28",
     "FEDORA-2026-48994e5a45",
     "FEDORA-2026-49fd0d9636",
+    "FEDORA-2026-605559bfe2",
     "FEDORA-2026-75c2b7868a",
+    "FEDORA-2026-853a2fa7e5",
     "FEDORA-2026-a5015b57b9",
+    "FEDORA-2026-af08c3b44f",
     "FEDORA-2026-e520168745",
   ]
-  opensuse = ["openSUSE-SU-2026:10529-1", "openSUSE-SU-2026:10577-1"]
+  opensuse = [
+    "openSUSE-SU-2026:10529-1",
+    "openSUSE-SU-2026:10577-1",
+    "openSUSE-SU-2026:10613-1",
+  ]
+  redhat = ["RHSA-2026:10135"]
+  oraclelinux = ["ELSA-2026-10135"]

@@ -5,3 +5,11 @@ allocated = 2026-04-24T04:54:55.241451Z
   [security.aliases]
   cve = ["CVE-2026-41316"]
   gcve = ["GCVE-0-2026-41316"]
+  enisa = ["EUVD-2026-25385"]
+  github = ["GHSA-q339-8rmv-2mhv"]
+  opensuse = ["openSUSE-SU-2026:10609-1"]
+  minimos = [
+    "MINI-2rm4-mr5r-9hh7",
+    "MINI-97r8-38m9-8fw4",
+    "MINI-fmfc-gfx6-hqj5",
+  ]

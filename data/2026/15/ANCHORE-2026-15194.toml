@@ -68,6 +68,7 @@ allocated = 2026-03-19T06:18:28.835449Z
     "MINI-54fq-cgp4-52f2",
     "MINI-575v-grgf-69f4",
     "MINI-58x6-qq53-p7mc",
+    "MINI-5cxq-5mww-9x8r",
     "MINI-5ggf-8wg8-9xq9",
     "MINI-5ghp-3xh4-7x65",
     "MINI-5h5w-8q5g-gfpv",
@@ -208,6 +209,7 @@ allocated = 2026-03-19T06:18:28.835449Z
     "MINI-h85r-w5j8-h563",
     "MINI-h9h8-f3fh-cgf7",
     "MINI-hcc2-639v-hx9q",
+    "MINI-hcpp-gmvc-7jj4",
     "MINI-hf96-89j9-w6vm",
     "MINI-hh5r-8g58-x94p",
     "MINI-hh66-8qcq-xjrx",
@@ -311,6 +313,7 @@ allocated = 2026-03-19T06:18:28.835449Z
     "MINI-rfch-qvj4-37mq",
     "MINI-rfqx-2hq3-h72m",
     "MINI-rghg-8jqp-3vm7",
+    "MINI-rgv5-3wcx-w6gc",
     "MINI-rgxj-cgr2-vhpc",
     "MINI-rjpg-3735-h89c",
     "MINI-rpfc-hc85-cjf6",
@@ -382,8 +385,11 @@ allocated = 2026-03-19T06:18:28.835449Z
     "openSUSE-SU-2026:10484-1",
     "openSUSE-SU-2026:10523-1",
     "openSUSE-SU-2026:10601-1",
+    "openSUSE-SU-2026:10612-1",
+    "openSUSE-SU-2026:10613-1",
     "openSUSE-SU-2026:20555-1",
     "openSUSE-SU-2026:20584-1",
+    "openSUSE-SU-2026:20603-1",
   ]
   go = ["GO-2026-4762"]
   suse = [
@@ -400,6 +406,7 @@ allocated = 2026-03-19T06:18:28.835449Z
     "SUSE-SU-2026:21115-1",
     "SUSE-SU-2026:21128-1",
     "SUSE-SU-2026:21210-1",
+    "SUSE-SU-2026:21272-1",
   ]
   openeuler = [
     "OESA-2026-1866",
@@ -427,3 +434,4 @@ allocated = 2026-03-19T06:18:28.835449Z
     "ALAS2ECS-2026-106",
     "ALAS2NITRO-ENCLAVES-2026-094",
   ]
+  redhat = ["RHSA-2026:10107"]

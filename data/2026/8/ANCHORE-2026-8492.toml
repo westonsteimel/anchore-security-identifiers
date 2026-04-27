@@ -13,6 +13,7 @@ allocated = 2026-02-16T01:19:11.813972Z
   suse = ["SUSE-SU-2026:20838-1", "SUSE-SU-2026:20931-1"]
   opensuse = ["openSUSE-SU-2026:20416-1"]
   redhat = [
+    "RHSA-2026:10108",
     "RHSA-2026:6153",
     "RHSA-2026:6632",
     "RHSA-2026:8342",

@@ -10,6 +10,7 @@ allocated = 2026-03-30T10:07:18.211910Z
   opensuse = ["openSUSE-SU-2026:10471-1", "openSUSE-SU-2026:20456-1"]
   fedora = [
     "FEDORA-2026-1c7a717dbc",
+    "FEDORA-2026-9695fbdabb",
     "FEDORA-2026-d67a979089",
     "FEDORA-2026-d8daf8790f",
   ]

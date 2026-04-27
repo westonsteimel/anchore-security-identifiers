@@ -12,3 +12,11 @@ allocated = 2026-04-22T04:50:27.249787Z
     "MINI-h2cf-cc8w-5c5r",
     "MINI-r45w-j397-c2vx",
   ]
+  openeuler = [
+    "OESA-2026-2118",
+    "OESA-2026-2119",
+    "OESA-2026-2120",
+    "openEuler-SA-2026-2118",
+    "openEuler-SA-2026-2119",
+    "openEuler-SA-2026-2120",
+  ]

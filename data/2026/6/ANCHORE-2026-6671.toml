@@ -22,6 +22,7 @@ allocated = 2026-02-05T18:55:50.819439Z
     "SUSE-SU-2026:0816-1",
     "SUSE-SU-2026:0819-1",
     "SUSE-SU-2026:1361-1",
+    "SUSE-SU-2026:1599-1",
     "SUSE-SU-2026:20526-1",
     "SUSE-SU-2026:20534-1",
     "SUSE-SU-2026:20575-1",
@@ -30,12 +31,15 @@ allocated = 2026-02-05T18:55:50.819439Z
     "SUSE-SU-2026:20723-1",
     "SUSE-SU-2026:20744-1",
     "SUSE-SU-2026:20748-1",
+    "SUSE-SU-2026:21275-1",
   ]
   minimos = [
     "MINI-332f-9mpc-h4x8",
     "MINI-43rg-74j3-f2wm",
+    "MINI-4frj-5p32-vm6c",
     "MINI-4v64-w5jf-6732",
     "MINI-559f-p2hw-rcqx",
+    "MINI-59qp-2v76-r57x",
     "MINI-675x-w687-pjgx",
     "MINI-7wqx-hhwm-w47r",
     "MINI-98j3-93fm-c394",
@@ -60,6 +64,7 @@ allocated = 2026-02-05T18:55:50.819439Z
     "FEDORA-2026-086a367966",
     "FEDORA-2026-1ace5758de",
     "FEDORA-2026-6388b28850",
+    "FEDORA-2026-9e223ca14f",
     "FEDORA-2026-a92ff0085d",
     "FEDORA-2026-e6237c2efe",
     "FEDORA-2026-eb2fc8e93d",
@@ -84,5 +89,6 @@ allocated = 2026-02-05T18:55:50.819439Z
     "openSUSE-SU-2026:20364-1",
     "openSUSE-SU-2026:20377-1",
     "openSUSE-SU-2026:20380-1",
+    "openSUSE-SU-2026:20610-1",
   ]
   enisa = ["EUVD-2026-5587"]

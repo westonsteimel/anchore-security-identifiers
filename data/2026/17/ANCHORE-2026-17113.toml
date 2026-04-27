@@ -11,6 +11,7 @@ allocated = 2026-03-25T13:16:29.148821Z
   fedora = [
     "FEDORA-2026-04263e2a5b",
     "FEDORA-2026-11e168602c",
+    "FEDORA-2026-2b21a4dafe",
     "FEDORA-2026-66f19b11e0",
   ]
   fedora_epel = ["FEDORA-EPEL-2026-01ea52d899"]
