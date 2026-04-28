@@ -21,3 +21,4 @@ allocated = 2025-10-15T14:15:40.073087Z
   photon = ["PHSA-2019-3.0-0033"]
   cnvd = ["CNVD-2021-04811"]
   enisa = ["EUVD-2019-10106"]
+  julia = ["JLSEC-2026-215"]

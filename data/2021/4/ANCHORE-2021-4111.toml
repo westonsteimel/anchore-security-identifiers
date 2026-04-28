@@ -12,3 +12,4 @@ allocated = 2025-10-15T14:16:00.663760Z
   fedora = ["FEDORA-2021-977ebc82da", "FEDORA-2021-f5f2803fff"]
   cnvd = ["CNVD-2021-19747"]
   enisa = ["EUVD-2020-23824"]
+  julia = ["JLSEC-2026-209"]

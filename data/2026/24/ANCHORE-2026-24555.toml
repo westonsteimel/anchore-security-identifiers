@@ -6,9 +6,18 @@ allocated = 2026-04-23T04:52:46.508240Z
   github = ["GHSA-w5hq-g745-h8pq"]
   chainguard = ["CGA-wrmw-5p46-6jx3"]
   minimos = [
+    "MINI-3cg8-8g52-fmhc",
+    "MINI-3vwj-wq86-95r4",
     "MINI-3xfw-7rgq-9jgv",
     "MINI-4jq9-qgpv-j92r",
     "MINI-c6fj-8ch5-mx23",
     "MINI-cwv4-gw3f-rxc3",
+    "MINI-gg82-hrpm-2prw",
+    "MINI-h44v-6jcq-p62g",
+    "MINI-jj6m-7424-hjcj",
+    "MINI-mq2v-9f8g-g9mm",
+    "MINI-r58g-4c9h-634m",
+    "MINI-vc4m-rpph-p5m9",
+    "MINI-w6fp-p6qm-p33j",
     "MINI-xq7c-q25r-76rm",
   ]

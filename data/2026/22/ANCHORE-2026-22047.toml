@@ -11,3 +11,4 @@ allocated = 2026-04-14T04:50:37.894588Z
   redhat = ["RHSA-2026:8579"]
   fedora = ["FEDORA-2026-0eb8e878b6", "FEDORA-2026-4e57162966"]
   photon = ["PHSA-2026-4.0-1000", "PHSA-2026-5.0-0827"]
+  ubuntu = ["USN-8202-1"]

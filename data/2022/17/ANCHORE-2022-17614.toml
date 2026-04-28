@@ -8,3 +8,4 @@ allocated = 2025-10-15T14:16:24.674256Z
   github = ["GHSA-rm26-47ch-9hp5"]
   pypa = ["PYSEC-2022-43149"]
   enisa = ["EUVD-2022-0210"]
+  julia = ["JLSEC-2026-186"]

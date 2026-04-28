@@ -19,3 +19,4 @@ allocated = 2025-10-15T14:17:11.005797Z
   ]
   enisa = ["EUVD-2024-41551"]
   jvndb = ["JVNDB-2024-000099"]
+  julia = ["JLSEC-2026-188"]

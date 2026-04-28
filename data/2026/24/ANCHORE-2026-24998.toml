@@ -6,3 +6,9 @@ allocated = 2026-04-27T04:59:18.354448Z
   cve = ["CVE-2026-41898"]
   gcve = ["GCVE-0-2026-41898"]
   enisa = ["EUVD-2026-25587"]
+  minimos = [
+    "MINI-2cxv-gvqx-8whw",
+    "MINI-3xfr-hhf8-mgg3",
+    "MINI-9m7q-6wg4-363f",
+    "MINI-jfh4-m2p8-pq58",
+  ]

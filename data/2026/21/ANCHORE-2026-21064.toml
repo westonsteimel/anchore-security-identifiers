@@ -16,3 +16,4 @@ allocated = 2026-04-09T04:43:12.851137Z
   ]
   chainguard = ["CGA-6mcv-h8fh-cjq5"]
   fedora_epel = ["FEDORA-EPEL-2026-4bb81189d7"]
+  minimos = ["MINI-g3fr-982p-mcm8"]

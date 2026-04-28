@@ -5,3 +5,10 @@ allocated = 2026-04-23T04:52:46.508966Z
   [security.aliases]
   github = ["GHSA-hppc-g8h3-xhp3"]
   chainguard = ["CGA-9gv9-5hg2-rfj9"]
+  minimos = [
+    "MINI-2cxv-gvqx-8whw",
+    "MINI-3xfr-hhf8-mgg3",
+    "MINI-9m7q-6wg4-363f",
+    "MINI-cj9x-w323-jp2f",
+    "MINI-jfh4-m2p8-pq58",
+  ]

@@ -27,3 +27,4 @@ allocated = 2026-04-01T09:47:09.065043Z
     "FEDORA-2026-b4633cbe23",
     "FEDORA-2026-e9ecdd44c4",
   ]
+  redhat = ["RHSA-2026:10710", "RHSA-2026:10713"]

@@ -83,3 +83,4 @@ allocated = 2026-01-28T11:40:52.946974Z
     "openEuler-SA-2026-1749",
     "openEuler-SA-2026-1750",
   ]
+  julia = ["JLSEC-2026-263"]

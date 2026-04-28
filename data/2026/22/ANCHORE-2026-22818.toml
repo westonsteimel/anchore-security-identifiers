@@ -16,3 +16,4 @@ allocated = 2026-04-16T04:53:27.817428Z
     "FEDORA-2026-d3c82235d4",
   ]
   fedora_epel = ["FEDORA-EPEL-2026-9ce82c1a41"]
+  minimos = ["MINI-6p3v-rp6g-g3r8"]

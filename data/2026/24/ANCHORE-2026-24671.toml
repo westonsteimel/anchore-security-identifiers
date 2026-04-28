@@ -6,3 +6,4 @@ allocated = 2026-04-24T04:54:55.142900Z
   cve = ["CVE-2026-41259"]
   gcve = ["GCVE-0-2026-41259"]
   enisa = ["EUVD-2026-25282"]
+  bitnami = ["BIT-mastodon-2026-41259"]

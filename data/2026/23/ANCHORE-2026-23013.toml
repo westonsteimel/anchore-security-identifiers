@@ -9,3 +9,4 @@ allocated = 2026-04-17T04:52:13.434297Z
   echo = ["ECHO-c041-b4eb-d85f"]
   debian = ["DSA-6222-1"]
   redhat = ["RHSA-2026:9113"]
+  opensuse = ["openSUSE-SU-2026:10621-1"]

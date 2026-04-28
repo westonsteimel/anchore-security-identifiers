@@ -8,3 +8,4 @@ allocated = 2025-10-15T14:16:07.321625Z
   github = ["GHSA-4wgw-2p35-h26h"]
   archlinux = ["AVG-2325"]
   enisa = ["EUVD-2020-10885"]
+  julia = ["JLSEC-2026-199"]

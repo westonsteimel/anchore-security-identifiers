@@ -10,3 +10,4 @@ allocated = 2026-04-09T04:43:12.875758Z
   debian = ["DSA-6205-1"]
   opensuse = ["openSUSE-SU-2026:10530-1", "openSUSE-SU-2026:20575-1"]
   chainguard = ["CGA-96gf-8679-6c22"]
+  minimos = ["MINI-2m39-36q5-p63p"]

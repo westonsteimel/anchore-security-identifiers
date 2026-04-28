@@ -11,3 +11,4 @@ allocated = 2025-10-15T14:16:00.654593Z
   mageia = ["MGASA-2021-0290"]
   fedora = ["FEDORA-2021-977ebc82da", "FEDORA-2021-f5f2803fff"]
   enisa = ["EUVD-2020-23820"]
+  julia = ["JLSEC-2026-205"]

@@ -8,8 +8,10 @@ allocated = 2026-04-22T04:50:27.304001Z
   enisa = ["EUVD-2026-24395"]
   github = ["GHSA-565v-jcgw-g7vh"]
   minimos = [
+    "MINI-2cv9-462j-3f36",
     "MINI-2wr5-xrhq-mfjm",
     "MINI-fxhr-2qg5-c9fp",
+    "MINI-hfp5-r62w-hwqf",
     "MINI-x554-jf3f-f6x5",
   ]
   openeuler = [

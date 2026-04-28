@@ -9,7 +9,9 @@ allocated = 2026-04-22T04:50:27.260141Z
   github = ["GHSA-wcjc-hfgv-f5wc"]
   minimos = [
     "MINI-4pg8-j7p6-cc56",
+    "MINI-857p-rv57-m9wh",
     "MINI-94g5-fx2v-j5mc",
+    "MINI-j8hx-r7mw-vgmh",
     "MINI-xg36-fvv7-5563",
   ]
   openeuler = [

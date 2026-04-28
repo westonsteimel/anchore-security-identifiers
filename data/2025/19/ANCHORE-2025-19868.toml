@@ -11,3 +11,4 @@ allocated = 2025-10-15T14:17:33.186480Z
   chainguard = ["CGA-97mc-5jrp-289h"]
   enisa = ["EUVD-2025-16128"]
   opensuse = ["openSUSE-SU-2025:15183-1"]
+  julia = ["JLSEC-2026-259"]

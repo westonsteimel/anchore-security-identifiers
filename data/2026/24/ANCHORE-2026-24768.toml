@@ -9,7 +9,17 @@ allocated = 2026-04-24T04:54:55.241451Z
   github = ["GHSA-q339-8rmv-2mhv"]
   opensuse = ["openSUSE-SU-2026:10609-1"]
   minimos = [
+    "MINI-28qx-8vr9-x9rm",
     "MINI-2rm4-mr5r-9hh7",
+    "MINI-48x5-jcf5-w28w",
+    "MINI-7fcp-qrvm-4vh8",
+    "MINI-83qg-295f-cwp3",
     "MINI-97r8-38m9-8fw4",
     "MINI-fmfc-gfx6-hqj5",
+    "MINI-hpmj-chv8-whv3",
+    "MINI-jp3g-7hqx-x2v7",
+    "MINI-jvg7-3m89-29j4",
+    "MINI-ppwx-vr2x-r5wc",
+    "MINI-q5c6-f36g-q9gc",
+    "MINI-q7fx-f8qm-3hf5",
   ]

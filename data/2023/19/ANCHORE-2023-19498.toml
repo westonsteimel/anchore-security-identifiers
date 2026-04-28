@@ -8,3 +8,4 @@ allocated = 2025-10-15T14:16:43.643433Z
   github = ["GHSA-f5w2-2h32-hmg6"]
   openeuler = ["OESA-2024-1814", "openEuler-SA-2024-1814"]
   enisa = ["EUVD-2020-14454"]
+  julia = ["JLSEC-2026-201"]

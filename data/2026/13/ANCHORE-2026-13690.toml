@@ -51,3 +51,4 @@ allocated = 2026-03-12T06:15:05.613903Z
   oraclelinux = ["ELSA-2026-8093"]
   almalinux = ["ALSA-2026:8093"]
   photon = ["PHSA-2026-4.0-1003", "PHSA-2026-5.0-0830"]
+  ubuntu = ["USN-8198-1"]

@@ -10,3 +10,4 @@ allocated = 2025-10-15T14:15:41.014356Z
   suse = ["SUSE-SU-2019:2622-1"]
   opensuse = ["openSUSE-SU-2019:2306-1", "openSUSE-SU-2019:2319-1"]
   enisa = ["EUVD-2019-7574"]
+  ubuntu = ["USN-8206-1"]

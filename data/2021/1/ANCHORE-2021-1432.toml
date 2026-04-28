@@ -28,9 +28,11 @@ allocated = 2025-10-15T14:15:58.869088Z
   ]
   redhat = ["RHSA-2021:0079"]
   minimos = [
+    "MINI-45wf-rj4q-954c",
     "MINI-99pr-pcpc-28fv",
     "MINI-9gv3-q5w9-g939",
     "MINI-cg84-h9rw-qp9p",
+    "MINI-cvvg-wf97-99mr",
     "MINI-jq26-hqvx-4fhw",
     "MINI-m9fm-fx9q-p38x",
     "MINI-p3cx-827f-6cwx",

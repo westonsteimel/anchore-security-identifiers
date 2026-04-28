@@ -28,7 +28,7 @@ allocated = 2025-10-15T14:17:00.631983Z
     "SUSE-SU-2024:0307-1",
   ]
   opensuse = ["openSUSE-SU-2023:0409-1"]
-  ubuntu = ["USN-6526-1"]
+  ubuntu = ["USN-6526-1", "USN-8205-1"]
   openeuler = ["OESA-2023-1709", "openEuler-SA-2023-1709"]
   amazonlinux = ["ALAS2-2023-2298", "ALAS2-2025-2972"]
   oraclelinux = ["ELSA-2024-2287", "ELSA-2024-3060"]

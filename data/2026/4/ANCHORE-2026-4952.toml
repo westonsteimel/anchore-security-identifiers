@@ -72,3 +72,4 @@ allocated = 2026-01-28T11:40:52.945621Z
   photon = ["PHSA-2026-4.0-0952", "PHSA-2026-5.0-0747"]
   enisa = ["EUVD-2025-206397"]
   opensuse = ["openSUSE-SU-2026:10237-1", "openSUSE-SU-2026:20152-1"]
+  julia = ["JLSEC-2026-261"]
