@@ -8,16 +8,22 @@ allocated = 2026-04-14T04:50:44.472935Z
   gcve = ["GCVE-0-2026-39984"]
   enisa = ["EUVD-2026-22813"]
   minimos = [
+    "MINI-2384-758m-p59f",
     "MINI-2mqw-63cg-rqf9",
     "MINI-3j3p-w7hf-cp54",
     "MINI-3ppw-rwhx-wrc7",
+    "MINI-4xpc-367p-j2x5",
     "MINI-799p-7545-q7p5",
+    "MINI-7g28-6qff-7jm6",
+    "MINI-85hx-w2h2-297f",
     "MINI-89hr-v6f6-3954",
     "MINI-8g5j-gcr8-9c2w",
     "MINI-9gmr-7439-jj4f",
     "MINI-cj2p-3qhp-95x3",
     "MINI-j8x2-ghrv-6xq7",
     "MINI-jm99-79vh-9vg8",
+    "MINI-p2pp-cm64-m257",
+    "MINI-v2h5-h4mx-hjcj",
     "MINI-x85v-x273-q54x",
   ]
   chainguard = ["CGA-28r4-j7vp-3jr8"]

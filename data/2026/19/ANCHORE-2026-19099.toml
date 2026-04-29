@@ -9,4 +9,8 @@ allocated = 2026-04-02T04:41:50.245977Z
   enisa = ["EUVD-2026-18029"]
   chainguard = ["CGA-mm22-qhhm-h86g"]
   echo = ["ECHO-b104-18be-dba6"]
-  minimos = ["MINI-957m-98c7-jc6g", "MINI-f782-9f84-9w79"]
+  minimos = [
+    "MINI-957m-98c7-jc6g",
+    "MINI-f782-9f84-9w79",
+    "MINI-m2w3-4p63-xh5p",
+  ]

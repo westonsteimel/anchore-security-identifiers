@@ -7,3 +7,4 @@ allocated = 2026-04-24T04:54:55.200150Z
   gcve = ["GCVE-0-2026-41352"]
   enisa = ["EUVD-2026-25336"]
   github = ["GHSA-7vq9-42cc-33j4"]
+  cnvd = ["CNVD-2026-18601"]

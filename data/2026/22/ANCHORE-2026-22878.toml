@@ -9,4 +9,10 @@ allocated = 2026-04-16T04:53:33.918182Z
   gcve = ["GCVE-0-2026-40347"]
   enisa = ["EUVD-2026-23615"]
   opensuse = ["openSUSE-SU-2026:10597-1"]
-  minimos = ["MINI-9m84-ch59-pqh6", "MINI-p43r-67hv-fqx3"]
+  minimos = [
+    "MINI-98vm-gxc7-7vg7",
+    "MINI-9m84-ch59-pqh6",
+    "MINI-mhcg-w48q-qh79",
+    "MINI-p43r-67hv-fqx3",
+    "MINI-r27f-2fcg-x5mq",
+  ]

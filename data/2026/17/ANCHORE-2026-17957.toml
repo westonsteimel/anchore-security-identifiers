@@ -10,7 +10,9 @@ allocated = 2026-03-27T09:03:13.060925Z
   chainguard = ["CGA-x4r8-vhj2-jp3p"]
   go = ["GO-2026-4857"]
   minimos = [
+    "MINI-76c9-3fwh-w37g",
     "MINI-8659-hx2h-cvp8",
+    "MINI-8mx5-599r-j5v4",
     "MINI-9v4f-8hx3-c8gm",
     "MINI-h6qq-v6fr-5539",
     "MINI-hghj-gxrc-8mrx",

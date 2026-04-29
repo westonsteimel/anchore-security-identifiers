@@ -68,3 +68,4 @@ allocated = 2025-10-15T14:17:43.210248Z
   enisa = ["EUVD-2025-28946"]
   opensuse = ["openSUSE-SU-2025:20081-1"]
   redhat = ["RHSA-2026:8921", "RHSA-2026:9264"]
+  almalinux = ["ALSA-2026:8921", "ALSA-2026:9264"]

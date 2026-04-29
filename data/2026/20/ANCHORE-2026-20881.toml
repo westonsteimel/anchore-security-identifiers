@@ -7,3 +7,4 @@ allocated = 2026-04-08T13:30:10.578065Z
   cve = ["CVE-2026-41301"]
   gcve = ["GCVE-0-2026-41301"]
   enisa = ["EUVD-2026-24010"]
+  minimos = ["MINI-9445-x2fm-ff49"]

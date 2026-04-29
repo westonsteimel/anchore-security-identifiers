@@ -20,3 +20,10 @@ allocated = 2026-04-14T04:50:44.466176Z
     "openEuler-SA-2026-2065",
     "openEuler-SA-2026-2066",
   ]
+  ubuntu = ["USN-8211-1"]
+  minimos = [
+    "MINI-6gqq-hv5v-2xxg",
+    "MINI-7f9h-hc64-3gp2",
+    "MINI-qhfq-fq5m-w9rg",
+    "MINI-wj2w-5fhw-9vf3",
+  ]

@@ -12,3 +12,4 @@ allocated = 2026-04-22T04:50:27.329780Z
     "MINI-f36g-j5j3-x2c3",
     "MINI-x585-532w-xvrj",
   ]
+  cnvd = ["CNVD-2026-18570"]

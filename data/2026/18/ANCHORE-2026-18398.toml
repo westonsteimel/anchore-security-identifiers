@@ -7,5 +7,10 @@ allocated = 2026-03-30T10:07:20.368755Z
   cve = ["CVE-2026-34043"]
   gcve = ["GCVE-0-2026-34043"]
   enisa = ["EUVD-2026-17288"]
-  minimos = ["MINI-6g5g-23xw-jfpv", "MINI-j745-w622-9r4r"]
+  minimos = [
+    "MINI-6g5g-23xw-jfpv",
+    "MINI-96xg-4mmg-4mmx",
+    "MINI-9xx2-j2x5-9fq8",
+    "MINI-j745-w622-9r4r",
+  ]
   chainguard = ["CGA-2p7j-rwc3-5x9r"]

@@ -10,16 +10,23 @@ allocated = 2026-04-13T04:55:55.225420Z
   chainguard = ["CGA-jfgg-24j2-8jcc"]
   minimos = [
     "MINI-28rp-w5rw-j3fj",
+    "MINI-2p74-j755-fc4r",
     "MINI-386x-qf27-4268",
+    "MINI-3f92-66mg-v4pq",
+    "MINI-42mw-mr2x-q8mr",
     "MINI-59rw-jmfv-g7hg",
     "MINI-648w-qvhj-jmqf",
     "MINI-7c5r-qf3h-fxpp",
     "MINI-8cff-mhc4-wrh5",
+    "MINI-9mgh-f6qm-qfxp",
     "MINI-g8pp-89mj-2738",
     "MINI-h9g5-qh2j-fq8h",
+    "MINI-hrxq-qc52-rq8f",
     "MINI-m7rp-v6wr-hhpp",
     "MINI-mjfv-pjcg-5pgr",
     "MINI-pv49-5g8p-jxx5",
+    "MINI-v5f8-ph87-37g5",
     "MINI-vpw7-4m27-mhx9",
+    "MINI-wr35-4qpp-q237",
   ]
   opensuse = ["openSUSE-SU-2026:10544-1"]

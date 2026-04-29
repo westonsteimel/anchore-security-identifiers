@@ -9,7 +9,11 @@ allocated = 2026-04-23T04:52:46.510305Z
   gcve = ["GCVE-0-2026-41678"]
   enisa = ["EUVD-2026-25584"]
   minimos = [
+    "MINI-2363-5jmc-frgm",
+    "MINI-4r6p-2rqw-6v2w",
     "MINI-4xc4-w6pm-j9qm",
+    "MINI-58x9-8xhg-p8rq",
+    "MINI-5gcr-fr58-435p",
     "MINI-6qp9-6qrw-7vrq",
     "MINI-x2cq-8cpw-3j7p",
     "MINI-xw4c-mh5v-fg5m",

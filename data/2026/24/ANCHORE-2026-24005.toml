@@ -14,3 +14,5 @@ allocated = 2026-04-22T04:50:27.282739Z
     "RHSA-2026:9693",
   ]
   oraclelinux = ["ELSA-2026-9686", "ELSA-2026-9693"]
+  almalinux = ["ALSA-2026:9693"]
+  debian = ["DSA-6231-1"]

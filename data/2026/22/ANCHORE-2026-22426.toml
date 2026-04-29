@@ -11,7 +11,9 @@ allocated = 2026-04-15T04:49:36.665030Z
     "MINI-6mwj-qp5q-468g",
     "MINI-87xh-3qg5-gfx6",
     "MINI-chh9-fc8m-79gx",
+    "MINI-cwfv-gwx6-253f",
     "MINI-gxm7-89g9-wqfh",
+    "MINI-hmcf-jf65-4qvx",
     "MINI-r3rf-w5qc-qcj5",
   ]
   ubuntu = ["USN-8176-1"]
@@ -26,6 +28,9 @@ allocated = 2026-04-15T04:49:36.665030Z
     "RHSA-2026:8473",
     "RHSA-2026:8474",
     "RHSA-2026:8475",
+    "RHSA-2026:9077",
+    "RHSA-2026:9080",
+    "RHSA-2026:9205",
   ]
   almalinux = [
     "ALSA-2026:8468",

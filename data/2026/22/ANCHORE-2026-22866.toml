@@ -24,3 +24,4 @@ allocated = 2026-04-16T04:53:28.154111Z
   enisa = ["EUVD-2026-25231"]
   github = ["GHSA-5mqr-3465-c7p6"]
   redhat = ["RHSA-2026:10739"]
+  oraclelinux = ["ELSA-2026-10739"]

@@ -8,9 +8,11 @@ allocated = 2026-01-28T11:40:53.002694Z
   github = ["GHSA-34x7-hfp2-rc4v"]
   minimos = [
     "MINI-27cj-2277-vcqf",
+    "MINI-328c-g55r-hwc3",
     "MINI-3j67-pwmc-h66x",
     "MINI-6mqc-7538-w55r",
     "MINI-7354-wgf2-4whh",
+    "MINI-778q-r5fv-p9m9",
     "MINI-8g26-fp85-p3r5",
     "MINI-8x94-qqg3-j72p",
     "MINI-9rp5-4p8h-2xf8",

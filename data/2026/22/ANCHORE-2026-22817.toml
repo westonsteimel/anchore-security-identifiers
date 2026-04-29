@@ -17,3 +17,4 @@ allocated = 2026-04-16T04:53:27.816401Z
   ]
   fedora_epel = ["FEDORA-EPEL-2026-9ce82c1a41"]
   minimos = ["MINI-x68g-4g7r-f953"]
+  cnvd = ["CNVD-2026-17817"]

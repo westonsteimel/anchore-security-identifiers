@@ -11,8 +11,12 @@ allocated = 2026-04-16T04:53:27.700243Z
   opensuse = ["openSUSE-SU-2026:10571-1"]
   minimos = [
     "MINI-27c4-5h64-rrph",
+    "MINI-2p99-j43w-3f42",
+    "MINI-4p4m-mxq3-vwcr",
     "MINI-cvfq-c3rc-7m5p",
     "MINI-f64r-pc2v-49hg",
     "MINI-hr3h-c6r5-54hr",
     "MINI-j58v-9r28-688h",
+    "MINI-v5ch-vc52-77vr",
+    "MINI-xppv-c284-7vxf",
   ]

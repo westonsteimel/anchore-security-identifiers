@@ -11,8 +11,10 @@ allocated = 2026-04-15T04:49:36.601746Z
     "MINI-49qr-xr58-5q89",
     "MINI-58hx-vvgg-2wvh",
     "MINI-7wwv-6482-55r9",
+    "MINI-849f-9c5p-jj3h",
     "MINI-m3j3-2w32-ph94",
     "MINI-m668-vfh9-78jh",
+    "MINI-xg33-fw6w-8mvj",
   ]
   ubuntu = ["USN-8176-1"]
   chainguard = ["CGA-qq7f-cmwq-26wf"]
@@ -26,6 +28,9 @@ allocated = 2026-04-15T04:49:36.601746Z
     "RHSA-2026:8473",
     "RHSA-2026:8474",
     "RHSA-2026:8475",
+    "RHSA-2026:9077",
+    "RHSA-2026:9080",
+    "RHSA-2026:9205",
   ]
   almalinux = [
     "ALSA-2026:8468",

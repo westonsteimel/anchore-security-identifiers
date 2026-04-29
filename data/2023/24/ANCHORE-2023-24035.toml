@@ -37,3 +37,4 @@ allocated = 2025-10-15T14:16:46.680395Z
     "FEDORA-2023-e1c7fae02e",
   ]
   enisa = ["EUVD-2023-48166"]
+  julia = ["JLSEC-2026-287"]

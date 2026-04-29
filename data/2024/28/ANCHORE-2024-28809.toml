@@ -39,7 +39,11 @@ allocated = 2025-10-15T14:17:11.146281Z
   ]
   opensuse = ["openSUSE-SU-2025:14832-1"]
   ubuntu = ["USN-7435-1", "USN-7629-1", "USN-7629-2"]
-  minimos = ["MINI-r3mr-jgj7-wc5w", "MINI-x6m5-6wp7-25wq"]
+  minimos = [
+    "MINI-3244-8fgr-gfgm",
+    "MINI-r3mr-jgj7-wc5w",
+    "MINI-x6m5-6wp7-25wq",
+  ]
   openeuler = ["OESA-2025-1144", "openEuler-SA-2025-1144"]
   amazonlinux = ["ALAS2-2024-2693"]
   redhat = [

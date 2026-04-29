@@ -14,5 +14,5 @@ allocated = 2025-10-15T14:16:03.634468Z
   ]
   debian = ["DLA-3373-1"]
   ubuntu = ["USN-6011-1"]
-  minimos = ["MINI-jmm2-mfmr-6wm3"]
+  minimos = ["MINI-jmm2-mfmr-6wm3", "MINI-qhh6-p4hr-x8pp"]
   enisa = ["EUVD-2022-0980"]

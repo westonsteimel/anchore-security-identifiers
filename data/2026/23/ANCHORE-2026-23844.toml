@@ -8,7 +8,7 @@ allocated = 2026-04-22T04:50:27.082152Z
   enisa = ["EUVD-2026-24098"]
   github = ["GHSA-8mxf-8wh9-g5pv"]
   debian = ["DSA-6225-1", "DSA-6229-1"]
-  opensuse = ["openSUSE-SU-2026:10610-1"]
+  opensuse = ["openSUSE-SU-2026:10610-1", "openSUSE-SU-2026:10626-1"]
   openeuler = [
     "OESA-2026-2105",
     "OESA-2026-2106",
@@ -21,3 +21,5 @@ allocated = 2026-04-22T04:50:27.082152Z
     "openEuler-SA-2026-2108",
     "openEuler-SA-2026-2109",
   ]
+  chainguard = ["CGA-22m2-vg4g-6g69"]
+  redhat = ["RHSA-2026:10757", "RHSA-2026:10766", "RHSA-2026:10767"]

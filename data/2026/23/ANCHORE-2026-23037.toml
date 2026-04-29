@@ -7,9 +7,22 @@ allocated = 2026-04-17T04:52:19.318549Z
   rustsec = ["RUSTSEC-2026-0098"]
   chainguard = ["CGA-9hj3-5r6c-vmm9"]
   minimos = [
+    "MINI-24x4-jp8f-6cc2",
     "MINI-2cjj-pgjc-m4r6",
+    "MINI-2jm2-6jvm-p8mq",
+    "MINI-3w6w-47v2-7hf2",
+    "MINI-6356-fph4-9m77",
+    "MINI-6h7j-rj8w-m688",
+    "MINI-6v5m-48jc-2x4f",
     "MINI-82fg-qg27-q6mh",
     "MINI-836h-5x8q-2xvx",
+    "MINI-8855-m48x-p88v",
     "MINI-9735-2xr7-whhg",
+    "MINI-fhjc-vp82-hcwq",
+    "MINI-j9h8-x524-5r5q",
+    "MINI-jc8x-fh94-2fqq",
+    "MINI-m2pg-ww6r-qf3j",
+    "MINI-m4gm-935g-9hrw",
+    "MINI-mmcm-8wh4-w5r8",
     "MINI-xq4r-5238-jf9v",
   ]

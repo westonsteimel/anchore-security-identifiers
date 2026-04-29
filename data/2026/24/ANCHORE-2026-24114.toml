@@ -9,14 +9,20 @@ allocated = 2026-04-22T04:50:27.401506Z
   github = ["GHSA-57j5-qwp2-vqp6"]
   minimos = [
     "MINI-2vm4-ccq9-h7mm",
+    "MINI-78ph-vfw2-478p",
+    "MINI-7xv4-wjhr-659v",
+    "MINI-c6qc-58c7-285j",
     "MINI-cmc8-wj27-7qw3",
+    "MINI-cvm8-v5r3-c6x6",
     "MINI-g262-wvc7-8ch5",
     "MINI-gpfj-mm74-6gvc",
     "MINI-hjv2-4c5h-55xc",
     "MINI-j6rh-h8qp-qq88",
     "MINI-pcx5-4r3x-r8xc",
+    "MINI-pm8p-jrrw-4c3w",
     "MINI-pq4h-gh97-h3m3",
     "MINI-qvrx-3m25-9jc8",
     "MINI-rc89-6xwm-qcp9",
+    "MINI-rmhg-p38v-xxr6",
     "MINI-xcr3-wxxv-3fjh",
   ]

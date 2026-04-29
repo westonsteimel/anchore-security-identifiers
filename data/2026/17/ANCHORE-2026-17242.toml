@@ -10,8 +10,15 @@ allocated = 2026-03-26T10:48:00.348342Z
   chainguard = ["CGA-7h4q-9657-q3xx"]
   opensuse = ["openSUSE-SU-2026:10439-1", "openSUSE-SU-2026:20535-1"]
   minimos = [
+    "MINI-2x78-fmmh-wr2h",
+    "MINI-64c6-q5fh-wp2q",
+    "MINI-6hq6-c6cp-x6vm",
+    "MINI-94rx-3h4f-89q4",
     "MINI-f383-38rx-pvx2",
+    "MINI-fqfp-97gr-7f6j",
     "MINI-ph2w-cxxc-c2p2",
+    "MINI-rp8x-94rr-4xg9",
+    "MINI-rvv9-8f9c-gh88",
     "MINI-wj56-fq6h-h698",
   ]
   amazonlinux = ["ALAS2-2026-3233", "ALAS2023-2026-1545", "ALAS2023-2026-1581"]
