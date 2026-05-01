@@ -6,3 +6,4 @@ allocated = 2026-04-28T05:00:05.220016Z
   cve = ["CVE-2026-7040"]
   gcve = ["GCVE-0-2026-7040"]
   enisa = ["EUVD-2026-25833"]
+  cpan = ["CPANSA-Text-Minify-XS-2026-7040"]

@@ -263,6 +263,9 @@ allocated = 2026-04-03T04:42:33.501313Z
     "openSUSE-SU-2026:10630-1",
     "openSUSE-SU-2026:10631-1",
     "openSUSE-SU-2026:10651-1",
+    "openSUSE-SU-2026:10654-1",
+    "openSUSE-SU-2026:10655-1",
   ]
   redhat = ["RHSA-2026:10135"]
   oraclelinux = ["ELSA-2026-10135"]
+  almalinux = ["ALSA-2026:10135"]

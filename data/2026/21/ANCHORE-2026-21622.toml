@@ -48,3 +48,4 @@ allocated = 2026-04-13T04:55:55.326044Z
   ]
   opensuse = ["openSUSE-SU-2026:10647-1", "openSUSE-SU-2026:10648-1"]
   oraclelinux = ["ELSA-2026-10950"]
+  almalinux = ["ALSA-2026:10950"]

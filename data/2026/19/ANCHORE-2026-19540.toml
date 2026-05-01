@@ -23,3 +23,5 @@ allocated = 2026-04-03T04:42:27.310682Z
   opensuse = ["openSUSE-SU-2026:10652-1", "openSUSE-SU-2026:20540-1"]
   redhat = ["RHSA-2026:11389", "RHSA-2026:11509", "RHSA-2026:11510"]
   photon = ["PHSA-2026-5.0-0830"]
+  almalinux = ["ALSA-2026:11389", "ALSA-2026:11509", "ALSA-2026:11510"]
+  oraclelinux = ["ELSA-2026-11389", "ELSA-2026-11510"]

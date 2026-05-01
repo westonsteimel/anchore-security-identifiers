@@ -6,3 +6,4 @@ allocated = 2026-04-29T04:58:49.351123Z
   cve = ["CVE-2026-40560"]
   gcve = ["GCVE-0-2026-40560"]
   enisa = ["EUVD-2026-26189"]
+  cpan = ["CPANSA-Starman-2026-40560"]

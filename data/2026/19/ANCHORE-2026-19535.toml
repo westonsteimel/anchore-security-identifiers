@@ -32,3 +32,4 @@ allocated = 2026-04-03T04:42:26.992042Z
   ]
   redhat = ["RHSA-2026:10758", "RHSA-2026:11521"]
   oraclelinux = ["ELSA-2026-10758"]
+  almalinux = ["ALSA-2026:10758", "ALSA-2026:11521"]

@@ -7,3 +7,16 @@ allocated = 2026-04-23T04:52:39.729330Z
   gcve = ["GCVE-0-2026-22746"]
   enisa = ["EUVD-2026-24607"]
   github = ["GHSA-vxf7-qj7q-83fh"]
+  chainguard = ["CGA-qmvm-mr2p-7qf9"]
+  minimos = [
+    "MINI-2mp3-8cc9-6f6j",
+    "MINI-3h39-8gmw-m53v",
+    "MINI-64pw-gjh2-q8g5",
+    "MINI-7mcf-926p-hvx7",
+    "MINI-7p6v-j7w7-829w",
+    "MINI-9xh5-38jf-44x8",
+    "MINI-f2c9-x62v-384q",
+    "MINI-f7rr-7gw2-wrxh",
+    "MINI-jw8h-g94q-rmxf",
+    "MINI-xffh-48qc-hcpx",
+  ]

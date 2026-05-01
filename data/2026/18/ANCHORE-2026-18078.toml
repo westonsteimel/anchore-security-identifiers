@@ -8,5 +8,9 @@ allocated = 2026-03-27T09:03:18.247314Z
   gcve = ["GCVE-0-2026-33916"]
   enisa = ["EUVD-2026-16847"]
   chainguard = ["CGA-5q6v-px36-2cxq"]
-  minimos = ["MINI-cc3c-6j7m-82wp", "MINI-xr62-f2qr-427g"]
+  minimos = [
+    "MINI-cc3c-6j7m-82wp",
+    "MINI-xm59-6gcx-rc5g",
+    "MINI-xr62-f2qr-427g",
+  ]
   fedora = ["FEDORA-2026-ca43aa006f"]

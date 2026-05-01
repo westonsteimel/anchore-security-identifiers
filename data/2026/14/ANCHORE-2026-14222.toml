@@ -8,5 +8,5 @@ allocated = 2026-03-16T06:31:36.905340Z
   enisa = ["EUVD-2026-12065"]
   github = ["GHSA-qvfm-56cp-4988"]
   suse = ["SUSE-SU-2026:0930-1"]
-  opensuse = ["openSUSE-SU-2026:20374-1"]
+  opensuse = ["openSUSE-SU-2026:10657-1", "openSUSE-SU-2026:20374-1"]
   debian = ["DSA-6193-1"]

@@ -9,14 +9,15 @@ allocated = 2026-04-22T04:50:27.282739Z
   github = ["GHSA-hpm9-74qx-6x32"]
   redhat = [
     "RHSA-2026:11403",
+    "RHSA-2026:11655",
     "RHSA-2026:9254",
     "RHSA-2026:9686",
     "RHSA-2026:9689",
     "RHSA-2026:9693",
   ]
   oraclelinux = ["ELSA-2026-9686", "ELSA-2026-9689", "ELSA-2026-9693"]
-  almalinux = ["ALSA-2026:9693"]
-  debian = ["DSA-6231-1"]
+  almalinux = ["ALSA-2026:9686", "ALSA-2026:9689", "ALSA-2026:9693"]
+  debian = ["DSA-6231-1", "DSA-6237-1"]
   opensuse = [
     "openSUSE-SU-2026:10636-1",
     "openSUSE-SU-2026:10637-1",

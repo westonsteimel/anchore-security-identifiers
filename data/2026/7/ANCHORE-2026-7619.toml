@@ -12,3 +12,4 @@ allocated = 2026-02-11T07:03:29.295283Z
   enisa = ["EUVD-2026-5945"]
   opensuse = ["openSUSE-SU-2026:20323-1"]
   mageia = ["MGASA-2026-0065"]
+  ubuntu = ["USN-8223-1"]

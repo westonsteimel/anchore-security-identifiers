@@ -7,3 +7,4 @@ allocated = 2026-04-08T13:30:03.465162Z
   gcve = ["GCVE-0-2026-5082"]
   enisa = ["EUVD-2026-20060"]
   github = ["GHSA-gr8m-rq4x-q7c8"]
+  cpan = ["CPANSA-Amon2-Plugin-Web-CSRFDefender-2026-5082"]

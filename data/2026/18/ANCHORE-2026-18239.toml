@@ -8,4 +8,13 @@ allocated = 2026-03-30T10:07:18.123627Z
   enisa = ["EUVD-2026-16862"]
   github = ["GHSA-xjpj-3mr7-gcpf"]
   chainguard = ["CGA-c4xq-whv6-wpv8"]
-  minimos = ["MINI-75gp-g7mh-x45q", "MINI-cw5q-p3rx-fr3r"]
+  minimos = [
+    "MINI-5q7f-r999-mppr",
+    "MINI-6wjf-x49m-74mf",
+    "MINI-75gp-g7mh-x45q",
+    "MINI-7cvr-wgvg-725p",
+    "MINI-7hmh-68wh-j7hh",
+    "MINI-7qm3-f8q2-542c",
+    "MINI-857q-cq8m-8hx2",
+    "MINI-cw5q-p3rx-fr3r",
+  ]

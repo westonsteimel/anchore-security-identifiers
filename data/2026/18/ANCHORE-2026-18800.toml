@@ -13,6 +13,7 @@ allocated = 2026-04-01T09:47:09.065043Z
     "MINI-364q-q43v-5mpx",
     "MINI-4pj4-8f9x-m64g",
     "MINI-4ppf-pjv2-w5q8",
+    "MINI-5pqr-jr5v-4h3x",
     "MINI-9q3g-vpjv-w74g",
     "MINI-cf3v-8g9p-ccgg",
     "MINI-fmwq-mp8q-w74r",
@@ -50,3 +51,4 @@ allocated = 2026-04-01T09:47:09.065043Z
     "RHSA-2026:11516",
   ]
   oraclelinux = ["ELSA-2026-10710", "ELSA-2026-10713"]
+  almalinux = ["ALSA-2026:10710", "ALSA-2026:10713"]

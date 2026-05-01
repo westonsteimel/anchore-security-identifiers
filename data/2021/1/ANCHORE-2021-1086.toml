@@ -26,3 +26,4 @@ allocated = 2025-10-15T14:15:58.628140Z
   fedora = ["FEDORA-2021-9d65b22041"]
   fedora_epel = ["FEDORA-EPEL-2021-6eebad70ee"]
   enisa = ["EUVD-2020-6548"]
+  julia = ["JLSEC-2026-362"]

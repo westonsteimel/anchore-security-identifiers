@@ -1,0 +1,28 @@
+[security]
+id = "ANCHORE-2026-26113"
+allocated = 2026-05-01T05:10:47.639177Z
+
+  [security.aliases]
+  cve = ["CVE-2026-33190"]
+  gcve = ["GCVE-0-2026-33190"]
+  chainguard = ["CGA-vhv4-mm4h-98r2"]
+  minimos = [
+    "MINI-523p-mr57-3gm6",
+    "MINI-53rx-m6mw-pc48",
+    "MINI-683c-w5cx-jgm8",
+    "MINI-85jr-r69p-v69g",
+    "MINI-c56v-5w4w-4v83",
+    "MINI-cwqj-4c65-p376",
+    "MINI-ffx7-v6j3-h6q9",
+    "MINI-fwx6-8x5v-h2wg",
+    "MINI-g28v-c779-gmh7",
+    "MINI-g98w-h3qw-mf38",
+    "MINI-hj9v-4cjj-9gq9",
+    "MINI-hphx-rr3f-7cww",
+    "MINI-j37f-6vmp-536x",
+    "MINI-jw78-68jr-m896",
+    "MINI-p3v9-4v5p-h72q",
+    "MINI-v2pg-j5rp-hw7v",
+    "MINI-vvxr-rrj2-346c",
+    "MINI-w4x8-36wx-5qh2",
+  ]

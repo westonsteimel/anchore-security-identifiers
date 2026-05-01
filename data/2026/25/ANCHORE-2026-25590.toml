@@ -6,3 +6,4 @@ allocated = 2026-04-29T04:58:49.245950Z
   cve = ["CVE-2026-7321"]
   gcve = ["GCVE-0-2026-7321"]
   enisa = ["EUVD-2026-26058"]
+  debian = ["DSA-6236-1"]

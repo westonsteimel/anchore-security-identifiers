@@ -9,3 +9,4 @@ allocated = 2025-10-15T14:15:39.201193Z
   mageia = ["MGASA-2019-0420"]
   fedora = ["FEDORA-2019-d9c2f1ec70"]
   enisa = ["EUVD-2019-6248"]
+  ubuntu = ["USN-8223-1"]

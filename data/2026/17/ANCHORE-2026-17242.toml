@@ -12,15 +12,23 @@ allocated = 2026-03-26T10:48:00.348342Z
   minimos = [
     "MINI-2x78-fmmh-wr2h",
     "MINI-64c6-q5fh-wp2q",
+    "MINI-65pw-gff8-997v",
+    "MINI-6c43-q5m5-9g22",
     "MINI-6hq6-c6cp-x6vm",
     "MINI-94rx-3h4f-89q4",
+    "MINI-c66r-vfr9-c7pm",
     "MINI-f383-38rx-pvx2",
     "MINI-fqfp-97gr-7f6j",
     "MINI-hp58-977r-vrp6",
+    "MINI-j6mx-58pc-jqqg",
     "MINI-ph2w-cxxc-c2p2",
+    "MINI-pr6w-53qj-g8w2",
+    "MINI-q99r-fmv7-qj2g",
     "MINI-rp8x-94rr-4xg9",
     "MINI-rvv9-8f9c-gh88",
+    "MINI-wfwc-3p7x-rwwc",
     "MINI-wj56-fq6h-h698",
+    "MINI-xfj9-57r4-6729",
   ]
   amazonlinux = ["ALAS2-2026-3233", "ALAS2023-2026-1545", "ALAS2023-2026-1581"]
   suse = ["SUSE-SU-2026:1396-1", "SUSE-SU-2026:21194-1"]
